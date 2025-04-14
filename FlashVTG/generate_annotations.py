@@ -75,7 +75,9 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
 
         # 获取视频时长
         duration = video_length_map.get(video, 0)
-        vid = f"{video}_1_{duration}"
+        if duration % 2 != 0:
+            duration -= 1
+        vid = f"{video}_0.0_{duration}.0"
 
         key = (video, query)
 
@@ -91,26 +93,87 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
             }
             start_qid += 1
 
+        # 1) [20,25]=>[19,25] 其中cfff47c3从171-334 2) 判断奇偶 [19,25]=>[20,24]
+        if video == "cfff47c3":
+            start = start - 170 - 1
+            end = end - 170
+        elif video == "86a88668":
+            if start <= 70:
+                start -= 1
+
+            if start == 72:
+                start = 71 - 1
+            if end == 72:
+                end = 71
+
+            if start >= 89:
+                start = start - 17 - 1
+            if end >= 89:
+                end = end - 17
+        elif video == "af48b2f9":
+            if start <= 5:
+                start -= 1
+
+            if start == 8:
+                start = 6 - 1
+            if end == 8:
+                end = 6
+
+            if start >= 12:
+                start = start - 5 -1
+            if end >= 12:
+                end = end - 5
+        elif video == "2fb5a55b":
+            if start <= 13:
+                start -= 1
+
+            if start >= 15:
+                start = start - 1 - 1
+            if end >= 15:
+                end = end - 1
+        else:
+            start -= 1
+
+
+        if start % 2 != 0:
+            start += 1
+        if end % 2 != 0:
+            end -= 1
+
         processed[key]["relevant_windows"].append([start, end])
 
+    keys_to_remove = []
+    removed_count = 0
+
+    # print(processed)
     # 合并 relevant_windows 并重新计算 relevant_clip_ids
     for key, value in processed.items():
         value["relevant_windows"] = merge_windows(value["relevant_windows"])
+        # print(f"{key}\t{value['relevant_windows']}")
 
-        # 重新计算 relevant_clip_ids，按照 (1,2)->1, (3,4)->2, (5,6)->3 规则
-        # 重新计算 relevant_clip_ids，按照 (0,2)->0, (2,4)->1, (4,6)->2 规则
-        clip_ids = set()
-        for start, end in value["relevant_windows"]:
-            clip_start = (start - 1) // 2
-            clip_end = end // 2  # 使 end 不包含在范围内
-            if clip_start == clip_end:
-                clip_ids.add(clip_start)
-            else:
-                clip_ids.update(range(clip_start, clip_end))
+        windows = value["relevant_windows"]
+        # 只包含一个窗口，且是无效的 [x, x]
+        if len(windows) == 1 and windows[0][0] == windows[0][1]:
+            print(f"删除整个条目: {key}\t{windows}")
+            keys_to_remove.append(key)
+        else:
+            # 移除所有无效的 [x, x] 窗口
+            original_len = len(windows)
+            value["relevant_windows"] = [
+                w for w in windows if w[0] != w[1]
+            ]
+            if len(value["relevant_windows"]) < original_len:
+                print(f"清理无效窗口: {key}\t{windows} → {value['relevant_windows']}")
 
-        value["relevant_clip_ids"] = sorted(clip_ids)
-        value["saliency_scores"] = [[4, 4, 4]] * len(value["relevant_clip_ids"])
+    print('keys_to_remove: ', keys_to_remove)
+    # 删除整个条目
+    for key in keys_to_remove:
+        del processed[key]
+        removed_count += 1
 
+    print(f"\n共移除 {removed_count} 条无效条目。")
+
+    for key, value in processed.items():
         jsonl_lines.append(json.dumps(value, ensure_ascii=False))
 
     # 保存为 JSONL 文件
@@ -120,6 +183,54 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
     print(f"JSONL 文件已生成: {output_file}")
 
 generate_jsonl('generated_files/OVIS-training-filtered.json', '../OVIS/video_info_train.json',
-               'ovis_train_release.jsonl', 1)
+               'ovis_train_release_no_ids.jsonl', 1)
 generate_jsonl('generated_files/OVIS-valid-filtered.json', '../OVIS/video_info_valid.json',
-               'ovis_val_release.jsonl', 5095)
+               'ovis_val_release_no_ids.jsonl', 5095)
+
+def generate_clip_ids_and_scores(data):
+    relevant_clip_ids = []
+    saliency_scores = []
+
+    for window in data["relevant_windows"]:
+        start, end = window
+        # 计算clip_start和clip_end
+        clip_start = start // 2
+        clip_end = end // 2 - 1
+
+        # 生成relevant_clip_ids
+        clip_ids = list(range(clip_start, clip_end + 1))
+        relevant_clip_ids.extend(clip_ids)
+
+        # 生成saliency_scores，数量与clip_ids相同，每个为[4, 4, 4]
+        saliency_scores.extend([[4, 4, 4]] * len(clip_ids))
+
+    data["relevant_clip_ids"] = relevant_clip_ids
+    data["saliency_scores"] = saliency_scores
+
+    return data
+
+def process_jsonl(file_path, output_file):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    processed_data = []
+    for line in lines:
+        data = json.loads(line)
+        data = generate_clip_ids_and_scores(data)
+        processed_data.append(data)
+
+    count = 0
+    with open(output_file, 'w', encoding='utf-8') as f:
+        for item in processed_data:
+            f.write(json.dumps(item, ensure_ascii=False) + '\n')
+            if len(item["relevant_clip_ids"]) == 1:
+                count += 1
+                print(f"Length 1 found for qid {item['qid']} with relevant_clip_ids: {item['relevant_clip_ids']}")
+    print(f"总共有 {count} 个只有一个clip id, 说明query持续了2帧")
+
+    print(f"JSONL 文件已生成: {output_file}")
+
+    return processed_data
+
+processed_data = process_jsonl('ovis_train_release_no_ids.jsonl', 'ovis_train_release_V2.jsonl')
+processed_data = process_jsonl('ovis_val_release_no_ids.jsonl', 'ovis_val_release_V2.jsonl')

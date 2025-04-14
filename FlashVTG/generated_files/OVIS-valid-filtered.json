@@ -1,0 +1,7118 @@
+[
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit moves and starts eating",
+        "Start": "14",
+        "End": "23"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit stands in front of another rabbit",
+        "Start": "25",
+        "End": "49"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit bites the carrot",
+        "Start": "3",
+        "End": "15"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit looks up from the food",
+        "Start": "3",
+        "End": "23"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The lizard walks towards the camera and eats",
+        "Start": "37",
+        "End": "56"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit walks away from the food and disappears to the left side of the camera",
+        "Start": "11",
+        "End": "20"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit goes behind another rabbit",
+        "Start": "2",
+        "End": "8"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit jumps to the right and disappears to the right side of the camera",
+        "Start": "16",
+        "End": "20"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The turtle walks on the food",
+        "Start": "66",
+        "End": "72"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The chicken appears from the right side of the camera",
+        "Start": "74",
+        "End": "78"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit moves its paws down to the ground and hops to the right",
+        "Start": "3",
+        "End": "13"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit hops to the right",
+        "Start": "48",
+        "End": "53"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit hops to the left",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit turns to the right",
+        "Start": "13",
+        "End": "17"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit moves to the left",
+        "Start": "31",
+        "End": "36"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit starts walking from a still position",
+        "Start": "38",
+        "End": "43"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit turns around and looks behind",
+        "Start": "38",
+        "End": "40"
+    },
+    {
+        "Video": "fb4a7958",
+        "Language Query": "The giraffe straightens its neck",
+        "Start": "2",
+        "End": "9"
+    },
+    {
+        "Video": "fb4a7958",
+        "Language Query": "The giraffe bends its neck around another giraffe",
+        "Start": "16",
+        "End": "22"
+    },
+    {
+        "Video": "fb4a7958",
+        "Language Query": "The giraffe chews food",
+        "Start": "71",
+        "End": "74"
+    },
+    {
+        "Video": "fb57abac",
+        "Language Query": "The dog turns around and looks down at the object on the ground",
+        "Start": "3",
+        "End": "9"
+    },
+    {
+        "Video": "fb57abac",
+        "Language Query": "The dog stops walking and looks around",
+        "Start": "4",
+        "End": "60"
+    },
+    {
+        "Video": "fb57abac",
+        "Language Query": "The dog appears from the right and walks between other dogs",
+        "Start": "53",
+        "End": "60"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The car disappears from the right side of the frame",
+        "Start": "53",
+        "End": "56"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike disappears from the right side of the frame",
+        "Start": "57",
+        "End": "59"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person disappears from the right side of the frame",
+        "Start": "57",
+        "End": "59"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person disappears from the right side of the frame",
+        "Start": "29",
+        "End": "33"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike overtakes another bike",
+        "Start": "39",
+        "End": "53"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike speeds away from the other bikes",
+        "Start": "4",
+        "End": "72"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person speeds away from the other bikers",
+        "Start": "4",
+        "End": "72"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike disappears from the left side of the frame",
+        "Start": "36",
+        "End": "53"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person disappears from the left side of the frame",
+        "Start": "39",
+        "End": "49"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike disappears from the right side of the frame",
+        "Start": "17",
+        "End": "25"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person puts up his leg from the road on the bike",
+        "Start": "3",
+        "End": "9"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike gets covered by another bikers in front of the camera",
+        "Start": "32",
+        "End": "37"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish ascends upwards",
+        "Start": "41",
+        "End": "58"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish positions itself vertically as it looks down on the lower surface",
+        "Start": "21",
+        "End": "50"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish moves its tails swiftly and goes to the right",
+        "Start": "7",
+        "End": "23"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish positions itself in a straight from a diagonal position",
+        "Start": "1",
+        "End": "26"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish moves slowly towards the right",
+        "Start": "1",
+        "End": "56"
+    },
+    {
+        "Video": "f4b271d4",
+        "Language Query": "The zebra disappears from the frame to the right side of the camera",
+        "Start": "5",
+        "End": "8"
+    },
+    {
+        "Video": "f4b271d4",
+        "Language Query": "The zebra runs to the middle of the pool of water",
+        "Start": "15",
+        "End": "30"
+    },
+    {
+        "Video": "f4b271d4",
+        "Language Query": "The zebra turns around and walks towards the pool of water",
+        "Start": "27",
+        "End": "30"
+    },
+    {
+        "Video": "f4b271d4",
+        "Language Query": "The zebra moves its head up and turns in a circle",
+        "Start": "3",
+        "End": "15"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "The car disappears to the right side of the frame",
+        "Start": "4",
+        "End": "6"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "The car disappears to the right side of the frame",
+        "Start": "11",
+        "End": "14"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "The car disappears to the right side of the frame",
+        "Start": "16",
+        "End": "18"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "The car disappears to the right side of the frame",
+        "Start": "18",
+        "End": "20"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "The car disappears to the right side of the frame",
+        "Start": "25",
+        "End": "27"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "The car disappears to the right side of the frame",
+        "Start": "29",
+        "End": "32"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "The car disappears to the right side of the frame",
+        "Start": "34",
+        "End": "36"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "The car appears from the left side of the frame",
+        "Start": "30",
+        "End": "33"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker disappears from the right side of the frame",
+        "Start": "6",
+        "End": "8"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The bike disappears from the right side of the frame",
+        "Start": "6",
+        "End": "8"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker falls on the ground from a levitating position",
+        "Start": "1",
+        "End": "5"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The person looks behind",
+        "Start": "2",
+        "End": "18"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker jumps in the air with his bike",
+        "Start": "5",
+        "End": "10"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The bike jumps in the air",
+        "Start": "5",
+        "End": "10"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker jumps in the air with his bike",
+        "Start": "21",
+        "End": "26"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The bike jumps in the air",
+        "Start": "21",
+        "End": "26"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker jumps in the air with his bike",
+        "Start": "24",
+        "End": "29"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The bike jumps in the air",
+        "Start": "24",
+        "End": "29"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The horse turns from the left to the right",
+        "Start": "1",
+        "End": "12"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The horse walks behind another horse",
+        "Start": "10",
+        "End": "15"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The horse starts walking to the right",
+        "Start": "4",
+        "End": "16"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person walks the horse to the right",
+        "Start": "5",
+        "End": "16"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person moves the camera down from his face",
+        "Start": "4",
+        "End": "7"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person lowers his body a little bit from a standing position",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person watches the horses",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person hands something to another person",
+        "Start": "12",
+        "End": "20"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person runs and grabs a horse's body",
+        "Start": "30",
+        "End": "36"
+    },
+    {
+        "Video": "f10e23dd",
+        "Language Query": "The cat sits on the floor",
+        "Start": "1",
+        "End": "35"
+    },
+    {
+        "Video": "f10e23dd",
+        "Language Query": "The cat turns around and walks back",
+        "Start": "14",
+        "End": "26"
+    },
+    {
+        "Video": "f10e23dd",
+        "Language Query": "The cat lays down from a sitting position",
+        "Start": "10",
+        "End": "16"
+    },
+    {
+        "Video": "ec6fd219",
+        "Language Query": "The horse walks to the right slightly and faces away from the camera",
+        "Start": "6",
+        "End": "30"
+    },
+    {
+        "Video": "ec6fd219",
+        "Language Query": "The horse turns from the right to the left",
+        "Start": "13",
+        "End": "28"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle disappears to the right side of the frame",
+        "Start": "14",
+        "End": "21"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle takes a left turn",
+        "Start": "12",
+        "End": "37"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle turns around and moves away from the camera",
+        "Start": "3",
+        "End": "37"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle gets covered by the shadows of another turtle above",
+        "Start": "14",
+        "End": "31"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle appears from the left side of the frame",
+        "Start": "24",
+        "End": "37"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle sits on the floor below another turtle",
+        "Start": "1",
+        "End": "37"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The boat moves behind other boats",
+        "Start": "15",
+        "End": "21"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person moves behind other boats",
+        "Start": "16",
+        "End": "20"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The boat moves in front of other boats",
+        "Start": "6",
+        "End": "14"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person moves in front of other boats",
+        "Start": "6",
+        "End": "12"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The boat moves between other boats",
+        "Start": "17",
+        "End": "23"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person moves between other boats",
+        "Start": "19",
+        "End": "24"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The boat turns from the right to the left",
+        "Start": "18",
+        "End": "30"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person turns the boat from the right to the left",
+        "Start": "18",
+        "End": "30"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The boat turns from the right to the left",
+        "Start": "9",
+        "End": "25"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person turns the boat from the right to the left",
+        "Start": "9",
+        "End": "25"
+    },
+    {
+        "Video": "ebd1dbad",
+        "Language Query": "The turtle turns around and faces towards the direction of the camera",
+        "Start": "30",
+        "End": "56"
+    },
+    {
+        "Video": "ebd1dbad",
+        "Language Query": "The turtle moves away from the camera",
+        "Start": "43",
+        "End": "72"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The panda lays down on the ground from a seated position",
+        "Start": "63",
+        "End": "97"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The person puts a cloth near the face of the panda",
+        "Start": "8",
+        "End": "16"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The person grabs the arm of the panda with her hand",
+        "Start": "36",
+        "End": "55"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The panda follows the person with cloth",
+        "Start": "67",
+        "End": "95"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The panda appears from the left side of the frame",
+        "Start": "82",
+        "End": "86"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The person appears from the left side of the frame",
+        "Start": "77",
+        "End": "81"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The person appears from the right side of the frame",
+        "Start": "107",
+        "End": "113"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The panda appears from the right side of the frame",
+        "Start": "111",
+        "End": "113"
+    },
+    {
+        "Video": "e568ca41",
+        "Language Query": "The lion stands up from a seated position",
+        "Start": "11",
+        "End": "31"
+    },
+    {
+        "Video": "e568ca41",
+        "Language Query": "The zebra pushes the lion with its head",
+        "Start": "41",
+        "End": "55"
+    },
+    {
+        "Video": "e568ca41",
+        "Language Query": "The zebra escapes from the jaws of the lion",
+        "Start": "89",
+        "End": "95"
+    },
+    {
+        "Video": "e3d901dd",
+        "Language Query": "The boat moves in a circle around a yellow object on the sea",
+        "Start": "1",
+        "End": "45"
+    },
+    {
+        "Video": "e3d901dd",
+        "Language Query": "The person moves in a circle around a yellow object on the sea",
+        "Start": "1",
+        "End": "45"
+    },
+    {
+        "Video": "d50fa72e",
+        "Language Query": "The fish turns from the left to the right",
+        "Start": "11",
+        "End": "38"
+    },
+    {
+        "Video": "d50fa72e",
+        "Language Query": "The fish swims slightly to the right",
+        "Start": "77",
+        "End": "94"
+    },
+    {
+        "Video": "e0a22a9b",
+        "Language Query": "The cycle makes a u-turn",
+        "Start": "6",
+        "End": "32"
+    },
+    {
+        "Video": "e0a22a9b",
+        "Language Query": "The boy makes a u-turn with the cycle",
+        "Start": "6",
+        "End": "32"
+    },
+    {
+        "Video": "e0a22a9b",
+        "Language Query": "The boy turns around from the left to the right",
+        "Start": "4",
+        "End": "21"
+    },
+    {
+        "Video": "e0a22a9b",
+        "Language Query": "The person gets covered for a bit behind the boy",
+        "Start": "4",
+        "End": "7"
+    },
+    {
+        "Video": "d4f4cf55",
+        "Language Query": "The zebra gets up from the water container to the ground",
+        "Start": "10",
+        "End": "18"
+    },
+    {
+        "Video": "d4f4cf55",
+        "Language Query": "The zebra turns around and walks away from the water container",
+        "Start": "24",
+        "End": "44"
+    },
+    {
+        "Video": "d4f4cf55",
+        "Language Query": "The zebra is pushed into the surface that contains water",
+        "Start": "66",
+        "End": "73"
+    },
+    {
+        "Video": "d4f4cf55",
+        "Language Query": "The zebra turns around from the left to the right",
+        "Start": "70",
+        "End": "85"
+    },
+    {
+        "Video": "d501f685",
+        "Language Query": "The zebra kick the gate and turns to the right",
+        "Start": "5",
+        "End": "10"
+    },
+    {
+        "Video": "d501f685",
+        "Language Query": "The zebra turns around and faces away from the gate",
+        "Start": "10",
+        "End": "23"
+    },
+    {
+        "Video": "d501f685",
+        "Language Query": "The zebra walks across the face of the gate",
+        "Start": "3",
+        "End": "17"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "The bird turns to the left",
+        "Start": "22",
+        "End": "29"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "The bird looks to the right",
+        "Start": "17",
+        "End": "25"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "The bird flies towards the camera",
+        "Start": "31",
+        "End": "36"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "The bird jumps up to a higher platform",
+        "Start": "14",
+        "End": "19"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "The bird looks to its right and left",
+        "Start": "70",
+        "End": "82"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "The bird turns around and looks away from the camera",
+        "Start": "5",
+        "End": "15"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "The bird looks slightly to its left",
+        "Start": "6",
+        "End": "42"
+    },
+    {
+        "Video": "d3ba30b3",
+        "Language Query": "The panda falls on its back",
+        "Start": "14",
+        "End": "25"
+    },
+    {
+        "Video": "d3ba30b3",
+        "Language Query": "The panda pushes another panda to the ground",
+        "Start": "17",
+        "End": "26"
+    },
+    {
+        "Video": "d3ba30b3",
+        "Language Query": "The panda scratches its face with its paws",
+        "Start": "53",
+        "End": "60"
+    },
+    {
+        "Video": "d33e1c97",
+        "Language Query": "The fish rotates and faces the opposite direction",
+        "Start": "21",
+        "End": "40"
+    },
+    {
+        "Video": "d33e1c97",
+        "Language Query": "The fish rotates and faces the opposite direction",
+        "Start": "15",
+        "End": "27"
+    },
+    {
+        "Video": "d33e1c97",
+        "Language Query": "The fish rotates and faces the opposite direction",
+        "Start": "2",
+        "End": "16"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra walks away from the camera",
+        "Start": "38",
+        "End": "51"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra moves its head to the left on the grass",
+        "Start": "24",
+        "End": "45"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra takes a slight turn to the right",
+        "Start": "37",
+        "End": "48"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra disappears from the frame to the left side of the camera",
+        "Start": "3",
+        "End": "18"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra rotates its body and faces left",
+        "Start": "37",
+        "End": "51"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck turns around and walks to the right",
+        "Start": "11",
+        "End": "48"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck turns around and faces right",
+        "Start": "23",
+        "End": "48"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck walks away from the camera and turns to the left",
+        "Start": "4",
+        "End": "48"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck starts walking",
+        "Start": "38",
+        "End": "48"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck turns around and walks to the right",
+        "Start": "30",
+        "End": "48"
+    },
+    {
+        "Video": "d084134f",
+        "Language Query": "The horse walks behind another horse",
+        "Start": "8",
+        "End": "28"
+    },
+    {
+        "Video": "d084134f",
+        "Language Query": "The horse rotates its body slightly to the left",
+        "Start": "45",
+        "End": "64"
+    },
+    {
+        "Video": "cfff47c3",
+        "Language Query": "The cat turns around and walks away from the camera",
+        "Start": "177",
+        "End": "215"
+    },
+    {
+        "Video": "cfff47c3",
+        "Language Query": "The cat licks its leg",
+        "Start": "193",
+        "End": "226"
+    },
+    {
+        "Video": "cfff47c3",
+        "Language Query": "The cat turns around and looks back",
+        "Start": "237",
+        "End": "263"
+    },
+    {
+        "Video": "caf53839",
+        "Language Query": "The dog stands up from a lied down position",
+        "Start": "3",
+        "End": "11"
+    },
+    {
+        "Video": "caf53839",
+        "Language Query": "The dog pushes another dog with its head",
+        "Start": "24",
+        "End": "29"
+    },
+    {
+        "Video": "cfe04aff",
+        "Language Query": "The person disappears from the frame",
+        "Start": "3",
+        "End": "5"
+    },
+    {
+        "Video": "cfe04aff",
+        "Language Query": "The cow moves to the right",
+        "Start": "1",
+        "End": "11"
+    },
+    {
+        "Video": "cfe04aff",
+        "Language Query": "The cow moves to the left",
+        "Start": "1",
+        "End": "11"
+    },
+    {
+        "Video": "c9dfbd0c",
+        "Language Query": "The panda stands down on 4 legs",
+        "Start": "48",
+        "End": "54"
+    },
+    {
+        "Video": "c9dfbd0c",
+        "Language Query": "The panda engages in a fight with another panda",
+        "Start": "1",
+        "End": "44"
+    },
+    {
+        "Video": "ca440c64",
+        "Language Query": "The ship remains still on the water",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "ca440c64",
+        "Language Query": "The boat slightly changes its direction to the right",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "ca440c64",
+        "Language Query": "The person looks down from the edge of the ship",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "ca440c64",
+        "Language Query": "The person walks away from the edge of the boat",
+        "Start": "12",
+        "End": "19"
+    },
+    {
+        "Video": "c9a2645e",
+        "Language Query": "The tiger moves down its head to the ground",
+        "Start": "27",
+        "End": "35"
+    },
+    {
+        "Video": "c9a2645e",
+        "Language Query": "The tiger pushes another tiger to the ground",
+        "Start": "28",
+        "End": "34"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The bus disappears from the frame to the right",
+        "Start": "2",
+        "End": "8"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The car disappears from the frame to the right",
+        "Start": "6",
+        "End": "8"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The car disappears from the frame to the right",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The person disappears behind a box as she walks",
+        "Start": "11",
+        "End": "14"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The person disappears behind a car",
+        "Start": "22",
+        "End": "24"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The person disappears behind a car",
+        "Start": "23",
+        "End": "27"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The car disappears from the frame to the right",
+        "Start": "20",
+        "End": "25"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The car disappears from the frame to the right",
+        "Start": "27",
+        "End": "32"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The person disappears behind a car",
+        "Start": "24",
+        "End": "27"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The car disappears behind another car",
+        "Start": "24",
+        "End": "26"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The car disappears behind another car",
+        "Start": "26",
+        "End": "28"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The bus appears from the left side of the frame",
+        "Start": "28",
+        "End": "33"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The car appears from the left side of the frame",
+        "Start": "27",
+        "End": "32"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person disappears from the right side of the frame",
+        "Start": "14",
+        "End": "16"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person overtakes other cycles",
+        "Start": "23",
+        "End": "45"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle overtakes other cycles",
+        "Start": "23",
+        "End": "45"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle gets blocked from the view by another cyclist",
+        "Start": "3",
+        "End": "22"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person gets blocked from the view by another cyclist",
+        "Start": "3",
+        "End": "20"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle gets blocked from the view by another cyclist",
+        "Start": "5",
+        "End": "24"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person gets blocked from the view by another cyclist",
+        "Start": "5",
+        "End": "24"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person overtakes other cycles",
+        "Start": "44",
+        "End": "60"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle overtakes other cycles",
+        "Start": "44",
+        "End": "60"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person overtakes other cycles",
+        "Start": "42",
+        "End": "56"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle overtakes other cycles",
+        "Start": "42",
+        "End": "56"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person on the bicycle looks from his right to front",
+        "Start": "34",
+        "End": "37"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle goes past other cycles",
+        "Start": "29",
+        "End": "45"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person appears from the left side of the frame",
+        "Start": "55",
+        "End": "58"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle appears from the left side of the frame",
+        "Start": "55",
+        "End": "59"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cyclist goes past other cycles",
+        "Start": "47",
+        "End": "60"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle goes past other cycles",
+        "Start": "47",
+        "End": "60"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The person moves in a circle",
+        "Start": "1",
+        "End": "98"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The cycle moves in a circle",
+        "Start": "1",
+        "End": "98"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The car is still in the side of the road",
+        "Start": "1",
+        "End": "131"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The person turns around and walks towards the camera",
+        "Start": "57",
+        "End": "116"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The person turns around and moves towards the camera",
+        "Start": "57",
+        "End": "116"
+    },
+    {
+        "Video": "c705c014",
+        "Language Query": "The cow stops walking",
+        "Start": "49",
+        "End": "81"
+    },
+    {
+        "Video": "c705c014",
+        "Language Query": "The cow starts eating the leaves",
+        "Start": "34",
+        "End": "86"
+    },
+    {
+        "Video": "c4fd77f2",
+        "Language Query": "The tiger walks behind another tiger",
+        "Start": "41",
+        "End": "72"
+    },
+    {
+        "Video": "c4fd77f2",
+        "Language Query": "The tiger walks towards another tiger",
+        "Start": "25",
+        "End": "72"
+    },
+    {
+        "Video": "c4fd77f2",
+        "Language Query": "The tiger appears from the upper side of the frame",
+        "Start": "5",
+        "End": "37"
+    },
+    {
+        "Video": "c4fd77f2",
+        "Language Query": "The tiger appears from the upper side of the frame",
+        "Start": "6",
+        "End": "56"
+    },
+    {
+        "Video": "c587e43b",
+        "Language Query": "The lizard turns to the left",
+        "Start": "2",
+        "End": "16"
+    },
+    {
+        "Video": "c587e43b",
+        "Language Query": "The person's hand disappears from the left",
+        "Start": "10",
+        "End": "15"
+    },
+    {
+        "Video": "c4ecad66",
+        "Language Query": "The elephant walks under the trunk of another elephant",
+        "Start": "100",
+        "End": "121"
+    },
+    {
+        "Video": "c4ecad66",
+        "Language Query": "The elephant walks backwards",
+        "Start": "1",
+        "End": "38"
+    },
+    {
+        "Video": "c4ecad66",
+        "Language Query": "The elephant straightens its trunk across the face of another elephant",
+        "Start": "30",
+        "End": "35"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish swims out from behind the rock",
+        "Start": "1",
+        "End": "20"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish turns to the right",
+        "Start": "19",
+        "End": "44"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish swims downwards",
+        "Start": "2",
+        "End": "25"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish slowly descends",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish swims up from between a rock and platform",
+        "Start": "12",
+        "End": "21"
+    },
+    {
+        "Video": "ba5644c3",
+        "Language Query": "The cows slips and sits on the ground",
+        "Start": "40",
+        "End": "46"
+    },
+    {
+        "Video": "ba5644c3",
+        "Language Query": "The cow turns to the right and looks away from the camera",
+        "Start": "4",
+        "End": "35"
+    },
+    {
+        "Video": "ba5644c3",
+        "Language Query": "The cow walks starts walking",
+        "Start": "38",
+        "End": "47"
+    },
+    {
+        "Video": "bd34e772",
+        "Language Query": "The lizard looks down on the food bowl",
+        "Start": "4",
+        "End": "9"
+    },
+    {
+        "Video": "bd34e772",
+        "Language Query": "The lizard leans forward into the food bowl",
+        "Start": "1",
+        "End": "4"
+    },
+    {
+        "Video": "c29ce49d",
+        "Language Query": "The dog stands up from a lied down position",
+        "Start": "3",
+        "End": "11"
+    },
+    {
+        "Video": "c29ce49d",
+        "Language Query": "The dog jumps on another dog",
+        "Start": "5",
+        "End": "9"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horse overtakes other horses",
+        "Start": "1",
+        "End": "25"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horseman overtakes other horsemen",
+        "Start": "1",
+        "End": "25"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horse disappears from the right side of the frame",
+        "Start": "22",
+        "End": "24"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horseman disappears from the right side of the frame",
+        "Start": "23",
+        "End": "24"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horse gets blocked from the view by another horseman",
+        "Start": "8",
+        "End": "11"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horseman gets blocked from the view by another horseman",
+        "Start": "8",
+        "End": "11"
+    },
+    {
+        "Video": "b8e00b22",
+        "Language Query": "The horse collides with another horse",
+        "Start": "3",
+        "End": "7"
+    },
+    {
+        "Video": "b8e00b22",
+        "Language Query": "The horse stands on its two back legs",
+        "Start": "6",
+        "End": "10"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish turns from the right to the left",
+        "Start": "33",
+        "End": "48"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish swims to the surface of the water",
+        "Start": "15",
+        "End": "35"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish turns from the right to the left",
+        "Start": "23",
+        "End": "34"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish swims away from the camera",
+        "Start": "56",
+        "End": "68"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish turns from the right to the left",
+        "Start": "85",
+        "End": "106"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish turns from the right to the left",
+        "Start": "92",
+        "End": "104"
+    },
+    {
+        "Video": "b7b9f632",
+        "Language Query": "The fish swims to the surface of the water",
+        "Start": "7",
+        "End": "19"
+    },
+    {
+        "Video": "b7b9f632",
+        "Language Query": "The fish ascends upwards",
+        "Start": "9",
+        "End": "22"
+    },
+    {
+        "Video": "b7b9f632",
+        "Language Query": "The fish turns from the right to the left",
+        "Start": "20",
+        "End": "28"
+    },
+    {
+        "Video": "b692e3cb",
+        "Language Query": "The dog starts walking to the left",
+        "Start": "15",
+        "End": "27"
+    },
+    {
+        "Video": "b692e3cb",
+        "Language Query": "The dog jumps at another dog",
+        "Start": "26",
+        "End": "29"
+    },
+    {
+        "Video": "b692e3cb",
+        "Language Query": "The dog walks backwards",
+        "Start": "27",
+        "End": "32"
+    },
+    {
+        "Video": "b643add8",
+        "Language Query": "The person rotates in a circle",
+        "Start": "1",
+        "End": "42"
+    },
+    {
+        "Video": "b643add8",
+        "Language Query": "The bike rotates on its back tire in a standing position",
+        "Start": "1",
+        "End": "42"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant stops walking",
+        "Start": "120",
+        "End": "170"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant raises its front legs on the body of another elephant",
+        "Start": "143",
+        "End": "173"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant raises its front legs on the body of another elephant",
+        "Start": "143",
+        "End": "170"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant raises its front legs on the body of another elephant",
+        "Start": "151",
+        "End": "173"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant raises its front legs on the body of another elephant",
+        "Start": "156",
+        "End": "172"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The person sits down on the ground",
+        "Start": "219",
+        "End": "229"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The person sits down on the ground",
+        "Start": "215",
+        "End": "224"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The person sits down on the ground",
+        "Start": "210",
+        "End": "226"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The person sits down on the ground",
+        "Start": "214",
+        "End": "227"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "The car takes a right turn",
+        "Start": "13",
+        "End": "30"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "The car takes a right turn",
+        "Start": "40",
+        "End": "63"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "The car takes a right turn",
+        "Start": "53",
+        "End": "66"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "The car disappears behind another car",
+        "Start": "50",
+        "End": "55"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "The car disappears from the frame to the right",
+        "Start": "14",
+        "End": "19"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "The car disappears behind another car",
+        "Start": "33",
+        "End": "37"
+    },
+    {
+        "Video": "aaa8bd16",
+        "Language Query": "The panda jumps on another panda",
+        "Start": "8",
+        "End": "14"
+    },
+    {
+        "Video": "aaa8bd16",
+        "Language Query": "The panda throws another panda off of its body",
+        "Start": "23",
+        "End": "27"
+    },
+    {
+        "Video": "aa925437",
+        "Language Query": "The cat looks towards the camera",
+        "Start": "73",
+        "End": "77"
+    },
+    {
+        "Video": "aa925437",
+        "Language Query": "The cat grabs the toy with its paw",
+        "Start": "52",
+        "End": "67"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat moves its mouth to the right and bites food",
+        "Start": "16",
+        "End": "30"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat walks towards the food near the steel bars",
+        "Start": "4",
+        "End": "30"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat brings its head out between the steel bars",
+        "Start": "27",
+        "End": "36"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat turns around and walks back",
+        "Start": "9",
+        "End": "33"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat moves its head away to the left",
+        "Start": "30",
+        "End": "36"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra disappears from the frame to the left side of the camera",
+        "Start": "1",
+        "End": "5"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra disappears from the frame to the left side of the camera",
+        "Start": "6",
+        "End": "13"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra disappears from the frame to the left side of the camera",
+        "Start": "12",
+        "End": "20"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra takes a slight step to the left",
+        "Start": "15",
+        "End": "20"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra disappears from the frame to the left side of the camera",
+        "Start": "17",
+        "End": "23"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra makes a swift leap",
+        "Start": "20",
+        "End": "24"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra walks to the left",
+        "Start": "21",
+        "End": "28"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The cow appears from the right side of the frame",
+        "Start": "19",
+        "End": "24"
+    },
+    {
+        "Video": "a42fcfa9",
+        "Language Query": "The cat bites at the hand",
+        "Start": "19",
+        "End": "36"
+    },
+    {
+        "Video": "a42fcfa9",
+        "Language Query": "The hand rises up to the face of the cat",
+        "Start": "11",
+        "End": "21"
+    },
+    {
+        "Video": "a74b52eb",
+        "Language Query": "The plane changes direction to the left",
+        "Start": "19",
+        "End": "45"
+    },
+    {
+        "Video": "a5249886",
+        "Language Query": "The bird moves slightly to the left",
+        "Start": "4",
+        "End": "23"
+    },
+    {
+        "Video": "a5249886",
+        "Language Query": "The bird leans its mouth down on a food bowl",
+        "Start": "5",
+        "End": "9"
+    },
+    {
+        "Video": "a5249886",
+        "Language Query": "The bird looks down on the food bow",
+        "Start": "8",
+        "End": "14"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit disappears to the left side of the frame",
+        "Start": "1",
+        "End": "6"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit starts walking from a seated position",
+        "Start": "8",
+        "End": "15"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit turns around and walks towards the red bowl",
+        "Start": "12",
+        "End": "21"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit walks underneath other rabbits",
+        "Start": "7",
+        "End": "26"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit moves its head from the right to the left",
+        "Start": "18",
+        "End": "30"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit brings down its head from the top of the cage",
+        "Start": "3",
+        "End": "11"
+    },
+    {
+        "Video": "a16e9661",
+        "Language Query": "The bull moves to the right",
+        "Start": "16",
+        "End": "30"
+    },
+    {
+        "Video": "a16e9661",
+        "Language Query": "The bull moves to the left",
+        "Start": "16",
+        "End": "30"
+    },
+    {
+        "Video": "9069547d",
+        "Language Query": "The bird hops on another bird",
+        "Start": "40",
+        "End": "42"
+    },
+    {
+        "Video": "9069547d",
+        "Language Query": "The bird walks around another bird",
+        "Start": "6",
+        "End": "18"
+    },
+    {
+        "Video": "95718597",
+        "Language Query": "The bear moves around the tree",
+        "Start": "21",
+        "End": "48"
+    },
+    {
+        "Video": "69398c01",
+        "Language Query": "The cat attacks another cat",
+        "Start": "24",
+        "End": "54"
+    },
+    {
+        "Video": "69398c01",
+        "Language Query": "The cat is being rolled over by another cat",
+        "Start": "26",
+        "End": "31"
+    },
+    {
+        "Video": "817263d6",
+        "Language Query": "The boat moves sideways to the left and straightens itself",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "817263d6",
+        "Language Query": "The ships falls on the water from an elevated surface",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "817263d6",
+        "Language Query": "The boat moves sideways to the right and straightens itself",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey walks away from the box",
+        "Start": "3",
+        "End": "26"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey grabs a yellow object",
+        "Start": "8",
+        "End": "16"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey puts a yellow object in its mouth",
+        "Start": "18",
+        "End": "22"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey takes an object from the box",
+        "Start": "17",
+        "End": "21"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey disappears from the frame to the right side of the camera",
+        "Start": "43",
+        "End": "45"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey grabs a yellow object and puts it in its mouth",
+        "Start": "53",
+        "End": "66"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey stands by the edge of the box and looks at the contents in it",
+        "Start": "59",
+        "End": "66"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey appears from behind another monkey",
+        "Start": "65",
+        "End": "66"
+    },
+    {
+        "Video": "30446667",
+        "Language Query": "The bike leans from the left to the right",
+        "Start": "16",
+        "End": "33"
+    },
+    {
+        "Video": "30446667",
+        "Language Query": "The biker leans from the left to the right",
+        "Start": "16",
+        "End": "33"
+    },
+    {
+        "Video": "30446667",
+        "Language Query": "The bike overtakes another bike",
+        "Start": "48",
+        "End": "56"
+    },
+    {
+        "Video": "30446667",
+        "Language Query": "The biker overtakes another biker",
+        "Start": "48",
+        "End": "56"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep stands still",
+        "Start": "15",
+        "End": "31"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep starts walking",
+        "Start": "53",
+        "End": "65"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep stands still",
+        "Start": "7",
+        "End": "35"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep turns to the left",
+        "Start": "48",
+        "End": "63"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep stands still",
+        "Start": "15",
+        "End": "37"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep stands still",
+        "Start": "14",
+        "End": "52"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep appears in the frame from the right side of the camera",
+        "Start": "57",
+        "End": "61"
+    },
+    {
+        "Video": "1a4b95d3",
+        "Language Query": "Panda is going to climb a tree",
+        "Start": "17",
+        "End": "23"
+    },
+    {
+        "Video": "1a4b95d3",
+        "Language Query": "Panda is going to climb a tree",
+        "Start": "17",
+        "End": "29"
+    },
+    {
+        "Video": "1a4b95d3",
+        "Language Query": "Panda remains in the same position and refrains for going towards the tree",
+        "Start": "1",
+        "End": "23"
+    },
+    {
+        "Video": "1aa4e7f6",
+        "Language Query": "Dog is walking towards the opposite of the camera",
+        "Start": "23",
+        "End": "35"
+    },
+    {
+        "Video": "1aa4e7f6",
+        "Language Query": "Dog remains in the same position and refrains from walking",
+        "Start": "1",
+        "End": "35"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "Horse is walking towards the left side",
+        "Start": "1",
+        "End": "42"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "Horse is walking towards the left side",
+        "Start": "35",
+        "End": "42"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "Horse starts to walk towards the left side",
+        "Start": "40",
+        "End": "42"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "Horse is circling around a person",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "Person is giving commands to the horse",
+        "Start": "1",
+        "End": "16"
+    },
+    {
+        "Video": "1ef6cb7b",
+        "Language Query": "Bird is flying towards the right side",
+        "Start": "30",
+        "End": "32"
+    },
+    {
+        "Video": "1ef6cb7b",
+        "Language Query": "Bird is flying towards the right side",
+        "Start": "54",
+        "End": "57"
+    },
+    {
+        "Video": "1ef6cb7b",
+        "Language Query": "Bird is flying towards the right side",
+        "Start": "80",
+        "End": "82"
+    },
+    {
+        "Video": "1ef6cb7b",
+        "Language Query": "Bird is flying towards the right side",
+        "Start": "47",
+        "End": "49"
+    },
+    {
+        "Video": "1ef6cb7b",
+        "Language Query": "Bird refrains from flying",
+        "Start": "1",
+        "End": "85"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "Goat is going to the railing",
+        "Start": "1",
+        "End": "15"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "Goat is going to the railing",
+        "Start": "1",
+        "End": "11"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "Goat is walking towards the camera",
+        "Start": "1",
+        "End": "10"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "Goat is walking towards the camera",
+        "Start": "1",
+        "End": "16"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "Goat is walking towards the camera",
+        "Start": "1",
+        "End": "17"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "Goat is looking towards left side",
+        "Start": "9",
+        "End": "29"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "Goat is looking towards left side",
+        "Start": "7",
+        "End": "35"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is going inside of the food container from floor",
+        "Start": "22",
+        "End": "25"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is going inside of the food container from floor",
+        "Start": "16",
+        "End": "32"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is going inside of the food container from floor",
+        "Start": "57",
+        "End": "59"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is going inside of the food container from floor",
+        "Start": "76",
+        "End": "85"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is disturbing other birds",
+        "Start": "3",
+        "End": "10"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is disturbing other birds",
+        "Start": "25",
+        "End": "51"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is disturbing other birds",
+        "Start": "79",
+        "End": "87"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is circling around the food container",
+        "Start": "1",
+        "End": "87"
+    },
+    {
+        "Video": "7223bf62",
+        "Language Query": "Bunny is sniffing on the bed sheet",
+        "Start": "18",
+        "End": "24"
+    },
+    {
+        "Video": "7223bf62",
+        "Language Query": "Bunny is eating leaves",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "Person on bicycle is going towards the opposite of the camera",
+        "Start": "1",
+        "End": "22"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "Person on bicycle is going towards the opposite of the camera",
+        "Start": "1",
+        "End": "28"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "Person on bicycle is going towards the opposite of the camera",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "Bicycle is going towards the opposite of the camera",
+        "Start": "1",
+        "End": "22"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "Bicycle is going towards the opposite of the camera",
+        "Start": "1",
+        "End": "28"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "Bicycle is going towards the opposite of the camera",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "Tiger is walking towards the left side",
+        "Start": "1",
+        "End": "28"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "Tiger is walking towards the left side",
+        "Start": "1",
+        "End": "37"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "Tiger is walking towards the left side",
+        "Start": "70",
+        "End": "88"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "Tiger is sniffing on the bus",
+        "Start": "9",
+        "End": "58"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "Tiger refrains from walking",
+        "Start": "1",
+        "End": "88"
+    },
+    {
+        "Video": "4027a35b",
+        "Language Query": "Bunny is fighting with another bunny",
+        "Start": "1",
+        "End": "28"
+    },
+    {
+        "Video": "3054dbaf",
+        "Language Query": "Chicken is eating food from the floor",
+        "Start": "19",
+        "End": "44"
+    },
+    {
+        "Video": "3054dbaf",
+        "Language Query": "Chicken is eating food from the floor",
+        "Start": "36",
+        "End": "42"
+    },
+    {
+        "Video": "3054dbaf",
+        "Language Query": "Chicken on the wall is going towards left side",
+        "Start": "1",
+        "End": "6"
+    },
+    {
+        "Video": "3054dbaf",
+        "Language Query": "Chicken is going from the floor to the top of the wall",
+        "Start": "39",
+        "End": "42"
+    },
+    {
+        "Video": "1806a28d",
+        "Language Query": "Airplane is moving faster than another airplane",
+        "Start": "1",
+        "End": "108"
+    },
+    {
+        "Video": "1806a28d",
+        "Language Query": "Airplane is moving slower than another airplane",
+        "Start": "1",
+        "End": "108"
+    },
+    {
+        "Video": "1220b722",
+        "Language Query": "Person is getting on a bicycle",
+        "Start": "140",
+        "End": "148"
+    },
+    {
+        "Video": "1220b722",
+        "Language Query": "Person is going towards left side with bicycle",
+        "Start": "78",
+        "End": "115"
+    },
+    {
+        "Video": "1220b722",
+        "Language Query": "Bicycle is moving towards left side",
+        "Start": "78",
+        "End": "115"
+    },
+    {
+        "Video": "1123fd76",
+        "Language Query": "Dog is fighting with another dog",
+        "Start": "1",
+        "End": "71"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "Bird pecked another bird",
+        "Start": "13",
+        "End": "15"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "Bird is going towards left side",
+        "Start": "2",
+        "End": "7"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "Bird is falling down from plastic bottle",
+        "Start": "12",
+        "End": "15"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "Bird has been pecked by another bird",
+        "Start": "13",
+        "End": "15"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "Bird in the queue briefly comes the camera",
+        "Start": "37",
+        "End": "42"
+    },
+    {
+        "Video": "768c5810",
+        "Language Query": "Sheep is fighting with cow",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "768c5810",
+        "Language Query": "Cow is fighting with sheep",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "454c7bb5",
+        "Language Query": "Person is going to right side to park her bike",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "454c7bb5",
+        "Language Query": "Bike is being taken to right side to park",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "454c7bb5",
+        "Language Query": "Bike is stationary and parked",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "97f5bbc8",
+        "Language Query": "Bear is fighting with another bear",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "97f5bbc8",
+        "Language Query": "Bear entering into frame from right side is going towards left side",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "Vehicle entering into frame from left side is going outside of the frame in right side",
+        "Start": "10",
+        "End": "18"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "Vehicle entering into frame from right side is going outside of the frame in left side",
+        "Start": "4",
+        "End": "17"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "Person entering into frame from right side is going outside of the frame in left side",
+        "Start": "25",
+        "End": "34"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "Vehicle entering into frame from right side is going towards left side",
+        "Start": "24",
+        "End": "35"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "Person entering into frame from right side is going towards left side",
+        "Start": "25",
+        "End": "35"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "Vehicle is stationary and parked along the road",
+        "Start": "1",
+        "End": "35"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "Person is seated",
+        "Start": "1",
+        "End": "35"
+    },
+    {
+        "Video": "95a50b7d",
+        "Language Query": "Airplane is landing",
+        "Start": "1",
+        "End": "66"
+    },
+    {
+        "Video": "95a50b7d",
+        "Language Query": "Airplane is landing",
+        "Start": "1",
+        "End": "54"
+    },
+    {
+        "Video": "95a50b7d",
+        "Language Query": "Airplane is stationary and remains in the same position",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "95a50b7d",
+        "Language Query": "Airplane is stationary and remains in the same position",
+        "Start": "18",
+        "End": "32"
+    },
+    {
+        "Video": "90d7f538",
+        "Language Query": "Tiger is fighting with another tiger",
+        "Start": "25",
+        "End": "40"
+    },
+    {
+        "Video": "86b8e4ec",
+        "Language Query": "Monkey is eating something from the ground",
+        "Start": "4",
+        "End": "25"
+    },
+    {
+        "Video": "86b8e4ec",
+        "Language Query": "Monkey is going in front of another monkey",
+        "Start": "7",
+        "End": "21"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Elephant is picking up the basket with its trunk and giving it to the person",
+        "Start": "7",
+        "End": "16"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Elephant is picking up the basket with its trunk and giving it to the person",
+        "Start": "7",
+        "End": "15"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Elephant is picking up the basket with its trunk and giving it to the person",
+        "Start": "12",
+        "End": "19"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person is receiving the basket from the elephant's trunk",
+        "Start": "15",
+        "End": "18"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person is receiving the basket from the elephant's trunk",
+        "Start": "15",
+        "End": "20"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person is receiving the basket from the elephant's trunk",
+        "Start": "19",
+        "End": "26"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person is giving signal with his right hand to start the race",
+        "Start": "2",
+        "End": "12"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person watching the race from boundary",
+        "Start": "1",
+        "End": "19"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person is standing with his elephant and watching the race",
+        "Start": "27",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person is standing with his elephant and watching the race",
+        "Start": "36",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person is standing with his elephant and watching the race",
+        "Start": "45",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Elephant is standing with his master and watching the race",
+        "Start": "35",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Elephant is standing with his master and watching the race",
+        "Start": "27",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Elephant is standing with his master and watching the race",
+        "Start": "44",
+        "End": "50"
+    },
+    {
+        "Video": "71d35513",
+        "Language Query": "Ship is coming towards the camera",
+        "Start": "1",
+        "End": "33"
+    },
+    {
+        "Video": "71d35513",
+        "Language Query": "Ship is going towards the right side",
+        "Start": "1",
+        "End": "33"
+    },
+    {
+        "Video": "68d9fb6a",
+        "Language Query": "Duck is going towards the left side",
+        "Start": "12",
+        "End": "36"
+    },
+    {
+        "Video": "48cd08af",
+        "Language Query": "Bird is flying towards the right and then perching on top of another bird",
+        "Start": "4",
+        "End": "12"
+    },
+    {
+        "Video": "48cd08af",
+        "Language Query": "Bird is going outside of the frame in bottom side by flying",
+        "Start": "28",
+        "End": "30"
+    },
+    {
+        "Video": "44a4d836",
+        "Language Query": "Turtle is swimming towards left side",
+        "Start": "1",
+        "End": "21"
+    },
+    {
+        "Video": "44a4d836",
+        "Language Query": "Turtle is swimming towards right side",
+        "Start": "2",
+        "End": "36"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "Tiger is walking towards the right side",
+        "Start": "1",
+        "End": "12"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "Tiger is walking towards the right side",
+        "Start": "1",
+        "End": "48"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "Tiger is walking towards the right side",
+        "Start": "23",
+        "End": "48"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "Tiger is lying on the ground",
+        "Start": "33",
+        "End": "48"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "Tiger is keeping its front legs on top of another tiger",
+        "Start": "25",
+        "End": "32"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "Airplane on the runway is going towards left side",
+        "Start": "1",
+        "End": "27"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "Airplane on the runway is stationary and remains in the same position",
+        "Start": "1",
+        "End": "19"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "Airplane on the runway is stationary and remains in the same position",
+        "Start": "16",
+        "End": "27"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "Airplane on the runway is stationary and remains in the same position",
+        "Start": "14",
+        "End": "26"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "Airplane on the runway is stationary and remains in the same position",
+        "Start": "22",
+        "End": "27"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "Airplane on the runway is stationary and remains in the same position",
+        "Start": "26",
+        "End": "27"
+    },
+    {
+        "Video": "15e09c8c",
+        "Language Query": "Bunny is going from the middle of the bunnies to the left of the bunnies",
+        "Start": "15",
+        "End": "22"
+    },
+    {
+        "Video": "15e09c8c",
+        "Language Query": "Bunny is going from the left of the bunnies to the middle of the bunnies",
+        "Start": "15",
+        "End": "22"
+    },
+    {
+        "Video": "15e09c8c",
+        "Language Query": "Bunny is looking towards the camera",
+        "Start": "30",
+        "End": "32"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "Monkey is sniffing another monkey",
+        "Start": "29",
+        "End": "38"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "Monkey is pushing another monkey",
+        "Start": "49",
+        "End": "50"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "Monkey is being pushed another monkey",
+        "Start": "49",
+        "End": "50"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "Monkey is being dragged by another monkey",
+        "Start": "57",
+        "End": "59"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "Monkey is stationary and remains in the same position",
+        "Start": "1",
+        "End": "70"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "Person on bike is circling around another bike",
+        "Start": "5",
+        "End": "59"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "Person on bike is circling around another bike",
+        "Start": "39",
+        "End": "72"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "Bike is circling around another bike",
+        "Start": "5",
+        "End": "59"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "Bike is circling around another bike",
+        "Start": "39",
+        "End": "72"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "Person is getting off the bike",
+        "Start": "10",
+        "End": "25"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "Bike is stationary and remains in the same place",
+        "Start": "1",
+        "End": "72"
+    },
+    {
+        "Video": "9b318a9c",
+        "Language Query": "Giraffe is lifting another giraffe's back leg with its head",
+        "Start": "5",
+        "End": "24"
+    },
+    {
+        "Video": "9b318a9c",
+        "Language Query": "Giraffe's back leg is being lifted by another giraffe",
+        "Start": "5",
+        "End": "24"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "Person is moving the bike towards the left side",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "Bike is being moved towards the left side by a person",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "Bike is stationary and remains in the same place",
+        "Start": "1",
+        "End": "42"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "Person on bike is going from right side to left side",
+        "Start": "18",
+        "End": "28"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "Bike is going from right side to left side",
+        "Start": "17",
+        "End": "29"
+    },
+    {
+        "Video": "6c88a53b",
+        "Language Query": "Giraffe is attacking another giraffe",
+        "Start": "8",
+        "End": "29"
+    },
+    {
+        "Video": "6c88a53b",
+        "Language Query": "Giraffe is attacking another giraffe",
+        "Start": "43",
+        "End": "49"
+    },
+    {
+        "Video": "6a47103e",
+        "Language Query": "Zebra is going towards right side",
+        "Start": "20",
+        "End": "35"
+    },
+    {
+        "Video": "6a47103e",
+        "Language Query": "Zebra facing to the left side is turning towards the opposite of the camera",
+        "Start": "19",
+        "End": "29"
+    },
+    {
+        "Video": "6a47103e",
+        "Language Query": "Zebra facing to the camera is turing towards the left side",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "06eb2803",
+        "Language Query": "Goat is keeping its front legs on the back of another goat",
+        "Start": "17",
+        "End": "30"
+    },
+    {
+        "Video": "06eb2803",
+        "Language Query": "Goat is looking for something on the ground",
+        "Start": "53",
+        "End": "60"
+    },
+    {
+        "Video": "06eb2803",
+        "Language Query": "Person is going towards the goats",
+        "Start": "38",
+        "End": "60"
+    },
+    {
+        "Video": "06eb2803",
+        "Language Query": "Person is stationary and remains in the same position",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "4d6a99ec",
+        "Language Query": "Monkey is getting down to ground from the back of another monkey",
+        "Start": "1",
+        "End": "7"
+    },
+    {
+        "Video": "4d6a99ec",
+        "Language Query": "Monkey is keeping its right hand on the left shoulder of another monkey",
+        "Start": "17",
+        "End": "45"
+    },
+    {
+        "Video": "4d6a99ec",
+        "Language Query": "Monkey is inspecting the front side of another monkey's body with its hand",
+        "Start": "42",
+        "End": "45"
+    },
+    {
+        "Video": "3d8b1ee0",
+        "Language Query": "Lizard is fighting with another lizard",
+        "Start": "1",
+        "End": "15"
+    },
+    {
+        "Video": "3c5e3be8",
+        "Language Query": "Elephant is walking towards the right side",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "3c5e3be8",
+        "Language Query": "Elephant is walking towards the left side",
+        "Start": "1",
+        "End": "24"
+    },
+    {
+        "Video": "3c5e3be8",
+        "Language Query": "Elephant is walking towards the camera",
+        "Start": "1",
+        "End": "15"
+    },
+    {
+        "Video": "3c4f150c",
+        "Language Query": "Bird is going from the bottom of the cage to bird perch stand",
+        "Start": "34",
+        "End": "35"
+    },
+    {
+        "Video": "3c4f150c",
+        "Language Query": "Bird is going from the bottom of the cage to bird perch stand",
+        "Start": "86",
+        "End": "87"
+    },
+    {
+        "Video": "3c4f150c",
+        "Language Query": "Bird is going from the bottom of the cage to bird perch stand",
+        "Start": "131",
+        "End": "132"
+    },
+    {
+        "Video": "2d802cb8",
+        "Language Query": "Cat is going from right to left side",
+        "Start": "38",
+        "End": "49"
+    },
+    {
+        "Video": "2d802cb8",
+        "Language Query": "Cat is stationary and remains in the same position",
+        "Start": "1",
+        "End": "50"
+    },
+    {
+        "Video": "2d0f3000",
+        "Language Query": "Bird fighting with another bird",
+        "Start": "28",
+        "End": "68"
+    },
+    {
+        "Video": "2d0f3000",
+        "Language Query": "Bird fighting with another bird",
+        "Start": "77",
+        "End": "92"
+    },
+    {
+        "Video": "2d0f3000",
+        "Language Query": "Bird fighting with another bird",
+        "Start": "101",
+        "End": "121"
+    },
+    {
+        "Video": "2cc7839e",
+        "Language Query": "Cow is eating food from food container",
+        "Start": "33",
+        "End": "72"
+    },
+    {
+        "Video": "2cc7839e",
+        "Language Query": "Cow is eating food from food container",
+        "Start": "10",
+        "End": "41"
+    },
+    {
+        "Video": "2cc7839e",
+        "Language Query": "Cow is walking backwards",
+        "Start": "55",
+        "End": "72"
+    },
+    {
+        "Video": "2cc7839e",
+        "Language Query": "Cow is sniffing on the food container",
+        "Start": "63",
+        "End": "68"
+    },
+    {
+        "Video": "2ca20519",
+        "Language Query": "Yacht is going towards the right side",
+        "Start": "1",
+        "End": "45"
+    },
+    {
+        "Video": "2ca20519",
+        "Language Query": "Yacht is going towards the left side",
+        "Start": "1",
+        "End": "45"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "Zebra is eating grass in the field",
+        "Start": "1",
+        "End": "15"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "Zebra is eating grass in the field",
+        "Start": "1",
+        "End": "21"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "Zebra is eating grass in the field",
+        "Start": "1",
+        "End": "24"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "Zebra is eating grass in the field",
+        "Start": "1",
+        "End": "48"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "Zebra is keeping its front legs on the back of another zebra",
+        "Start": "51",
+        "End": "126"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "Zebra is looking towards the camera",
+        "Start": "85",
+        "End": "114"
+    },
+    {
+        "Video": "2a19d8a2",
+        "Language Query": "Sheep is walking towards the opposite of the camera",
+        "Start": "48",
+        "End": "85"
+    },
+    {
+        "Video": "2a19d8a2",
+        "Language Query": "Sheep is walking towards the opposite of the camera",
+        "Start": "53",
+        "End": "85"
+    },
+    {
+        "Video": "2a19d8a2",
+        "Language Query": "Sheep is walking towards the opposite of the camera",
+        "Start": "77",
+        "End": "85"
+    },
+    {
+        "Video": "2ab06287",
+        "Language Query": "Dog is asserting dominance in the fight with another dog",
+        "Start": "1",
+        "End": "96"
+    },
+    {
+        "Video": "2ab06287",
+        "Language Query": "Dog is being dominated during the fight with another dog",
+        "Start": "1",
+        "End": "96"
+    },
+    {
+        "Video": "2b6e117d",
+        "Language Query": "Giraffe standing near the fence is going towards the right side",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b6e117d",
+        "Language Query": "Giraffe standing near the fence is eating leaves",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b6e117d",
+        "Language Query": "Person is looking to the giraffe",
+        "Start": "27",
+        "End": "30"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Person on bike is jumping",
+        "Start": "14",
+        "End": "19"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Person on bike is jumping",
+        "Start": "17",
+        "End": "20"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Person on bike is jumping",
+        "Start": "17",
+        "End": "22"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Person on bike is jumping",
+        "Start": "19",
+        "End": "22"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Person on bike is jumping",
+        "Start": "22",
+        "End": "26"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Bike is jumping",
+        "Start": "14",
+        "End": "19"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Bike is jumping",
+        "Start": "17",
+        "End": "20"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Bike is jumping",
+        "Start": "17",
+        "End": "22"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Bike is jumping",
+        "Start": "19",
+        "End": "22"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "Bike is jumping",
+        "Start": "22",
+        "End": "26"
+    },
+    {
+        "Video": "2b84174e",
+        "Language Query": "Dog is fighting with another dog",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b84174e",
+        "Language Query": "Dog is abstaining from participating in the fighting",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b84174e",
+        "Language Query": "Dog is abstaining from participating in the fighting",
+        "Start": "1",
+        "End": "17"
+    },
+    {
+        "Video": "2b84174e",
+        "Language Query": "Dog is abstaining from participating in the fighting",
+        "Start": "1",
+        "End": "16"
+    },
+    {
+        "Video": "2c22cd4e",
+        "Language Query": "Cat is fighting with another cat",
+        "Start": "1",
+        "End": "92"
+    },
+    {
+        "Video": "2c22cd4e",
+        "Language Query": "Cat is fighting with another cat",
+        "Start": "97",
+        "End": "102"
+    },
+    {
+        "Video": "8b935b9f",
+        "Language Query": "Bear is fighting with another bear",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "Fish is going towards the right side",
+        "Start": "1",
+        "End": "19"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "Fish is going towards the right side",
+        "Start": "1",
+        "End": "25"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "Fish in the water is going outside of the frame in bottom side",
+        "Start": "1",
+        "End": "25"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "Fish in the water is going outside of the frame in left side",
+        "Start": "1",
+        "End": "20"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "Fish entering into frame in right side is going towards the left side",
+        "Start": "19",
+        "End": "36"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "Bird is going from the bottom of the cage to bird perch stand",
+        "Start": "13",
+        "End": "15"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "Bird is making right turn",
+        "Start": "12",
+        "End": "21"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "Bird seated on the bird perch stand moves to right side briefly",
+        "Start": "1",
+        "End": "6"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "Bird on the bottom of the cage is stationary and remains in the same position all times",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "Bird seated on bird perch stand is stationary and remains in the same position all times",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "1",
+        "End": "95"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "15",
+        "End": "17"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "33",
+        "End": "89"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "81",
+        "End": "87"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "4",
+        "End": "8"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "24",
+        "End": "26"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "54",
+        "End": "56"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "70",
+        "End": "73"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "19",
+        "End": "21"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "40",
+        "End": "42"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "49",
+        "End": "51"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "27",
+        "End": "30"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck is eating something from ground",
+        "Start": "41",
+        "End": "43"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck abstain from eating food from ground",
+        "Start": "1",
+        "End": "29"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck abstain from eating food from ground",
+        "Start": "72",
+        "End": "86"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck abstain from eating food from ground",
+        "Start": "56",
+        "End": "90"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck abstain from eating food from ground",
+        "Start": "23",
+        "End": "95"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "Duck abstain from eating food from ground",
+        "Start": "1",
+        "End": "47"
+    },
+    {
+        "Video": "7e52df6a",
+        "Language Query": "Panda is eating food from food container",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "7e52df6a",
+        "Language Query": "Panda is eating food from food container",
+        "Start": "8",
+        "End": "36"
+    },
+    {
+        "Video": "7e52df6a",
+        "Language Query": "Panda is eating food from food container",
+        "Start": "8",
+        "End": "31"
+    },
+    {
+        "Video": "7e52df6a",
+        "Language Query": "Panda is eating food from food container",
+        "Start": "17",
+        "End": "19"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "Monkey is stationary and remains in the same position all times",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "Monkey is going outside of the frame in right side",
+        "Start": "1",
+        "End": "10"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "Monkey is going outside of the frame in right side",
+        "Start": "20",
+        "End": "25"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "Monkey is going outside of the frame in right side",
+        "Start": "20",
+        "End": "24"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "Monkey entering into frame from left side is sitting on a stone",
+        "Start": "13",
+        "End": "20"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "Monkey entering into frame from left",
+        "Start": "29",
+        "End": "30"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "Turtle is getting on the back of another turtle",
+        "Start": "20",
+        "End": "30"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "Turtle is carrying another turtle on its back",
+        "Start": "20",
+        "End": "30"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "Turtle is eating something in water",
+        "Start": "42",
+        "End": "58"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "Turtle is eating something in water",
+        "Start": "72",
+        "End": "73"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "Turtle is eating something in water",
+        "Start": "55",
+        "End": "58"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "Turtle is eating something in water",
+        "Start": "23",
+        "End": "55"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "Turtle is eating something in water",
+        "Start": "57",
+        "End": "60"
+    },
+    {
+        "Video": "567bfc5a",
+        "Language Query": "Cat is watching at something",
+        "Start": "1",
+        "End": "52"
+    },
+    {
+        "Video": "567bfc5a",
+        "Language Query": "Cat is stationary and remains in the same position all times",
+        "Start": "1",
+        "End": "52"
+    },
+    {
+        "Video": "5251dbb9",
+        "Language Query": "Bird is touching another bird's mouth with its beak",
+        "Start": "6",
+        "End": "8"
+    },
+    {
+        "Video": "5251dbb9",
+        "Language Query": "Bird is touching another bird's mouth with its beak",
+        "Start": "15",
+        "End": "18"
+    },
+    {
+        "Video": "5251dbb9",
+        "Language Query": "Bird is touching another bird's mouth with its beak",
+        "Start": "22",
+        "End": "23"
+    },
+    {
+        "Video": "5251dbb9",
+        "Language Query": "Bird is brought into frame by a person's hand",
+        "Start": "28",
+        "End": "30"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "Goat is looking towards the camera",
+        "Start": "1",
+        "End": "52"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "Goat is looking towards the camera",
+        "Start": "30",
+        "End": "36"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "Goat is sniffing on the wall",
+        "Start": "19",
+        "End": "23"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "Goat is sniffing on the wall",
+        "Start": "19",
+        "End": "29"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "Goat is looking right side while keeping its backside towards the camera",
+        "Start": "20",
+        "End": "35"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "Goat from the right side is going at the back of other goats",
+        "Start": "1",
+        "End": "48"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Person on bike is going outside of the frame in right side",
+        "Start": "1",
+        "End": "4"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Person on bike is going outside of the frame in right side",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Bike is going outside of the frame in right side",
+        "Start": "1",
+        "End": "5"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Bike is going outside of the frame in right side",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Vehicle is going outside of the frame in right side",
+        "Start": "1",
+        "End": "11"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Vehicle is stationary and remains in the same position all times",
+        "Start": "1",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Person on bike is going from right towards the left side",
+        "Start": "1",
+        "End": "13"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Bike is going from right towards the left side",
+        "Start": "1",
+        "End": "12"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Person on bike coming from right side is going outside of the frame in left side",
+        "Start": "1",
+        "End": "22"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Bike coming from right side is going outside of the frame in left side",
+        "Start": "5",
+        "End": "22"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Person on bike entering into frame from left side is going outside of the frame in right side",
+        "Start": "7",
+        "End": "23"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Bike entering into frame from left side is going outside of the frame in right side",
+        "Start": "8",
+        "End": "23"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Person on bike entering into frame from left side is going towards the right side",
+        "Start": "9",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Bike entering into frame from left side is going towards the right side",
+        "Start": "8",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Vehicle entering into frame from left side is going towards the right side",
+        "Start": "13",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Vehicle entering into frame from right side is going towards the left side",
+        "Start": "15",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Person on bike entering into frame from left side is going towards the right side",
+        "Start": "3",
+        "End": "16"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "Bike entering into frame from left side is going towards the right side",
+        "Start": "2",
+        "End": "15"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "Goat is peeking over the wall",
+        "Start": "17",
+        "End": "64"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "Goat is peeking over the wall",
+        "Start": "73",
+        "End": "104"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "Goat is peeking over the wall",
+        "Start": "20",
+        "End": "57"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "Goat is peeking over the wall",
+        "Start": "100",
+        "End": "111"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "Goat abstains from peeking over the wall",
+        "Start": "1",
+        "End": "111"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Person on bicycle is making a slight right turn",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Person on bicycle is making a slight right turn",
+        "Start": "8",
+        "End": "11"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Person on bicycle is making a slight right turn",
+        "Start": "24",
+        "End": "28"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Person on bicycle is making a slight right turn",
+        "Start": "22",
+        "End": "24"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Person on bicycle is making a slight right turn",
+        "Start": "36",
+        "End": "39"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Person on bicycle is making a slight right turn",
+        "Start": "32",
+        "End": "36"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Bicycle is making a slight right turn",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Bicycle is making a slight right turn",
+        "Start": "8",
+        "End": "11"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Bicycle is making a slight right turn",
+        "Start": "24",
+        "End": "28"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Bicycle is making a slight right turn",
+        "Start": "22",
+        "End": "24"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Bicycle is making a slight right turn",
+        "Start": "36",
+        "End": "39"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "Bicycle is making a slight right turn",
+        "Start": "32",
+        "End": "36"
+    },
+    {
+        "Video": "4d63d7df",
+        "Language Query": "Fish is swimming in the aquarium",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "6a6547d7",
+        "Language Query": "Rabbit is playing with another rabbit",
+        "Start": "1",
+        "End": "54"
+    },
+    {
+        "Video": "15e281a9",
+        "Language Query": "Bird is flying in the sky",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit begins to eat",
+        "Start": "14",
+        "End": "23"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit stands before another rabbit",
+        "Start": "25",
+        "End": "49"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit nibbles on the carrot",
+        "Start": "3",
+        "End": "15"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit glances up from its food",
+        "Start": "3",
+        "End": "23"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The lizard approaches the camera and eats",
+        "Start": "37",
+        "End": "56"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit moves away from the food and exits to the left",
+        "Start": "11",
+        "End": "20"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit moves behind another rabbit",
+        "Start": "2",
+        "End": "8"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The rabbit hops to the right and vanishes from view",
+        "Start": "16",
+        "End": "20"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "The turtle steps on the food",
+        "Start": "66",
+        "End": "72"
+    },
+    {
+        "Video": "63263f3f",
+        "Language Query": "A chicken comes into view from the right side of the camera",
+        "Start": "74",
+        "End": "78"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit lowers its paws to the ground and jumps to the right",
+        "Start": "3",
+        "End": "13"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit jumps to the right",
+        "Start": "48",
+        "End": "53"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit jumps to the left",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit pivots to the right",
+        "Start": "13",
+        "End": "17"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit heads to the left",
+        "Start": "31",
+        "End": "36"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit begins walking from a still position",
+        "Start": "38",
+        "End": "43"
+    },
+    {
+        "Video": "ff64095e",
+        "Language Query": "The rabbit spins around and glances back",
+        "Start": "38",
+        "End": "40"
+    },
+    {
+        "Video": "fb4a7958",
+        "Language Query": "The giraffe stretches its neck upright",
+        "Start": "2",
+        "End": "9"
+    },
+    {
+        "Video": "fb4a7958",
+        "Language Query": "The giraffe wraps its neck around another giraffe",
+        "Start": "16",
+        "End": "22"
+    },
+    {
+        "Video": "fb4a7958",
+        "Language Query": "The giraffe munches on food",
+        "Start": "71",
+        "End": "74"
+    },
+    {
+        "Video": "fb57abac",
+        "Language Query": "The dog spins around and gazes down at the object on the ground",
+        "Start": "3",
+        "End": "9"
+    },
+    {
+        "Video": "fb57abac",
+        "Language Query": "The dog pauses and looks around",
+        "Start": "4",
+        "End": "60"
+    },
+    {
+        "Video": "fb57abac",
+        "Language Query": "The dog comes from the right and walks among the other dogs",
+        "Start": "53",
+        "End": "60"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "A car vanishes from the right side of the frame",
+        "Start": "53",
+        "End": "56"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike exits from the right side of the frame",
+        "Start": "57",
+        "End": "59"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person exits the frame to the right",
+        "Start": "57",
+        "End": "59"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person exits the frame to the right",
+        "Start": "29",
+        "End": "33"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike passes another bike",
+        "Start": "39",
+        "End": "53"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike accelerates away from the other bikes",
+        "Start": "4",
+        "End": "72"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person accelerates away from the other cyclists",
+        "Start": "4",
+        "End": "72"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike exits from the left side of the frame",
+        "Start": "36",
+        "End": "53"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person exits the frame to the left",
+        "Start": "39",
+        "End": "49"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike exits from the right side of the frame",
+        "Start": "17",
+        "End": "25"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The person lifts his leg off the road while on the bike",
+        "Start": "3",
+        "End": "9"
+    },
+    {
+        "Video": "f9bee2e2",
+        "Language Query": "The bike is obscured by other bikers in front of the camera",
+        "Start": "32",
+        "End": "37"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish rises upwards",
+        "Start": "41",
+        "End": "58"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish aligns itself vertically while gazing down at the lower surface",
+        "Start": "21",
+        "End": "50"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish swiftly flicks its tail and heads to the right",
+        "Start": "7",
+        "End": "23"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish adjusts its position from diagonal to straight",
+        "Start": "1",
+        "End": "26"
+    },
+    {
+        "Video": "f6cdaca7",
+        "Language Query": "The fish slowly swims towards the right",
+        "Start": "1",
+        "End": "56"
+    },
+    {
+        "Video": "f4b271d4",
+        "Language Query": "The zebra exits the frame to the right",
+        "Start": "5",
+        "End": "8"
+    },
+    {
+        "Video": "f4b271d4",
+        "Language Query": "The zebra sprints towards the center of the water pool",
+        "Start": "15",
+        "End": "30"
+    },
+    {
+        "Video": "f4b271d4",
+        "Language Query": "The zebra spins around and moves towards the water pool",
+        "Start": "27",
+        "End": "30"
+    },
+    {
+        "Video": "f4b271d4",
+        "Language Query": "The zebra raises its head and spins in a circle",
+        "Start": "3",
+        "End": "15"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "A car vanishes from the right side of the frame",
+        "Start": "4",
+        "End": "6"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "A car vanishes from the right side of the frame",
+        "Start": "11",
+        "End": "14"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "A car vanishes from the right side of the frame",
+        "Start": "16",
+        "End": "18"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "A car vanishes from the right side of the frame",
+        "Start": "18",
+        "End": "20"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "A car vanishes from the right side of the frame",
+        "Start": "25",
+        "End": "27"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "A car vanishes from the right side of the frame",
+        "Start": "29",
+        "End": "32"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "A car vanishes from the right side of the frame",
+        "Start": "34",
+        "End": "36"
+    },
+    {
+        "Video": "f326bfb7",
+        "Language Query": "A car comes into view from the left side of the frame",
+        "Start": "30",
+        "End": "33"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker vanishes from the right side of the frame",
+        "Start": "6",
+        "End": "8"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The bike exits from the right side of the frame",
+        "Start": "6",
+        "End": "8"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker crashes down from a hovering position",
+        "Start": "1",
+        "End": "5"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The person glances over their shoulder",
+        "Start": "2",
+        "End": "18"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker launches into the air with his bike",
+        "Start": "5",
+        "End": "10"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The bike launches into the air",
+        "Start": "5",
+        "End": "10"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker launches into the air with his bike",
+        "Start": "21",
+        "End": "26"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The bike launches into the air",
+        "Start": "21",
+        "End": "26"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The biker launches into the air with his bike",
+        "Start": "24",
+        "End": "29"
+    },
+    {
+        "Video": "ed82ce50",
+        "Language Query": "The bike launches into the air",
+        "Start": "24",
+        "End": "29"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The horse shifts from left to right",
+        "Start": "1",
+        "End": "12"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The horse trails behind another horse",
+        "Start": "10",
+        "End": "15"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The horse begins moving to the right",
+        "Start": "4",
+        "End": "16"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person leads the horse to the right",
+        "Start": "5",
+        "End": "16"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person lowers the camera from his face",
+        "Start": "4",
+        "End": "7"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person bends his body slightly from a standing position",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person observes the horses",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person gives something to another individual",
+        "Start": "12",
+        "End": "20"
+    },
+    {
+        "Video": "ef81cd52",
+        "Language Query": "The person runs and grasps a horse's body",
+        "Start": "30",
+        "End": "36"
+    },
+    {
+        "Video": "f10e23dd",
+        "Language Query": "The cat remains seated on the floor",
+        "Start": "1",
+        "End": "35"
+    },
+    {
+        "Video": "f10e23dd",
+        "Language Query": "The cat spins around and returns",
+        "Start": "14",
+        "End": "26"
+    },
+    {
+        "Video": "f10e23dd",
+        "Language Query": "The cat reclines from a seated position",
+        "Start": "10",
+        "End": "16"
+    },
+    {
+        "Video": "ec6fd219",
+        "Language Query": "The horse slightly moves to the right and turns away from the camera",
+        "Start": "6",
+        "End": "30"
+    },
+    {
+        "Video": "ec6fd219",
+        "Language Query": "The horse shifts from right to left",
+        "Start": "13",
+        "End": "28"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle exits the frame to the right",
+        "Start": "14",
+        "End": "21"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle turns left",
+        "Start": "12",
+        "End": "37"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle spins around and walks away from the camera",
+        "Start": "3",
+        "End": "37"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle is obscured by the shadow of another turtle above",
+        "Start": "14",
+        "End": "31"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "A turtle enters the frame from the left",
+        "Start": "24",
+        "End": "37"
+    },
+    {
+        "Video": "ed5ec3c5",
+        "Language Query": "The turtle rests on the floor beneath another turtle",
+        "Start": "1",
+        "End": "37"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "A boat trails behind other boats",
+        "Start": "15",
+        "End": "21"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person shifts behind other boats",
+        "Start": "16",
+        "End": "20"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "A boat passes in front of other boats",
+        "Start": "6",
+        "End": "14"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person shifts ahead of other boats",
+        "Start": "6",
+        "End": "12"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "A boat navigates between other boats",
+        "Start": "17",
+        "End": "23"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person navigates between other boats",
+        "Start": "19",
+        "End": "24"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "A boat pivots from right to left",
+        "Start": "18",
+        "End": "30"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person steers the boat from the right to the left",
+        "Start": "18",
+        "End": "30"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "A boat pivots from right to left",
+        "Start": "9",
+        "End": "25"
+    },
+    {
+        "Video": "e7ef3b9d",
+        "Language Query": "The person steers the boat from the right to the left",
+        "Start": "9",
+        "End": "25"
+    },
+    {
+        "Video": "ebd1dbad",
+        "Language Query": "The turtle spins around and faces the camera",
+        "Start": "30",
+        "End": "56"
+    },
+    {
+        "Video": "ebd1dbad",
+        "Language Query": "The turtle walks away from the camera",
+        "Start": "43",
+        "End": "72"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The panda reclines on the ground after being seated",
+        "Start": "63",
+        "End": "97"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The person places a cloth near the panda's face",
+        "Start": "8",
+        "End": "16"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The person grasps the panda's arm with her hand",
+        "Start": "36",
+        "End": "55"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The panda trails behind a person carrying cloth",
+        "Start": "67",
+        "End": "95"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The panda enters the frame from the left side",
+        "Start": "82",
+        "End": "86"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The person enters the frame from the left side",
+        "Start": "77",
+        "End": "81"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "A person enters the frame from the right side",
+        "Start": "107",
+        "End": "113"
+    },
+    {
+        "Video": "e78253f1",
+        "Language Query": "The panda enters the frame from the right side",
+        "Start": "111",
+        "End": "113"
+    },
+    {
+        "Video": "e568ca41",
+        "Language Query": "The lion rises from a seated position",
+        "Start": "11",
+        "End": "31"
+    },
+    {
+        "Video": "e568ca41",
+        "Language Query": "The zebra nudges the lion with its head",
+        "Start": "41",
+        "End": "55"
+    },
+    {
+        "Video": "e568ca41",
+        "Language Query": "The zebra gets away from the jaws of the lion",
+        "Start": "89",
+        "End": "95"
+    },
+    {
+        "Video": "e3d901dd",
+        "Language Query": "A boat circles around a yellow object in the sea",
+        "Start": "1",
+        "End": "45"
+    },
+    {
+        "Video": "e3d901dd",
+        "Language Query": "The person circles around a yellow object on the sea",
+        "Start": "1",
+        "End": "45"
+    },
+    {
+        "Video": "d50fa72e",
+        "Language Query": "The fish veers from the left to the right",
+        "Start": "11",
+        "End": "38"
+    },
+    {
+        "Video": "d50fa72e",
+        "Language Query": "The fish glides slightly through the water to the right",
+        "Start": "77",
+        "End": "94"
+    },
+    {
+        "Video": "e0a22a9b",
+        "Language Query": "The bicycle does a U-turn",
+        "Start": "6",
+        "End": "32"
+    },
+    {
+        "Video": "e0a22a9b",
+        "Language Query": "The boy maneuvers his bicycle in a U-turn",
+        "Start": "6",
+        "End": "32"
+    },
+    {
+        "Video": "e0a22a9b",
+        "Language Query": "A boy spins around from left to right",
+        "Start": "4",
+        "End": "21"
+    },
+    {
+        "Video": "e0a22a9b",
+        "Language Query": "The person is obscured a little behind a boy",
+        "Start": "4",
+        "End": "7"
+    },
+    {
+        "Video": "d4f4cf55",
+        "Language Query": "The zebra rises from the water container to the ground",
+        "Start": "10",
+        "End": "18"
+    },
+    {
+        "Video": "d4f4cf55",
+        "Language Query": "The zebra spins around and moves away from the water container",
+        "Start": "24",
+        "End": "44"
+    },
+    {
+        "Video": "d4f4cf55",
+        "Language Query": "The zebra is shoved into the water surface",
+        "Start": "66",
+        "End": "73"
+    },
+    {
+        "Video": "d4f4cf55",
+        "Language Query": "The zebra spins around from left to right",
+        "Start": "70",
+        "End": "85"
+    },
+    {
+        "Video": "d501f685",
+        "Language Query": "The zebra strikes the gate and pivots to the right",
+        "Start": "5",
+        "End": "10"
+    },
+    {
+        "Video": "d501f685",
+        "Language Query": "The zebra spins around and faces away from the gate",
+        "Start": "10",
+        "End": "23"
+    },
+    {
+        "Video": "d501f685",
+        "Language Query": "The zebra crosses in front of the gate",
+        "Start": "3",
+        "End": "17"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "A bird gazes to the right",
+        "Start": "17",
+        "End": "25"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "A bird soars towards the camera",
+        "Start": "31",
+        "End": "36"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "A bird leaps to a higher perch",
+        "Start": "14",
+        "End": "19"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "A bird shifts its gaze from right to left",
+        "Start": "70",
+        "End": "82"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "A bird spins around and gazes away from the camera",
+        "Start": "5",
+        "End": "15"
+    },
+    {
+        "Video": "d41a62d4",
+        "Language Query": "A bird glances to its left",
+        "Start": "6",
+        "End": "42"
+    },
+    {
+        "Video": "d3ba30b3",
+        "Language Query": "The panda collapses onto its back",
+        "Start": "14",
+        "End": "25"
+    },
+    {
+        "Video": "d3ba30b3",
+        "Language Query": "The panda knocks another panda to the ground",
+        "Start": "17",
+        "End": "26"
+    },
+    {
+        "Video": "d3ba30b3",
+        "Language Query": "The panda uses its paws to scratch its face",
+        "Start": "53",
+        "End": "60"
+    },
+    {
+        "Video": "d33e1c97",
+        "Language Query": "The fish turns around and faces the opposite direction",
+        "Start": "21",
+        "End": "40"
+    },
+    {
+        "Video": "d33e1c97",
+        "Language Query": "The fish turns around and faces the opposite direction",
+        "Start": "15",
+        "End": "27"
+    },
+    {
+        "Video": "d33e1c97",
+        "Language Query": "The fish turns around and faces the opposite direction",
+        "Start": "2",
+        "End": "16"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra moves away from the camera",
+        "Start": "38",
+        "End": "51"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra tilts its head to the left while on the grass",
+        "Start": "24",
+        "End": "45"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra makes a subtle turn to the right",
+        "Start": "37",
+        "End": "48"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra exits the frame to the left",
+        "Start": "3",
+        "End": "18"
+    },
+    {
+        "Video": "d26036cd",
+        "Language Query": "The zebra turns its body to face the left",
+        "Start": "37",
+        "End": "51"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck spins around and heads to the right",
+        "Start": "11",
+        "End": "48"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck spins around and faces to the right",
+        "Start": "23",
+        "End": "48"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck moves away from the camera and turns left",
+        "Start": "4",
+        "End": "48"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck begins to walk",
+        "Start": "38",
+        "End": "48"
+    },
+    {
+        "Video": "d0a07d68",
+        "Language Query": "The duck spins around and heads to the right",
+        "Start": "30",
+        "End": "48"
+    },
+    {
+        "Video": "d084134f",
+        "Language Query": "The horse trails behind another horse",
+        "Start": "8",
+        "End": "28"
+    },
+    {
+        "Video": "d084134f",
+        "Language Query": "The horse slightly shifts its body to the left",
+        "Start": "45",
+        "End": "64"
+    },
+    {
+        "Video": "cfff47c3",
+        "Language Query": "A cat turns and strolls away from the camera",
+        "Start": "177",
+        "End": "215"
+    },
+    {
+        "Video": "cfff47c3",
+        "Language Query": "The cat laps at its leg",
+        "Start": "193",
+        "End": "226"
+    },
+    {
+        "Video": "cfff47c3",
+        "Language Query": "The cat spins around and looks back",
+        "Start": "237",
+        "End": "263"
+    },
+    {
+        "Video": "caf53839",
+        "Language Query": "The dog rises from a lying position",
+        "Start": "3",
+        "End": "11"
+    },
+    {
+        "Video": "caf53839",
+        "Language Query": "The dog nudges another dog with its head",
+        "Start": "24",
+        "End": "29"
+    },
+    {
+        "Video": "cfe04aff",
+        "Language Query": "The person is no longer visible in the frame",
+        "Start": "3",
+        "End": "5"
+    },
+    {
+        "Video": "cfe04aff",
+        "Language Query": "The cow shifts to the right",
+        "Start": "1",
+        "End": "11"
+    },
+    {
+        "Video": "cfe04aff",
+        "Language Query": "The cow shifts to the left",
+        "Start": "1",
+        "End": "11"
+    },
+    {
+        "Video": "c9dfbd0c",
+        "Language Query": "The panda lowers itself onto all fours",
+        "Start": "48",
+        "End": "54"
+    },
+    {
+        "Video": "c9dfbd0c",
+        "Language Query": "The panda scuffles with another panda",
+        "Start": "1",
+        "End": "44"
+    },
+    {
+        "Video": "ca440c64",
+        "Language Query": "The ship stays stationary on the water",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "ca440c64",
+        "Language Query": "A boat subtly alters its course to the right",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "ca440c64",
+        "Language Query": "The person gazes down from the edge of the ship",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "ca440c64",
+        "Language Query": "The person moves away from the edge of the boat",
+        "Start": "12",
+        "End": "19"
+    },
+    {
+        "Video": "c9a2645e",
+        "Language Query": "The tiger lowers its head to the ground",
+        "Start": "27",
+        "End": "35"
+    },
+    {
+        "Video": "c9a2645e",
+        "Language Query": "The tiger knocks another tiger to the ground",
+        "Start": "28",
+        "End": "34"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A bus vanishes off the frame to the right",
+        "Start": "2",
+        "End": "8"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A car exits the frame to the right",
+        "Start": "6",
+        "End": "8"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A car exits the frame to the right",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The person vanishes behind a box while walking",
+        "Start": "11",
+        "End": "14"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The person vanishes behind a car",
+        "Start": "22",
+        "End": "24"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The person vanishes behind a car",
+        "Start": "23",
+        "End": "27"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A car exits the frame to the right",
+        "Start": "20",
+        "End": "25"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A car exits the frame to the right",
+        "Start": "27",
+        "End": "32"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "The person vanishes behind a car",
+        "Start": "24",
+        "End": "27"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A car vanishes behind another car",
+        "Start": "24",
+        "End": "26"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A car vanishes behind another car",
+        "Start": "26",
+        "End": "28"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A bus emerges from the left side of the frame",
+        "Start": "28",
+        "End": "33"
+    },
+    {
+        "Video": "c89239d8",
+        "Language Query": "A car comes into view from the left side of the frame",
+        "Start": "27",
+        "End": "32"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person exits the frame to the right",
+        "Start": "14",
+        "End": "16"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person surpasses other cycles",
+        "Start": "23",
+        "End": "45"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle surpasses other cycles",
+        "Start": "23",
+        "End": "45"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle is obstructed from view by another cyclist",
+        "Start": "3",
+        "End": "22"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person is obstructed from view by another cyclist",
+        "Start": "3",
+        "End": "20"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle is obstructed from view by another cyclist",
+        "Start": "5",
+        "End": "24"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person is obstructed from view by another cyclist",
+        "Start": "5",
+        "End": "24"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person surpasses other cycles",
+        "Start": "44",
+        "End": "60"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle surpasses other cycles",
+        "Start": "44",
+        "End": "60"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person surpasses other cycles",
+        "Start": "42",
+        "End": "56"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle surpasses other cycles",
+        "Start": "42",
+        "End": "56"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cyclist glances from his right to the front",
+        "Start": "34",
+        "End": "37"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle surpasses other cycles",
+        "Start": "29",
+        "End": "45"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The person enters the frame from the left side",
+        "Start": "55",
+        "End": "58"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle enters the frame from the left side",
+        "Start": "55",
+        "End": "59"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cyclist surpasses other cycles",
+        "Start": "47",
+        "End": "60"
+    },
+    {
+        "Video": "c7b07fea",
+        "Language Query": "The cycle surpasses other cycles",
+        "Start": "47",
+        "End": "60"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The person circles around",
+        "Start": "1",
+        "End": "98"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The bicycle goes in a circular path",
+        "Start": "1",
+        "End": "98"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "A car remains parked on the roadside",
+        "Start": "1",
+        "End": "131"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The person pivots and moves towards the camera",
+        "Start": "57",
+        "End": "116"
+    },
+    {
+        "Video": "c7543b31",
+        "Language Query": "The person turns around and approaches the camera",
+        "Start": "57",
+        "End": "116"
+    },
+    {
+        "Video": "c705c014",
+        "Language Query": "The cow halts its movement",
+        "Start": "49",
+        "End": "81"
+    },
+    {
+        "Video": "c705c014",
+        "Language Query": "The cow begins eating the leaves",
+        "Start": "34",
+        "End": "86"
+    },
+    {
+        "Video": "c4fd77f2",
+        "Language Query": "The tiger trails behind another tiger",
+        "Start": "41",
+        "End": "72"
+    },
+    {
+        "Video": "c4fd77f2",
+        "Language Query": "The tiger approaches another tiger",
+        "Start": "25",
+        "End": "72"
+    },
+    {
+        "Video": "c4fd77f2",
+        "Language Query": "The tiger enters from the top of the frame",
+        "Start": "5",
+        "End": "37"
+    },
+    {
+        "Video": "c4fd77f2",
+        "Language Query": "The tiger enters from the top of the frame",
+        "Start": "6",
+        "End": "56"
+    },
+    {
+        "Video": "c587e43b",
+        "Language Query": "The lizard pivots to the left",
+        "Start": "2",
+        "End": "16"
+    },
+    {
+        "Video": "c587e43b",
+        "Language Query": "The person's hand vanishes from the left",
+        "Start": "10",
+        "End": "15"
+    },
+    {
+        "Video": "c4ecad66",
+        "Language Query": "The elephant passes beneath the trunk of another elephant",
+        "Start": "100",
+        "End": "121"
+    },
+    {
+        "Video": "c4ecad66",
+        "Language Query": "The elephant moves in reverse",
+        "Start": "1",
+        "End": "38"
+    },
+    {
+        "Video": "c4ecad66",
+        "Language Query": "The elephant extends its trunk across the face of another elephant",
+        "Start": "30",
+        "End": "35"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish emerges from behind the rock",
+        "Start": "1",
+        "End": "20"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish veers to the right",
+        "Start": "19",
+        "End": "44"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish gradually sinks",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "c34989e3",
+        "Language Query": "The fish rises between a rock and a platform",
+        "Start": "12",
+        "End": "21"
+    },
+    {
+        "Video": "ba5644c3",
+        "Language Query": "The cow slips and sits down on the ground",
+        "Start": "40",
+        "End": "46"
+    },
+    {
+        "Video": "ba5644c3",
+        "Language Query": "The cow resumes walking",
+        "Start": "38",
+        "End": "47"
+    },
+    {
+        "Video": "bd34e772",
+        "Language Query": "The lizard gazes down at the food bowl",
+        "Start": "4",
+        "End": "9"
+    },
+    {
+        "Video": "bd34e772",
+        "Language Query": "The lizard tilts forward into the food bowl",
+        "Start": "1",
+        "End": "4"
+    },
+    {
+        "Video": "c29ce49d",
+        "Language Query": "The dog rises from a lying position",
+        "Start": "3",
+        "End": "11"
+    },
+    {
+        "Video": "c29ce49d",
+        "Language Query": "The dog leaps onto another dog",
+        "Start": "5",
+        "End": "9"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horse passes other horses",
+        "Start": "1",
+        "End": "25"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horseman passes other horsemen",
+        "Start": "1",
+        "End": "25"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horse vanishes from the right side of the frame",
+        "Start": "22",
+        "End": "24"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horseman vanishes from the right side of the frame",
+        "Start": "23",
+        "End": "24"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horse is obscured by another horseman",
+        "Start": "8",
+        "End": "11"
+    },
+    {
+        "Video": "b97c4e2b",
+        "Language Query": "The horseman is obscured by another horseman",
+        "Start": "8",
+        "End": "11"
+    },
+    {
+        "Video": "b8e00b22",
+        "Language Query": "The horse bumps into another horse",
+        "Start": "3",
+        "End": "7"
+    },
+    {
+        "Video": "b8e00b22",
+        "Language Query": "The horse rears up on its hind legs",
+        "Start": "6",
+        "End": "10"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish switches direction from right to left",
+        "Start": "33",
+        "End": "48"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish glides through the water to the surface of the water",
+        "Start": "15",
+        "End": "35"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish switches direction from right to left",
+        "Start": "23",
+        "End": "34"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish swims of and moves away from the camera",
+        "Start": "56",
+        "End": "68"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish switches direction from right to left",
+        "Start": "85",
+        "End": "106"
+    },
+    {
+        "Video": "b87840e1",
+        "Language Query": "The fish switches direction from right to left",
+        "Start": "92",
+        "End": "104"
+    },
+    {
+        "Video": "b7b9f632",
+        "Language Query": "The fish glides through the water to the surface of the water",
+        "Start": "7",
+        "End": "19"
+    },
+    {
+        "Video": "b7b9f632",
+        "Language Query": "The fish rises upwards",
+        "Start": "9",
+        "End": "22"
+    },
+    {
+        "Video": "b7b9f632",
+        "Language Query": "The fish switches direction from right to left",
+        "Start": "20",
+        "End": "28"
+    },
+    {
+        "Video": "b692e3cb",
+        "Language Query": "The dog begins walking to the left",
+        "Start": "15",
+        "End": "27"
+    },
+    {
+        "Video": "b692e3cb",
+        "Language Query": "The dog leaps at another dog",
+        "Start": "26",
+        "End": "29"
+    },
+    {
+        "Video": "b692e3cb",
+        "Language Query": "The dog moves backward",
+        "Start": "27",
+        "End": "32"
+    },
+    {
+        "Video": "b643add8",
+        "Language Query": "The person spins in a circle",
+        "Start": "1",
+        "End": "42"
+    },
+    {
+        "Video": "b643add8",
+        "Language Query": "The bike spins on its rear tire while upright",
+        "Start": "1",
+        "End": "42"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant halts its movement",
+        "Start": "120",
+        "End": "170"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant lifts its front legs onto another elephant's body",
+        "Start": "143",
+        "End": "173"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant lifts its front legs onto another elephant's body",
+        "Start": "143",
+        "End": "170"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant lifts its front legs onto another elephant's body",
+        "Start": "151",
+        "End": "173"
+    },
+    {
+        "Video": "af48b2f9",
+        "Language Query": "The elephant lifts its front legs onto another elephant's body",
+        "Start": "156",
+        "End": "172"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "A car makes a right turn",
+        "Start": "13",
+        "End": "30"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "A car makes a right turn",
+        "Start": "40",
+        "End": "63"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "A car makes a right turn",
+        "Start": "53",
+        "End": "66"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "A car vanishes behind another car",
+        "Start": "50",
+        "End": "55"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "A car exits the frame to the right",
+        "Start": "14",
+        "End": "19"
+    },
+    {
+        "Video": "ac8ecb27",
+        "Language Query": "A car vanishes behind another car",
+        "Start": "33",
+        "End": "37"
+    },
+    {
+        "Video": "aaa8bd16",
+        "Language Query": "The panda leaps onto another panda",
+        "Start": "8",
+        "End": "14"
+    },
+    {
+        "Video": "aa925437",
+        "Language Query": "The cat gazes towards the camera",
+        "Start": "73",
+        "End": "77"
+    },
+    {
+        "Video": "aa925437",
+        "Language Query": "A cat clutches a toy with its paw",
+        "Start": "52",
+        "End": "67"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat shifts its mouth to the right and nibbles on food",
+        "Start": "16",
+        "End": "30"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat approaches the food near the steel bars",
+        "Start": "4",
+        "End": "30"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat sticks its head through the steel bars",
+        "Start": "27",
+        "End": "36"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat pivots and walks back",
+        "Start": "9",
+        "End": "33"
+    },
+    {
+        "Video": "a87bbd47",
+        "Language Query": "The goat turns its head to the left",
+        "Start": "30",
+        "End": "36"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra exits the frame to the left",
+        "Start": "1",
+        "End": "5"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra exits the frame to the left",
+        "Start": "6",
+        "End": "13"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra exits the frame to the left",
+        "Start": "12",
+        "End": "20"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra makes a small step to the left",
+        "Start": "15",
+        "End": "20"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra exits the frame to the left",
+        "Start": "17",
+        "End": "23"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra leaps quickly",
+        "Start": "20",
+        "End": "24"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "The zebra heads to the left",
+        "Start": "21",
+        "End": "28"
+    },
+    {
+        "Video": "aa8df541",
+        "Language Query": "A cow enters the frame from the right side",
+        "Start": "19",
+        "End": "24"
+    },
+    {
+        "Video": "a42fcfa9",
+        "Language Query": "A cat nips at the hand",
+        "Start": "19",
+        "End": "36"
+    },
+    {
+        "Video": "a42fcfa9",
+        "Language Query": "The hand lifts towards the cat's face",
+        "Start": "11",
+        "End": "21"
+    },
+    {
+        "Video": "a74b52eb",
+        "Language Query": "The plane alters its direction to the left",
+        "Start": "19",
+        "End": "45"
+    },
+    {
+        "Video": "a5249886",
+        "Language Query": "A bird shifts slightly to the left",
+        "Start": "4",
+        "End": "23"
+    },
+    {
+        "Video": "a5249886",
+        "Language Query": "The bird bends its head down to the food bowl",
+        "Start": "5",
+        "End": "9"
+    },
+    {
+        "Video": "a5249886",
+        "Language Query": "A bird gazes down at the food bowl",
+        "Start": "8",
+        "End": "14"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit exits the frame to the left",
+        "Start": "1",
+        "End": "6"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit begins walking from a seated position",
+        "Start": "8",
+        "End": "15"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit spins around and moves towards the red bowl",
+        "Start": "12",
+        "End": "21"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit moves beneath other rabbits",
+        "Start": "7",
+        "End": "26"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit shifts its head from right to left",
+        "Start": "18",
+        "End": "30"
+    },
+    {
+        "Video": "a10de0fc",
+        "Language Query": "The rabbit lowers its head from the top of the cage",
+        "Start": "3",
+        "End": "11"
+    },
+    {
+        "Video": "a16e9661",
+        "Language Query": "A bull heads to the right",
+        "Start": "16",
+        "End": "30"
+    },
+    {
+        "Video": "a16e9661",
+        "Language Query": "A bull heads to the left",
+        "Start": "16",
+        "End": "30"
+    },
+    {
+        "Video": "9069547d",
+        "Language Query": "A bird jumps onto another bird",
+        "Start": "40",
+        "End": "42"
+    },
+    {
+        "Video": "9069547d",
+        "Language Query": "A bird circles around another bird",
+        "Start": "6",
+        "End": "18"
+    },
+    {
+        "Video": "95718597",
+        "Language Query": "The bear is circling around the tree",
+        "Start": "21",
+        "End": "48"
+    },
+    {
+        "Video": "69398c01",
+        "Language Query": "A cat pounces on another cat",
+        "Start": "24",
+        "End": "54"
+    },
+    {
+        "Video": "69398c01",
+        "Language Query": "A cat is being flipped over by another cat",
+        "Start": "26",
+        "End": "31"
+    },
+    {
+        "Video": "817263d6",
+        "Language Query": "A boat shifts to the left and straightens",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "817263d6",
+        "Language Query": "The ship drops into the water from a height",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "817263d6",
+        "Language Query": "A boat shifts to the right and straightens",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey moves away from the box",
+        "Start": "3",
+        "End": "26"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey seizes a yellow object",
+        "Start": "8",
+        "End": "16"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey places a yellow object in its mouth",
+        "Start": "18",
+        "End": "22"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey retrieves an object from the box",
+        "Start": "17",
+        "End": "21"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey exits the frame to the right",
+        "Start": "43",
+        "End": "45"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey takes hold of a yellow object and places it in its mouth",
+        "Start": "53",
+        "End": "66"
+    },
+    {
+        "Video": "6312935f",
+        "Language Query": "The monkey comes into view from behind another monkey",
+        "Start": "65",
+        "End": "66"
+    },
+    {
+        "Video": "30446667",
+        "Language Query": "The bike tilts from the left to the right",
+        "Start": "16",
+        "End": "33"
+    },
+    {
+        "Video": "30446667",
+        "Language Query": "The biker tilts from left to right",
+        "Start": "16",
+        "End": "33"
+    },
+    {
+        "Video": "30446667",
+        "Language Query": "The bike passes another bike",
+        "Start": "48",
+        "End": "56"
+    },
+    {
+        "Video": "30446667",
+        "Language Query": "The biker passes another biker",
+        "Start": "48",
+        "End": "56"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep remains upright motionless",
+        "Start": "15",
+        "End": "31"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep begins walking",
+        "Start": "53",
+        "End": "65"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep remains upright motionless",
+        "Start": "7",
+        "End": "35"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep pivots to the left",
+        "Start": "48",
+        "End": "63"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep remains upright motionless",
+        "Start": "15",
+        "End": "37"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "The sheep remains upright motionless",
+        "Start": "14",
+        "End": "52"
+    },
+    {
+        "Video": "19615388",
+        "Language Query": "A sheep enters the frame from the right",
+        "Start": "57",
+        "End": "61"
+    },
+    {
+        "Video": "1a4b95d3",
+        "Language Query": "A panda is preparing to climb a tree",
+        "Start": "17",
+        "End": "23"
+    },
+    {
+        "Video": "1a4b95d3",
+        "Language Query": "A panda is preparing to climb a tree",
+        "Start": "17",
+        "End": "29"
+    },
+    {
+        "Video": "1a4b95d3",
+        "Language Query": "A panda is remaining still and not moving towards the tree",
+        "Start": "1",
+        "End": "23"
+    },
+    {
+        "Video": "1aa4e7f6",
+        "Language Query": "A dog is walking away from the camera",
+        "Start": "23",
+        "End": "35"
+    },
+    {
+        "Video": "1aa4e7f6",
+        "Language Query": "A dog is staying in the same position and not moving",
+        "Start": "1",
+        "End": "35"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "A horse is moving to the left",
+        "Start": "1",
+        "End": "42"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "A horse is moving to the left",
+        "Start": "35",
+        "End": "42"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "A horse begins to walk to the left",
+        "Start": "40",
+        "End": "42"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "A horse is moving in circles around a person",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "A person is issuing commands to a horse",
+        "Start": "1",
+        "End": "16"
+    },
+    {
+        "Video": "1ef6cb7b",
+        "Language Query": "A bird is no longer flying",
+        "Start": "1",
+        "End": "85"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "A goat is approaching the railing",
+        "Start": "1",
+        "End": "15"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "A goat is approaching the railing",
+        "Start": "1",
+        "End": "11"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "A goat is approaching the camera",
+        "Start": "1",
+        "End": "10"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "A goat is approaching the camera",
+        "Start": "1",
+        "End": "16"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "A goat is approaching the camera",
+        "Start": "1",
+        "End": "17"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "A goat is glancing to the left",
+        "Start": "9",
+        "End": "29"
+    },
+    {
+        "Video": "1f17cd7c",
+        "Language Query": "A goat is glancing to the left",
+        "Start": "7",
+        "End": "35"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "A bird is entering the food container from the floor",
+        "Start": "22",
+        "End": "25"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "A bird is entering the food container from the floor",
+        "Start": "16",
+        "End": "32"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "A bird is entering the food container from the floor",
+        "Start": "57",
+        "End": "59"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "A bird is entering the food container from the floor",
+        "Start": "76",
+        "End": "85"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "A bird is bothering the other birds",
+        "Start": "3",
+        "End": "10"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "A bird is bothering the other birds",
+        "Start": "25",
+        "End": "51"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "A bird is bothering the other birds",
+        "Start": "79",
+        "End": "87"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "A bird is flying around the food container",
+        "Start": "1",
+        "End": "87"
+    },
+    {
+        "Video": "7223bf62",
+        "Language Query": "A bunny is smelling the bed sheet",
+        "Start": "18",
+        "End": "24"
+    },
+    {
+        "Video": "7223bf62",
+        "Language Query": "A bunny is nibbling on leaves",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "A person on a bicycle is moving away from the camera",
+        "Start": "1",
+        "End": "22"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "A person on a bicycle is moving away from the camera",
+        "Start": "1",
+        "End": "28"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "A person on a bicycle is moving away from the camera",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "A bicycle is riding away from the camera",
+        "Start": "1",
+        "End": "22"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "A bicycle is riding away from the camera",
+        "Start": "1",
+        "End": "28"
+    },
+    {
+        "Video": "6976cf19",
+        "Language Query": "A bicycle is riding away from the camera",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "The tiger is moving to the left",
+        "Start": "1",
+        "End": "28"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "The tiger is moving to the left",
+        "Start": "1",
+        "End": "37"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "The tiger is moving to the left",
+        "Start": "70",
+        "End": "88"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "The tiger is smelling a bus",
+        "Start": "9",
+        "End": "58"
+    },
+    {
+        "Video": "5834b092",
+        "Language Query": "The tiger is not moving",
+        "Start": "1",
+        "End": "88"
+    },
+    {
+        "Video": "4027a35b",
+        "Language Query": "A bunny is engaging in a fight with another bunny",
+        "Start": "1",
+        "End": "28"
+    },
+    {
+        "Video": "3054dbaf",
+        "Language Query": "A chicken is pecking food off the floor",
+        "Start": "19",
+        "End": "44"
+    },
+    {
+        "Video": "3054dbaf",
+        "Language Query": "A chicken is pecking food off the floor",
+        "Start": "36",
+        "End": "42"
+    },
+    {
+        "Video": "3054dbaf",
+        "Language Query": "A chicken on the wall is moving to the left",
+        "Start": "1",
+        "End": "6"
+    },
+    {
+        "Video": "3054dbaf",
+        "Language Query": "A chicken is climbing from the floor to the top of the wall",
+        "Start": "39",
+        "End": "42"
+    },
+    {
+        "Video": "1806a28d",
+        "Language Query": "The airplane is flying faster than another one",
+        "Start": "1",
+        "End": "108"
+    },
+    {
+        "Video": "1806a28d",
+        "Language Query": "The airplane is flying slower than another one",
+        "Start": "1",
+        "End": "108"
+    },
+    {
+        "Video": "1220b722",
+        "Language Query": "A person is mounting a bicycle",
+        "Start": "140",
+        "End": "148"
+    },
+    {
+        "Video": "1220b722",
+        "Language Query": "A person is riding their bicycle towards the left",
+        "Start": "78",
+        "End": "115"
+    },
+    {
+        "Video": "1220b722",
+        "Language Query": "The bicycle is heading to the left",
+        "Start": "78",
+        "End": "115"
+    },
+    {
+        "Video": "1123fd76",
+        "Language Query": "A dog is engaging in a fight with another dog",
+        "Start": "1",
+        "End": "71"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "A bird strikes another with its beak",
+        "Start": "13",
+        "End": "15"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "A bird is moving to the left",
+        "Start": "2",
+        "End": "7"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "A bird is tumbling off a plastic bottle",
+        "Start": "12",
+        "End": "15"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "A bird has been struck by another bird's beak",
+        "Start": "13",
+        "End": "15"
+    },
+    {
+        "Video": "957c33a7",
+        "Language Query": "A bird in line briefly approaches the camera",
+        "Start": "37",
+        "End": "42"
+    },
+    {
+        "Video": "768c5810",
+        "Language Query": "A sheep is battling with a cow",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "768c5810",
+        "Language Query": "A cow is battling with a sheep",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "454c7bb5",
+        "Language Query": "A person is moving to the right to park their bike",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "454c7bb5",
+        "Language Query": "A bike is being moved to the right side for parking",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "454c7bb5",
+        "Language Query": "The bike is immobile and parked",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "97f5bbc8",
+        "Language Query": "A bear is engaging in a battle with another bear",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "97f5bbc8",
+        "Language Query": "A bear is coming into view from the right and heading left",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "The vehicle is appearing from the left and exiting on the right",
+        "Start": "10",
+        "End": "18"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "The vehicle is coming into view from the right and going off-screen on the left",
+        "Start": "4",
+        "End": "17"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "A person is appearing in the frame from the right and exiting on the left",
+        "Start": "25",
+        "End": "34"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "The vehicle is coming into view from the right and moving to the left",
+        "Start": "24",
+        "End": "35"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "A person appearing from the right is moving to the left",
+        "Start": "25",
+        "End": "35"
+    },
+    {
+        "Video": "0299d8d6",
+        "Language Query": "The vehicle is still and stopped by the roadside",
+        "Start": "1",
+        "End": "35"
+    },
+    {
+        "Video": "95a50b7d",
+        "Language Query": "The airplane is touching down",
+        "Start": "1",
+        "End": "66"
+    },
+    {
+        "Video": "95a50b7d",
+        "Language Query": "The airplane is touching down",
+        "Start": "1",
+        "End": "54"
+    },
+    {
+        "Video": "95a50b7d",
+        "Language Query": "The airplane is still and remains in its current position",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "95a50b7d",
+        "Language Query": "The airplane is still and remains in its current position",
+        "Start": "18",
+        "End": "32"
+    },
+    {
+        "Video": "90d7f538",
+        "Language Query": "The tiger is engaging in a fight with another tiger",
+        "Start": "25",
+        "End": "40"
+    },
+    {
+        "Video": "86b8e4ec",
+        "Language Query": "A monkey is moving in front of another monkey",
+        "Start": "7",
+        "End": "21"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "An elephant is lifting a basket with its trunk and handing it to a person",
+        "Start": "7",
+        "End": "16"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "An elephant is lifting a basket with its trunk and handing it to a person",
+        "Start": "7",
+        "End": "15"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "An elephant is lifting a basket with its trunk and handing it to a person",
+        "Start": "12",
+        "End": "19"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "A person is taking a basket from the trunk of an elephant",
+        "Start": "15",
+        "End": "18"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "A person is taking a basket from the trunk of an elephant",
+        "Start": "15",
+        "End": "20"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "A person is taking a basket from the trunk of an elephant",
+        "Start": "19",
+        "End": "26"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "A person is signaling with his right hand to begin the race",
+        "Start": "2",
+        "End": "12"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "A person is observing the race from the sidelines",
+        "Start": "1",
+        "End": "19"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "A person is standing next to his elephant and observing the race",
+        "Start": "27",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "A person is standing next to his elephant and observing the race",
+        "Start": "36",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "A person is standing next to his elephant and observing the race",
+        "Start": "45",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "An elephant is standing with its handler and observing the race",
+        "Start": "35",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "An elephant is standing with its handler and observing the race",
+        "Start": "27",
+        "End": "50"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "An elephant is standing with its handler and observing the race",
+        "Start": "44",
+        "End": "50"
+    },
+    {
+        "Video": "71d35513",
+        "Language Query": "A ship is approaching the camera",
+        "Start": "1",
+        "End": "33"
+    },
+    {
+        "Video": "71d35513",
+        "Language Query": "A ship is heading to the right",
+        "Start": "1",
+        "End": "33"
+    },
+    {
+        "Video": "68d9fb6a",
+        "Language Query": "A duck is moving to the left",
+        "Start": "12",
+        "End": "36"
+    },
+    {
+        "Video": "48cd08af",
+        "Language Query": "A bird is flying to the right and then landing on another bird",
+        "Start": "4",
+        "End": "12"
+    },
+    {
+        "Video": "48cd08af",
+        "Language Query": "A bird is flying out of the frame from the bottom",
+        "Start": "28",
+        "End": "30"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "The tiger is moving to the right",
+        "Start": "1",
+        "End": "12"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "The tiger is moving to the right",
+        "Start": "1",
+        "End": "48"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "The tiger is moving to the right",
+        "Start": "23",
+        "End": "48"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "The tiger is resting on the ground",
+        "Start": "33",
+        "End": "48"
+    },
+    {
+        "Video": "39f0d139",
+        "Language Query": "The tiger has its front legs resting on another tiger",
+        "Start": "25",
+        "End": "32"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "The airplane on the runway is turning to the left",
+        "Start": "1",
+        "End": "27"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "The airplane on the runway is still and remains in the same place",
+        "Start": "1",
+        "End": "19"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "The airplane on the runway is still and remains in the same place",
+        "Start": "16",
+        "End": "27"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "The airplane on the runway is still and remains in the same place",
+        "Start": "14",
+        "End": "26"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "The airplane on the runway is still and remains in the same place",
+        "Start": "22",
+        "End": "27"
+    },
+    {
+        "Video": "35dff164",
+        "Language Query": "The airplane on the runway is still and remains in the same place",
+        "Start": "26",
+        "End": "27"
+    },
+    {
+        "Video": "15e09c8c",
+        "Language Query": "A bunny is moving from the center of the group to the left side",
+        "Start": "15",
+        "End": "22"
+    },
+    {
+        "Video": "15e09c8c",
+        "Language Query": "A bunny is moving from the left side of the group to the middle",
+        "Start": "15",
+        "End": "22"
+    },
+    {
+        "Video": "15e09c8c",
+        "Language Query": "A bunny is gazing at the camera",
+        "Start": "30",
+        "End": "32"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "A monkey is smelling another monkey",
+        "Start": "29",
+        "End": "38"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "A monkey is shoving another monkey",
+        "Start": "49",
+        "End": "50"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "One monkey is being shoved by another monkey",
+        "Start": "49",
+        "End": "50"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "One monkey is being pulled by another monkey",
+        "Start": "57",
+        "End": "59"
+    },
+    {
+        "Video": "012b09a0",
+        "Language Query": "A monkey stays still and remains in the same spot",
+        "Start": "1",
+        "End": "70"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "A person on a bike is riding around another bike",
+        "Start": "5",
+        "End": "59"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "A person on a bike is riding around another bike",
+        "Start": "39",
+        "End": "72"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "A bike is rotating around another bike",
+        "Start": "5",
+        "End": "59"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "A bike is rotating around another bike",
+        "Start": "39",
+        "End": "72"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "A person is dismounting the bike",
+        "Start": "10",
+        "End": "25"
+    },
+    {
+        "Video": "9ed568e9",
+        "Language Query": "The bike is still and stays in the same spot",
+        "Start": "1",
+        "End": "72"
+    },
+    {
+        "Video": "9b318a9c",
+        "Language Query": "A giraffe is raising another giraffe's back leg with its head",
+        "Start": "5",
+        "End": "24"
+    },
+    {
+        "Video": "9b318a9c",
+        "Language Query": "Giraffe's back leg is being raised by another giraffe",
+        "Start": "5",
+        "End": "24"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "A person is shifting the bike to the left",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "A person is pushing the bike to the left",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "The bike is still and stays in the same spot",
+        "Start": "1",
+        "End": "42"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "A person on a bike is moving from right to left",
+        "Start": "18",
+        "End": "28"
+    },
+    {
+        "Video": "7a8cfc91",
+        "Language Query": "The bike is moving from right to left",
+        "Start": "17",
+        "End": "29"
+    },
+    {
+        "Video": "6c88a53b",
+        "Language Query": "A giraffe is assaulting another giraffe",
+        "Start": "8",
+        "End": "29"
+    },
+    {
+        "Video": "6c88a53b",
+        "Language Query": "A giraffe is assaulting another giraffe",
+        "Start": "43",
+        "End": "49"
+    },
+    {
+        "Video": "6a47103e",
+        "Language Query": "The zebra is heading to the right",
+        "Start": "20",
+        "End": "35"
+    },
+    {
+        "Video": "6a47103e",
+        "Language Query": "The zebra looking to the left is moving away from the camera",
+        "Start": "19",
+        "End": "29"
+    },
+    {
+        "Video": "6a47103e",
+        "Language Query": "The zebra looking at the camera is rotating to the left",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "06eb2803",
+        "Language Query": "A goat is resting its front legs on the back of another goat",
+        "Start": "17",
+        "End": "30"
+    },
+    {
+        "Video": "06eb2803",
+        "Language Query": "A goat is searching for something on the ground",
+        "Start": "53",
+        "End": "60"
+    },
+    {
+        "Video": "06eb2803",
+        "Language Query": "A person is heading towards the goats",
+        "Start": "38",
+        "End": "60"
+    },
+    {
+        "Video": "06eb2803",
+        "Language Query": "A person is standing still and remains in the same spot",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "4d6a99ec",
+        "Language Query": "A monkey is climbing down from the back of another monkey",
+        "Start": "1",
+        "End": "7"
+    },
+    {
+        "Video": "4d6a99ec",
+        "Language Query": "A monkey has its right hand resting on the left shoulder of another monkey",
+        "Start": "17",
+        "End": "45"
+    },
+    {
+        "Video": "4d6a99ec",
+        "Language Query": "A monkey is examining the front of another monkey's body with its hand",
+        "Start": "42",
+        "End": "45"
+    },
+    {
+        "Video": "3d8b1ee0",
+        "Language Query": "A lizard is battling another lizard",
+        "Start": "1",
+        "End": "15"
+    },
+    {
+        "Video": "3c5e3be8",
+        "Language Query": "An elephant is moving to the right",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "3c5e3be8",
+        "Language Query": "An elephant is moving to the left",
+        "Start": "1",
+        "End": "24"
+    },
+    {
+        "Video": "3c5e3be8",
+        "Language Query": "An elephant is approaching the camera",
+        "Start": "1",
+        "End": "15"
+    },
+    {
+        "Video": "3c4f150c",
+        "Language Query": "A bird is moving from the bottom of the cage to the perch",
+        "Start": "34",
+        "End": "35"
+    },
+    {
+        "Video": "3c4f150c",
+        "Language Query": "A bird is moving from the bottom of the cage to the perch",
+        "Start": "86",
+        "End": "87"
+    },
+    {
+        "Video": "3c4f150c",
+        "Language Query": "A bird is moving from the bottom of the cage to the perch",
+        "Start": "131",
+        "End": "132"
+    },
+    {
+        "Video": "2d802cb8",
+        "Language Query": "A cat is moving from right to left",
+        "Start": "38",
+        "End": "49"
+    },
+    {
+        "Video": "2d802cb8",
+        "Language Query": "A cat is staying still and remaining in the same spot",
+        "Start": "1",
+        "End": "50"
+    },
+    {
+        "Video": "2d0f3000",
+        "Language Query": "A bird is engaging in combat with another bird",
+        "Start": "28",
+        "End": "68"
+    },
+    {
+        "Video": "2d0f3000",
+        "Language Query": "A bird is engaging in combat with another bird",
+        "Start": "77",
+        "End": "92"
+    },
+    {
+        "Video": "2d0f3000",
+        "Language Query": "A bird is engaging in combat with another bird",
+        "Start": "101",
+        "End": "121"
+    },
+    {
+        "Video": "2cc7839e",
+        "Language Query": "A cow is feeding from the food container",
+        "Start": "33",
+        "End": "72"
+    },
+    {
+        "Video": "2cc7839e",
+        "Language Query": "A cow is feeding from the food container",
+        "Start": "10",
+        "End": "41"
+    },
+    {
+        "Video": "2cc7839e",
+        "Language Query": "A cow is stepping backward",
+        "Start": "55",
+        "End": "72"
+    },
+    {
+        "Video": "2cc7839e",
+        "Language Query": "A cow is smelling the food container",
+        "Start": "63",
+        "End": "68"
+    },
+    {
+        "Video": "2ca20519",
+        "Language Query": "The yacht is moving to the right",
+        "Start": "1",
+        "End": "45"
+    },
+    {
+        "Video": "2ca20519",
+        "Language Query": "The yacht is moving to the left",
+        "Start": "1",
+        "End": "45"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "The zebra is grazing on grass in the field",
+        "Start": "1",
+        "End": "15"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "The zebra is grazing on grass in the field",
+        "Start": "1",
+        "End": "21"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "The zebra is grazing on grass in the field",
+        "Start": "1",
+        "End": "24"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "The zebra is grazing on grass in the field",
+        "Start": "1",
+        "End": "48"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "The zebra has its front legs resting on the back of another zebra",
+        "Start": "51",
+        "End": "126"
+    },
+    {
+        "Video": "0d0030a7",
+        "Language Query": "The zebra is gazing at the camera",
+        "Start": "85",
+        "End": "114"
+    },
+    {
+        "Video": "2a19d8a2",
+        "Language Query": "A sheep is moving away from the camera",
+        "Start": "48",
+        "End": "85"
+    },
+    {
+        "Video": "2a19d8a2",
+        "Language Query": "A sheep is moving away from the camera",
+        "Start": "53",
+        "End": "85"
+    },
+    {
+        "Video": "2a19d8a2",
+        "Language Query": "A sheep is moving away from the camera",
+        "Start": "77",
+        "End": "85"
+    },
+    {
+        "Video": "2ab06287",
+        "Language Query": "A dog is establishing dominance in a fight with another dog",
+        "Start": "1",
+        "End": "96"
+    },
+    {
+        "Video": "2ab06287",
+        "Language Query": "A dog is being overpowered in a fight with another dog",
+        "Start": "1",
+        "End": "96"
+    },
+    {
+        "Video": "2b6e117d",
+        "Language Query": "A giraffe near the fence is moving to the right",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b6e117d",
+        "Language Query": "A giraffe near the fence is feeding leaves",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b6e117d",
+        "Language Query": "A person is watching the giraffe",
+        "Start": "27",
+        "End": "30"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "A person on a bike is leaping",
+        "Start": "14",
+        "End": "19"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "A person on a bike is leaping",
+        "Start": "17",
+        "End": "20"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "A person on a bike is leaping",
+        "Start": "17",
+        "End": "22"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "A person on a bike is leaping",
+        "Start": "19",
+        "End": "22"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "A person on a bike is leaping",
+        "Start": "22",
+        "End": "26"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "The bike is leaping",
+        "Start": "14",
+        "End": "19"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "The bike is leaping",
+        "Start": "17",
+        "End": "20"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "The bike is leaping",
+        "Start": "17",
+        "End": "22"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "The bike is leaping",
+        "Start": "19",
+        "End": "22"
+    },
+    {
+        "Video": "2b827e3a",
+        "Language Query": "The bike is leaping",
+        "Start": "22",
+        "End": "26"
+    },
+    {
+        "Video": "2b84174e",
+        "Language Query": "A dog is engaging in a fight with another dog",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b84174e",
+        "Language Query": "A dog is avoiding participation in the fight",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b84174e",
+        "Language Query": "A dog is avoiding participation in the fight",
+        "Start": "1",
+        "End": "17"
+    },
+    {
+        "Video": "2b84174e",
+        "Language Query": "A dog is avoiding participation in the fight",
+        "Start": "1",
+        "End": "16"
+    },
+    {
+        "Video": "2c22cd4e",
+        "Language Query": "A cat is engaging in a tussle with another cat",
+        "Start": "1",
+        "End": "92"
+    },
+    {
+        "Video": "2c22cd4e",
+        "Language Query": "A cat is engaging in a tussle with another cat",
+        "Start": "97",
+        "End": "102"
+    },
+    {
+        "Video": "8b935b9f",
+        "Language Query": "A bear is engaging in a battle with another bear",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "A fish is swimming to the right",
+        "Start": "1",
+        "End": "19"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "A fish is swimming to the right",
+        "Start": "1",
+        "End": "25"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "A fish in the water is exiting the frame from the bottom",
+        "Start": "1",
+        "End": "25"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "A fish in the water is exiting the frame to the left",
+        "Start": "1",
+        "End": "20"
+    },
+    {
+        "Video": "2a02f752",
+        "Language Query": "A fish comes into the frame from the right side and moves towards the left",
+        "Start": "19",
+        "End": "36"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "A bird is moving from the bottom of the cage to the perch",
+        "Start": "13",
+        "End": "15"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "A bird is turning right",
+        "Start": "12",
+        "End": "21"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "A bird on the perch briefly moves to the right",
+        "Start": "1",
+        "End": "6"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "A bird at the bottom of the cage stays still and remains in the same spot continuously",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2bd72d60",
+        "Language Query": "A bird perched on the stand is still and remains in place at all times",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "1",
+        "End": "95"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "15",
+        "End": "17"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "33",
+        "End": "89"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "81",
+        "End": "87"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "4",
+        "End": "8"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "24",
+        "End": "26"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "54",
+        "End": "56"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "70",
+        "End": "73"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "19",
+        "End": "21"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "40",
+        "End": "42"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "49",
+        "End": "51"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "27",
+        "End": "30"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is consuming something from the ground",
+        "Start": "41",
+        "End": "43"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is refusing to eat food from the ground",
+        "Start": "1",
+        "End": "29"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is refusing to eat food from the ground",
+        "Start": "72",
+        "End": "86"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is refusing to eat food from the ground",
+        "Start": "56",
+        "End": "90"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is refusing to eat food from the ground",
+        "Start": "23",
+        "End": "95"
+    },
+    {
+        "Video": "3d04522a",
+        "Language Query": "A duck is refusing to eat food from the ground",
+        "Start": "1",
+        "End": "47"
+    },
+    {
+        "Video": "7e52df6a",
+        "Language Query": "A panda is feeding from a container",
+        "Start": "1",
+        "End": "36"
+    },
+    {
+        "Video": "7e52df6a",
+        "Language Query": "A panda is feeding from a container",
+        "Start": "8",
+        "End": "36"
+    },
+    {
+        "Video": "7e52df6a",
+        "Language Query": "A panda is feeding from a container",
+        "Start": "8",
+        "End": "31"
+    },
+    {
+        "Video": "7e52df6a",
+        "Language Query": "A panda is feeding from a container",
+        "Start": "17",
+        "End": "19"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "A monkey stays still and remains in place",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "A monkey is exiting the frame to the right",
+        "Start": "1",
+        "End": "10"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "A monkey is exiting the frame to the right",
+        "Start": "20",
+        "End": "25"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "A monkey is exiting the frame to the right",
+        "Start": "20",
+        "End": "24"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "A monkey coming into the frame from the left is resting on a stone",
+        "Start": "13",
+        "End": "20"
+    },
+    {
+        "Video": "257cca89",
+        "Language Query": "A monkey is coming into the frame from the left",
+        "Start": "29",
+        "End": "30"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "The turtle climbs onto the back of another turtle",
+        "Start": "20",
+        "End": "30"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "The turtle is transporting another turtle on its shell",
+        "Start": "20",
+        "End": "30"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "The turtle is consuming something in the water",
+        "Start": "42",
+        "End": "58"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "The turtle is consuming something in the water",
+        "Start": "72",
+        "End": "73"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "The turtle is consuming something in the water",
+        "Start": "55",
+        "End": "58"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "The turtle is consuming something in the water",
+        "Start": "23",
+        "End": "55"
+    },
+    {
+        "Video": "429d96d4",
+        "Language Query": "The turtle is consuming something in the water",
+        "Start": "57",
+        "End": "60"
+    },
+    {
+        "Video": "567bfc5a",
+        "Language Query": "A cat is observing something",
+        "Start": "1",
+        "End": "52"
+    },
+    {
+        "Video": "567bfc5a",
+        "Language Query": "A cat remains still in the same position constantly",
+        "Start": "1",
+        "End": "52"
+    },
+    {
+        "Video": "5251dbb9",
+        "Language Query": "A person's hand places a bird into view",
+        "Start": "28",
+        "End": "30"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "A goat is facing the camera",
+        "Start": "1",
+        "End": "52"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "A goat is facing the camera",
+        "Start": "30",
+        "End": "36"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "A goat is smelling the wall",
+        "Start": "19",
+        "End": "23"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "A goat is smelling the wall",
+        "Start": "19",
+        "End": "29"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "A goat is glancing to the right while facing away from the camera",
+        "Start": "20",
+        "End": "35"
+    },
+    {
+        "Video": "2112a80d",
+        "Language Query": "A goat from the right is moving behind other goats",
+        "Start": "1",
+        "End": "48"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A person on a bike is exiting the frame to the right",
+        "Start": "1",
+        "End": "4"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A person on a bike is exiting the frame to the right",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "The bike is exiting the frame to the right",
+        "Start": "1",
+        "End": "5"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "The bike is exiting the frame to the right",
+        "Start": "1",
+        "End": "14"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "The vehicle is exiting the frame on the right side",
+        "Start": "1",
+        "End": "11"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "The vehicle stays still and remains in the same spot at all times",
+        "Start": "1",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A person on a bike is traveling from right to left",
+        "Start": "1",
+        "End": "13"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "The bike is heading from right to left",
+        "Start": "1",
+        "End": "12"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A person on a bike coming from the right is exiting the frame to the left",
+        "Start": "1",
+        "End": "22"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A bike approaching from the right is leaving the frame on the left",
+        "Start": "5",
+        "End": "22"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A person on a bike entering from the left is exiting the frame to the right",
+        "Start": "7",
+        "End": "23"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A bike coming into the frame from the left is exiting the frame to the right",
+        "Start": "8",
+        "End": "23"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A person on a bike entering the frame from the left is moving to the right",
+        "Start": "9",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A bike coming in from the left is moving to the right",
+        "Start": "8",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "The vehicle is coming into view from the left and moving to the right",
+        "Start": "13",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "The vehicle is coming into view from the right and heading towards the left",
+        "Start": "15",
+        "End": "31"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A person on a bike entering the frame from the left is moving to the right",
+        "Start": "3",
+        "End": "16"
+    },
+    {
+        "Video": "6073aa21",
+        "Language Query": "A bike coming in from the left is moving to the right",
+        "Start": "2",
+        "End": "15"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "A goat is peering over the wall",
+        "Start": "17",
+        "End": "64"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "A goat is peering over the wall",
+        "Start": "73",
+        "End": "104"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "A goat is peering over the wall",
+        "Start": "20",
+        "End": "57"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "A goat is peering over the wall",
+        "Start": "100",
+        "End": "111"
+    },
+    {
+        "Video": "505ed57c",
+        "Language Query": "A goat refrains from peeking over the wall",
+        "Start": "1",
+        "End": "111"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A person on a bicycle is turning slightly to the right",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A person on a bicycle is turning slightly to the right",
+        "Start": "8",
+        "End": "11"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A person on a bicycle is turning slightly to the right",
+        "Start": "24",
+        "End": "28"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A person on a bicycle is turning slightly to the right",
+        "Start": "22",
+        "End": "24"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A person on a bicycle is turning slightly to the right",
+        "Start": "36",
+        "End": "39"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A person on a bicycle is turning slightly to the right",
+        "Start": "32",
+        "End": "36"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A bicycle is turning gently to the right",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A bicycle is turning gently to the right",
+        "Start": "8",
+        "End": "11"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A bicycle is turning gently to the right",
+        "Start": "24",
+        "End": "28"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A bicycle is turning gently to the right",
+        "Start": "22",
+        "End": "24"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A bicycle is turning gently to the right",
+        "Start": "36",
+        "End": "39"
+    },
+    {
+        "Video": "435d99e0",
+        "Language Query": "A bicycle is turning gently to the right",
+        "Start": "32",
+        "End": "36"
+    },
+    {
+        "Video": "4d63d7df",
+        "Language Query": "A fish is gliding through the aquarium",
+        "Start": "1",
+        "End": "60"
+    },
+    {
+        "Video": "6a6547d7",
+        "Language Query": "A rabbit is interacting with another rabbit",
+        "Start": "1",
+        "End": "54"
+    },
+    {
+        "Video": "15e281a9",
+        "Language Query": "A bird is cruising through the sky",
+        "Start": "1",
+        "End": "30"
+    }
+]
