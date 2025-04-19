@@ -73,10 +73,10 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
         start = int(item["Start"])
         end = int(item["End"])
 
-        # 获取视频时长
+        # 获取视频时长。假如是奇数帧，则最后一帧显示2s。Start-End时间间隔保持不变。
         duration = video_length_map.get(video, 0)
         if duration % 2 != 0:
-            duration -= 1
+            duration += 1
         vid = f"{video}_0.0_{duration}.0"
 
         key = (video, query)
@@ -93,10 +93,12 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
             }
             start_qid += 1
 
-        # 1) [20,25]=>[19,25] 其中cfff47c3从171-334 2) 判断奇偶 [19,25]=>[20,24]
+        # 1) [20,25] => [19,25](in video form)
+        # valid set 164 未从1开始 171-334
         if video == "cfff47c3":
             start = start - 170 - 1
             end = end - 170
+        # train set 342 不连续 1-70, 72, 89-359
         elif video == "86a88668":
             if start <= 70:
                 start -= 1
@@ -110,6 +112,7 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
                 start = start - 17 - 1
             if end >= 89:
                 end = end - 17
+        # valid set 231 不连续 1-5, 8, 12-236
         elif video == "af48b2f9":
             if start <= 5:
                 start -= 1
@@ -120,9 +123,10 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
                 end = 6
 
             if start >= 12:
-                start = start - 5 -1
+                start = start - 5 - 1
             if end >= 12:
                 end = end - 5
+        # train set 84 不连续 1-13, 15-85
         elif video == "2fb5a55b":
             if start <= 13:
                 start -= 1
@@ -134,11 +138,11 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
         else:
             start -= 1
 
-
-        if start % 2 != 0:
-            start += 1
-        if end % 2 != 0:
-            end -= 1
+        # 2) 保持奇数的GT不变 [19,25]
+        # if start % 2 != 0:
+        #     start += 1
+        # if end % 2 != 0:
+        #     end -= 1
 
         processed[key]["relevant_windows"].append([start, end])
 
@@ -148,30 +152,18 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
     # print(processed)
     # 合并 relevant_windows 并重新计算 relevant_clip_ids
     for key, value in processed.items():
+        previous_windows = value["relevant_windows"]
         value["relevant_windows"] = merge_windows(value["relevant_windows"])
-        # print(f"{key}\t{value['relevant_windows']}")
+        merged_windows = value["relevant_windows"]
 
-        windows = value["relevant_windows"]
-        # 只包含一个窗口，且是无效的 [x, x]
-        if len(windows) == 1 and windows[0][0] == windows[0][1]:
-            print(f"删除整个条目: {key}\t{windows}")
-            keys_to_remove.append(key)
-        else:
-            # 移除所有无效的 [x, x] 窗口
-            original_len = len(windows)
-            value["relevant_windows"] = [
-                w for w in windows if w[0] != w[1]
-            ]
-            if len(value["relevant_windows"]) < original_len:
-                print(f"清理无效窗口: {key}\t{windows} → {value['relevant_windows']}")
+        # if previous_windows != merged_windows:
+        #     print(f'{key}\tprevious_windows: {previous_windows}')
+        #     print(f'merged_windows: {merged_windows}')
 
-    print('keys_to_remove: ', keys_to_remove)
-    # 删除整个条目
-    for key in keys_to_remove:
-        del processed[key]
-        removed_count += 1
-
-    print(f"\n共移除 {removed_count} 条无效条目。")
+        # 可能的windows例子：[[26, 27]], [[12, 15], [17, 18]] 其中不包括end值，即对于[26, 27]，object只出现在26秒
+        for window in merged_windows:
+            if window[1] - window[0] == 1:
+                print(f"只出现1s的query: {key}\t{merged_windows}")
 
     for key, value in processed.items():
         jsonl_lines.append(json.dumps(value, ensure_ascii=False))
@@ -193,9 +185,25 @@ def generate_clip_ids_and_scores(data):
 
     for window in data["relevant_windows"]:
         start, end = window
-        # 计算clip_start和clip_end
+        # 计算clip_start和clip_end 可简化4种情况
+        # case 1 [0, 16] => [0,1,2,3,4,5,6,7]
+        # if start % 2 == 0 and end % 2 == 0:
+        #     clip_start = start // 2
+        #     clip_end = end // 2 - 1
+        # # case 2 [1, 13] => [0,1,2,3,4,5,6]
+        # if start % 2 != 0 and end % 2 != 0:
+        #     clip_start = start // 2
+        #     clip_end = end // 2
+        # # case 3 [1, 4] => [0,1]
+        # if start % 2 != 0 and end % 2 == 0:
+        #     clip_start = start // 2
+        #     clip_end = end // 2 - 1
+        # # case 4 [2, 7] => [1,2,3]
+        # if start % 2 == 0 and end % 2 != 0:
+        #     clip_start = start // 2
+        #     clip_end = end // 2
         clip_start = start // 2
-        clip_end = end // 2 - 1
+        clip_end = (end - 1) // 2
 
         # 生成relevant_clip_ids
         clip_ids = list(range(clip_start, clip_end + 1))
@@ -226,11 +234,11 @@ def process_jsonl(file_path, output_file):
             if len(item["relevant_clip_ids"]) == 1:
                 count += 1
                 print(f"Length 1 found for qid {item['qid']} with relevant_clip_ids: {item['relevant_clip_ids']}")
-    print(f"总共有 {count} 个只有一个clip id, 说明query持续了2帧")
+    print(f"总共有 {count} 个只有一个clip id, 说明query持续了1帧或者2帧")
 
     print(f"JSONL 文件已生成: {output_file}")
 
     return processed_data
 
-processed_data = process_jsonl('ovis_train_release_no_ids.jsonl', 'ovis_train_release_V2.jsonl')
-processed_data = process_jsonl('ovis_val_release_no_ids.jsonl', 'ovis_val_release_V2.jsonl')
+processed_data = process_jsonl('ovis_train_release_no_ids.jsonl', 'ovis_train_release_V1.jsonl')
+processed_data = process_jsonl('ovis_val_release_no_ids.jsonl', 'ovis_val_release_V1.jsonl')

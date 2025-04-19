@@ -1,0 +1,67 @@
+{
+  "queries": [
+    {
+      "qid": 1,
+      "query": "Example query 1",
+      "video_id": 1,
+      "video_name": "video 1",
+      "tracks": [
+        {
+          "track_id": 1,
+          "spatial": [
+            null, null, null,
+            {"bbox": [100, 150, 200, 250]},
+            {"bbox": [110, 160, 210, 260]},
+            {"bbox": [120, 170, 220, 270]},
+            null, null,
+            {"bbox": [130, 180, 230, 280]},
+            {"bbox": [140, 190, 240, 290]},
+            null, null
+          ],
+          "temporal": [[4,6], [9,10]],
+          "score": 0.5
+        },
+        {
+          "track_id": 2,
+          "spatial": [
+            null, null, null, null, null, null, null, null, null, null
+          ],
+          "temporal": [],
+          "score": 0.65
+        }
+      ]
+    },
+    {
+      "qid": 2,
+      "query": "Example query 2",
+      "video_id": 2,
+      "video_name": "video 2",
+      "tracks": [
+        {
+          "track_id": 1,
+          "spatial": [
+            null, null,
+            {"bbox": [50, 60, 150, 160]},
+            {"bbox": [55, 65, 155, 165]},
+            {"bbox": [60, 70, 160, 170]},
+            null, null, null, null, null
+          ],
+          "temporal": [[3,5]],
+          "score": 0.75
+        },
+        {
+          "track_id": 2,
+          "spatial": [
+            null, null, null,
+            {"bbox": [200, 250, 300, 350]},
+            {"bbox": [210, 260, 310, 360]},
+            null, null, null, null, null
+          ],
+          "temporal": [[4,5]],
+          "score": 0.85
+        }
+      ]
+    }
+  ]
+}
+
