@@ -52,5 +52,23 @@ def check_video_frames(json_path):
         print("")
 
 # 示例调用
-check_video_frames("../OVIS/annotations_train.json")
-check_video_frames("../OVIS/annotations_valid.json")
+# check_video_frames("../OVIS/annotations_train.json")
+# check_video_frames("../OVIS/annotations_valid.json")
+
+with open("../OVIS/annotations_train.json", "r") as f:
+    data = json.load(f)
+
+# 获取目标 annotation 的 bboxes
+target_bbox = None
+for ann in data.get("annotations", []):
+    if ann["video_id"] == 29 and ann["id"] == 215:
+        target_bbox = ann["bboxes"]
+        break
+
+print("Target bboxes:", target_bbox)
+
+for i, box in enumerate(target_bbox):
+    if box is not None:
+        print(i+1, box)
+
+
