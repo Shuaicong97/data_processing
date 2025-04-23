@@ -173,6 +173,7 @@ def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, te
                 "query": query_text,
                 "video_id": video_id,
                 "video_name": video_name,
+                "video_length": video_length,
                 "tracks": defaultdict(lambda: {"track_id": None, "spatial": None, "temporal": []})
             }
 

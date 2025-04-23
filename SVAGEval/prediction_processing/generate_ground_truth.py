@@ -158,6 +158,7 @@ def process_annotation_2(ann, video_lengths, root_dir, temporal_lookup, video_id
             track_map[key] = {
                 "video_id": video_id,
                 "video_name": video_name,
+                "video_length": video_length,
                 "query_id": qid,
                 "query": query_text,
                 "track_id": track_id,
@@ -229,6 +230,7 @@ def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, ou
                 "query": track_info["query"],
                 "video_id": track_info["video_id"],
                 "video_name": track_info["video_name"],
+                "video_length": track_info["video_length"],
                 "tracks": []
             }
         query_group[key]["tracks"].append({
