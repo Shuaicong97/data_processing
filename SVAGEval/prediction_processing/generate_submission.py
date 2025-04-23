@@ -59,7 +59,7 @@ def load_temporal_predictions(jsonl_path):
     return qid_to_temporal
 
 
-def process_annotation(ann, video_lengths, root_dir, qid_to_temporal, video_id_map, next_video_id):
+def process_annotation(ann, video_lengths, root_dir, qid_to_temporal, video_id_map):
     video_name = ann['Video']
     qid = int(ann['QID'])
     query_text = ann['Language Query']
@@ -75,10 +75,6 @@ def process_annotation(ann, video_lengths, root_dir, qid_to_temporal, video_id_m
 
     if not os.path.exists(predict_file):
         return None
-
-    if video_name not in video_id_map:
-        video_id_map[video_name] = next_video_id
-        next_video_id += 1
 
     video_id = video_id_map[video_name]
     track_data = read_prediction_file(predict_file)
@@ -109,32 +105,97 @@ def generate_submission(video_info_path, annotation_path, spatial_root_dir, temp
     video_id_map = {}
     next_video_id = 1
     qid_to_temporal = load_temporal_predictions(temporal_pred_path)
+    query_track_map = {}
 
     for ann in annotations:
+        video_name = ann['Video']
+        qid = int(ann['QID'])
+        query_text = ann['Language Query']
+        query_key = (video_name, query_text)
+
+        if video_name not in video_id_map:
+            video_id_map[video_name] = next_video_id
+            next_video_id += 1
+
         result = process_annotation(
             ann,
             video_lengths,
             spatial_root_dir,
             qid_to_temporal,
             video_id_map,
-            next_video_id,
         )
         if result:
-            video_name = result["video_name"]
-            if video_name not in video_id_map:
-                video_id_map[video_name] = next_video_id
-                next_video_id += 1
-            result["video_id"] = video_id_map[video_name]
             submission["queries"].append(result)
 
     with open(output_path, 'w') as f:
         json.dump(submission, f, separators=(',', ':'))
 
 
+def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, temporal_pred_path, output_path):
+    video_lengths = load_video_lengths(video_info_path)
+    annotations = load_annotations(annotation_path)
+    qid_to_temporal = load_temporal_predictions(temporal_pred_path)
+
+    submission = {"queries": []}
+    video_id_map = {}
+    next_video_id = 1
+
+    # 聚合缓存结构
+    query_track_map = {}
+
+    for ann in annotations:
+        video_name = ann['Video']
+        qid = int(ann['QID'])
+        query_text = ann['Language Query']
+        query_key = (video_name, query_text)
+
+        if video_name not in video_id_map:
+            video_id_map[video_name] = next_video_id
+            next_video_id += 1
+
+        video_id = video_id_map[video_name]
+        video_length = video_lengths.get(video_name)
+        if video_length is None:
+            continue
+
+        video_path = os.path.join(spatial_root_dir, video_name)
+        query_slug = query_to_slug(query_text)
+        predict_file = os.path.join(video_path, query_slug, 'predict.txt')
+        if not os.path.exists(predict_file):
+            continue
+
+        temporal_data = qid_to_temporal.get(qid, [])
+        track_data = read_prediction_file(predict_file)
+
+        if query_key not in query_track_map:
+            query_track_map[query_key] = {
+                "query_id": qid,
+                "query": query_text,
+                "video_id": video_id,
+                "video_name": video_name,
+                "tracks": defaultdict(lambda: {"track_id": None, "spatial": None, "temporal": []})
+            }
+
+        for track_id, frames in track_data.items():
+            spatial = build_spatial_array(frames, video_length)
+
+            track = query_track_map[query_key]["tracks"][track_id]
+            track["track_id"] = track_id
+            track["spatial"] = spatial
+            track["temporal"].extend(temporal_data)  # 多次拼接 temporal
+
+    # 整理提交结构
+    for entry in query_track_map.values():
+        entry["tracks"] = list(entry["tracks"].values())
+        submission["queries"].append(entry)
+
+    with open(output_path, 'w') as f:
+        json.dump(submission, f, separators=(',', ':'))
+
 # 示例调用
 if __name__ == "__main__":
     start_time = time.time()
-    generate_submission(
+    generate_submission_2(
         video_info_path='../../OVIS/video_info_valid.json',
         annotation_path='../../Rephrased data/OVIS-valid-doubled.json',
         spatial_root_dir='/Users/shuaicongwu/Desktop/MA_resources/temprmot_results/ovis_with_checkpoint0_5_epochs_0.4_0.3_v4',

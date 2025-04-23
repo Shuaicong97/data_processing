@@ -36,7 +36,7 @@ for diff in differences:
     print(json.dumps(diff, indent=2))
 
 
-with open('/Users/shuaicongwu/PycharmProjects/data_processing/SVAGEval/prediction_processing/submission.json', 'r') as f:
+with open('/Users/shuaicongwu/PycharmProjects/data_processing/SVAGEval/prediction_processing/ovis_valid_ground_truth.json', 'r') as f:
     data = json.load(f)
 
 # 用于记录所有的 track_id 出现次数
@@ -44,18 +44,21 @@ track_id_count = defaultdict(int)
 
 # 遍历所有的 track
 for query in data.get("queries", []):
+    query_text = query["query"]
+    video = query["video_name"]
     for track in query.get("tracks", []):
-        track_id = track.get("track_id")
-        if track_id is not None:
-            track_id_count[track_id] += 1
+        track_id = track["track_id"]
+        temporal = track.get("temporal")
+        if len(temporal) != 1:
+            print(f'video {video} for query {query_text} and track {track_id} has {len(temporal)} temporal entries: {temporal}')
 
 # 找出重复的 track_id
-duplicates = {track_id: count for track_id, count in track_id_count.items() if count > 1}
-
-# 输出结果
-if duplicates:
-    print("存在重复的 track_id：")
-    for track_id, count in duplicates.items():
-        print(f"track_id {track_id} 出现了 {count} 次")
-else:
-    print("所有 track_id 都是唯一的")
+# duplicates = {track_id: count for track_id, count in track_id_count.items() if count > 1}
+#
+# # 输出结果
+# if duplicates:
+#     print("存在重复的 track_id：")
+#     for track_id, count in duplicates.items():
+#         print(f"track_id {track_id} 出现了 {count} 次")
+# else:
+#     print("所有 track_id 都是唯一的")
