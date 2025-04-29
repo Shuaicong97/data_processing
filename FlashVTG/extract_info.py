@@ -21,8 +21,8 @@ def extract_vid(input_file, output_file):
 
     print(f"共提取并保存了 {len(unique_vids)} 个唯一vid到 {output_file}")
 
-extract_vid("ovis_train_release.jsonl", "ovis_train_vid.txt")
-extract_vid("ovis_val_release.jsonl", "ovis_val_vid.txt")
+extract_vid("OVIS/ovis_train_release.jsonl", "OVIS/ovis_train_vid.txt")
+extract_vid("OVIS/ovis_val_release.jsonl", "OVIS/ovis_val_vid.txt")
 
 def copy_target_videos(txt_path, source_dir, target_dir):
     os.makedirs(target_dir, exist_ok=True)
@@ -69,5 +69,5 @@ def extract_queries(input_file, output_file):
 
     print(f"共提取并保存了 {len(queries)} 个query到 {output_file}")
 
-extract_queries('/Users/shuaicongwu/PycharmProjects/data_processing/FlashVTG/ovis_train_release.jsonl', '/Users/shuaicongwu/PycharmProjects/data_processing/FlashVTG/OVIS_train_queries.json')
-extract_queries('/Users/shuaicongwu/PycharmProjects/data_processing/FlashVTG/ovis_val_release.jsonl', '/Users/shuaicongwu/PycharmProjects/data_processing/FlashVTG/OVIS_val_queries.json')
+extract_queries('OVIS/ovis_train_release.jsonl', 'OVIS/OVIS_train_queries.json')
+extract_queries('OVIS/ovis_val_release.jsonl', 'OVIS/OVIS_val_queries.json')

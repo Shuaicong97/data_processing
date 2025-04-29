@@ -1,7 +1,7 @@
 import json
 
 # 十分重要 避免无效的start,end值。
-file_path = 'ovis_train_release.jsonl'  # 替换为你的jsonl文件路径
+file_path = 'OVIS/ovis_train_release.jsonl'  # 替换为你的jsonl文件路径
 with open(file_path, 'r') as f:
     for line in f:
         obj = json.loads(line)

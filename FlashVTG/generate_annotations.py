@@ -176,9 +176,9 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
     print(f"JSONL 文件已生成: {output_file}")
 
 generate_jsonl('generated_files/OVIS-training-filtered.json', '../OVIS/video_info_train.json',
-               'ovis_train_release_no_ids.jsonl', 1)
+               'OVIS/ovis_train_release_no_ids.jsonl', 1)
 generate_jsonl('generated_files/OVIS-valid-filtered.json', '../OVIS/video_info_valid.json',
-               'ovis_val_release_no_ids.jsonl', 5095)
+               'OVIS/ovis_val_release_no_ids.jsonl', 5095)
 
 def generate_clip_ids_and_scores(data):
     relevant_clip_ids = []
@@ -241,5 +241,5 @@ def process_jsonl(file_path, output_file):
 
     return processed_data
 
-processed_data = process_jsonl('ovis_train_release_no_ids.jsonl', 'ovis_train_release.jsonl')
-processed_data = process_jsonl('ovis_val_release_no_ids.jsonl', 'ovis_val_release.jsonl')
+processed_data = process_jsonl('OVIS/ovis_train_release_no_ids.jsonl', 'OVIS/ovis_train_release.jsonl')
+processed_data = process_jsonl('OVIS/ovis_val_release_no_ids.jsonl', 'OVIS/ovis_val_release.jsonl')
