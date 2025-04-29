@@ -41,6 +41,14 @@ get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased d
                  'generated_files/OVIS-training-filtered.json')
 get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-valid-doubled.json',
                  'generated_files/OVIS-valid-filtered.json')
+get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-training-doubled.json',
+                 'generated_files/MOT17-training-filtered.json')
+get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-valid-doubled.json',
+                 'generated_files/MOT17-valid-filtered.json')
+get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-training-doubled.json',
+                 'generated_files/MOT20-training-filtered.json')
+get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-valid-doubled.json',
+                 'generated_files/MOT20-valid-filtered.json')
 
 def merge_windows(windows):
     windows.sort()
@@ -153,6 +161,7 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
     # print(processed)
     # 合并 relevant_windows 并重新计算 relevant_clip_ids
     for key, value in processed.items():
+        # 对于有很多tracks做相同query会出现很多windows，这时候会有重叠的windows需要合并
         previous_windows = value["relevant_windows"]
         value["relevant_windows"] = merge_windows(value["relevant_windows"])
         merged_windows = value["relevant_windows"]
@@ -179,6 +188,14 @@ generate_jsonl('generated_files/OVIS-training-filtered.json', '../OVIS/video_inf
                'OVIS/ovis_train_release_no_ids.jsonl', 1)
 generate_jsonl('generated_files/OVIS-valid-filtered.json', '../OVIS/video_info_valid.json',
                'OVIS/ovis_val_release_no_ids.jsonl', 5095)
+generate_jsonl('generated_files/MOT17-training-filtered.json', '../MOT/video_mot.json',
+               'MOT17/mot17_train_release_no_ids.jsonl', 1)
+generate_jsonl('generated_files/MOT17-valid-filtered.json', '../MOT/video_mot.json',
+               'MOT17/mot17_val_release_no_ids.jsonl', 782)
+generate_jsonl('generated_files/MOT20-training-filtered.json', '../MOT/video_mot.json',
+               'MOT20/mot20_train_release_no_ids.jsonl', 1)
+generate_jsonl('generated_files/MOT20-valid-filtered.json', '../MOT/video_mot.json',
+               'MOT20/mot20_val_release_no_ids.jsonl', 810)
 
 def generate_clip_ids_and_scores(data):
     relevant_clip_ids = []
@@ -239,7 +256,10 @@ def process_jsonl(file_path, output_file):
 
     print(f"JSONL 文件已生成: {output_file}")
 
-    return processed_data
+process_jsonl('OVIS/ovis_train_release_no_ids.jsonl', 'OVIS/ovis_train_release.jsonl')
+process_jsonl('OVIS/ovis_val_release_no_ids.jsonl', 'OVIS/ovis_val_release.jsonl')
+process_jsonl('MOT17/mot17_train_release_no_ids.jsonl', 'MOT17/mot17_train_release.jsonl')
+process_jsonl('MOT17/mot17_val_release_no_ids.jsonl', 'MOT17/mot17_val_release.jsonl')
+process_jsonl('MOT20/mot20_train_release_no_ids.jsonl', 'MOT20/mot20_train_release.jsonl')
+process_jsonl('MOT20/mot20_val_release_no_ids.jsonl', 'MOT20/mot20_val_release.jsonl')
 
-processed_data = process_jsonl('OVIS/ovis_train_release_no_ids.jsonl', 'OVIS/ovis_train_release.jsonl')
-processed_data = process_jsonl('OVIS/ovis_val_release_no_ids.jsonl', 'OVIS/ovis_val_release.jsonl')

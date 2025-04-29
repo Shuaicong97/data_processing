@@ -51,24 +51,70 @@ def check_video_frames(json_path):
         print(f"  视频目录名: {item['video_name']}")
         print("")
 
-# 示例调用
 # check_video_frames("../OVIS/annotations_train.json")
 # check_video_frames("../OVIS/annotations_valid.json")
 
-with open("../OVIS/annotations_train.json", "r") as f:
-    data = json.load(f)
+# with open("../OVIS/annotations_train.json", "r") as f:
+#     data = json.load(f)
 
 # 获取目标 annotation 的 bboxes
-target_bbox = None
-for ann in data.get("annotations", []):
-    if ann["video_id"] == 29 and ann["id"] == 215:
-        target_bbox = ann["bboxes"]
-        break
+# target_bbox = None
+# for ann in data.get("annotations", []):
+#     if ann["video_id"] == 29 and ann["id"] == 215:
+#         target_bbox = ann["bboxes"]
+#         break
+#
+# print("Target bboxes:", target_bbox)
+#
+# for i, box in enumerate(target_bbox):
+#     if box is not None:
+#         print(i+1, box)
 
-print("Target bboxes:", target_bbox)
+def rename_json_fields_preserve_order(filepath):
+    """
+    读取指定路径的 JSON 文件，修改字段名后覆盖写回原文件。
 
-for i, box in enumerate(target_bbox):
-    if box is not None:
-        print(i+1, box)
+    修改规则：
+        - "Query ID" -> "QID"
+        - "Track ID" -> "IDs"
+        - "Start Frame" -> "Start"
+        - "End Frame" -> "End"
+    """
+    rename_map = {
+        "Query ID": "QID",
+        "Track ID": "IDs",
+        "Start Frame": "Start",
+        "End Frame": "End"
+    }
 
+    target_fields_to_int = {"QID"}
+
+    with open(filepath, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    new_data = []
+    for item in data:
+        new_item = {}
+        for key, value in item.items():
+            # 替换键名，如果有对应的新键名
+            new_key = rename_map.get(key, key)
+            if new_key in target_fields_to_int:
+                try:
+                    num = float(value)
+                    if num.is_integer():
+                        value = int(num)
+                    else:
+                        value = num
+                except (ValueError, TypeError):
+                    pass  # 保留原始值
+            new_item[new_key] = value
+        new_data.append(new_item)
+
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(new_data, f, indent=4, ensure_ascii=False)
+
+rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-training-doubled.json')
+rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-valid-doubled.json')
+rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-training-doubled.json')
+rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-valid-doubled.json')
 
