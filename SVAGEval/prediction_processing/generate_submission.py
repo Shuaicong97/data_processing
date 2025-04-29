@@ -32,11 +32,7 @@ def read_prediction_file(predict_path):
                 continue
             frame_id = int(parts[0])
             obj_id = int(parts[1])
-            x = round(float(parts[2]))
-            y = round(float(parts[3]))
-            w = round(float(parts[4]))
-            h = round(float(parts[5]))
-            track_data[obj_id][frame_id] = [x, y, w, h]
+            track_data[obj_id][frame_id] = [float(parts[2]), float(parts[3]), float(parts[4]), float(parts[5])]
     return track_data
 
 

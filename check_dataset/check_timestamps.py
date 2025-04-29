@@ -64,13 +64,13 @@ def check_timestamps_in_json(json_data, video_info_json):
             print(f"❌ 不合规数据 -> Video: {video_id}, Start: {start}, End: {end}, Length: {length}")
 
 # 示例用法（替换路径）
-check_timestamps("../OVIS/Sheet/Grounded Tracking Annotations - OVIS(Ashiq).csv",
+check_timestamps("../OVIS/Latest_Sheet/Grounded Tracking Annotations - OVIS(Ashiq).csv",
                  "../OVIS/video_info_train.json")
-check_timestamps("../OVIS/Sheet/Grounded Tracking Annotations - OVIS(Seenat).csv",
+check_timestamps("../OVIS/Latest_Sheet/Grounded Tracking Annotations - OVIS(Seenat).csv",
                  "../OVIS/video_info_train.json")
-check_timestamps("../OVIS/Sheet/Grounded Tracking Annotations - OVIS-Test(Ashiq).csv",
+check_timestamps("../OVIS/Latest_Sheet/Grounded Tracking Annotations - OVIS-Test(Ashiq).csv",
                  "../OVIS/video_info_valid.json")
-check_timestamps("../OVIS/Sheet/Grounded Tracking Annotations - OVIS-Test(Seenat).csv",
+check_timestamps("../OVIS/Latest_Sheet/Grounded Tracking Annotations - OVIS-Test(Seenat).csv",
                  "../OVIS/video_info_valid.json")
 
 # with open("/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-training-doubled.json", "r") as f:

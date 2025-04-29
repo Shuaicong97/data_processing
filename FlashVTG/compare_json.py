@@ -58,5 +58,5 @@ def compare_json_files(file_a, csv_file_b, csv_file_c):
 # 示例用法（替换成你自己的路径）
 print('\n')
 compare_json_files("../Rephrased data/OVIS-valid-doubled.json",
-                   "../OVIS/Sheet/Grounded Tracking Annotations - OVIS-Test(Ashiq).csv",
-                   "../OVIS/Sheet/Grounded Tracking Annotations - OVIS-Test(Seenat).csv")
+                   "../OVIS/Latest_Sheet/Grounded Tracking Annotations - OVIS-Test(Ashiq).csv",
+                   "../OVIS/Latest_Sheet/Grounded Tracking Annotations - OVIS-Test(Seenat).csv")

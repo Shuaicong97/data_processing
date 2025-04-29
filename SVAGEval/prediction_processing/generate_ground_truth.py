@@ -66,8 +66,8 @@ def build_temporal_lookup(annotation_path):
             continue
 
         try:
-            start = float(start_str)
-            end = float(end_str)
+            start = int(start_str)
+            end = int(end_str)
         except ValueError:
             continue
 
@@ -77,6 +77,36 @@ def build_temporal_lookup(annotation_path):
         temporal_lookup[key].append([start, end])
 
     return temporal_lookup
+
+def build_temporal_lookup_by_query(annotation_path):
+    with open(annotation_path, 'r') as f:
+        annotations = json.load(f)
+
+    lookup_by_query = {}
+
+    for ann in annotations:
+        video = ann["Video"]
+        ids = ann["IDs"]
+        query = ann["Language Query"]
+        start_str = ann["Start"]
+        end_str = ann["End"]
+
+        if not start_str or not end_str:
+            continue
+
+        try:
+            start = int(start_str)
+            end = int(end_str)
+            ids = int(ids)
+        except ValueError:
+            continue
+
+        key = (video, query)
+        if key not in lookup_by_query:
+            lookup_by_query[key] = []
+        lookup_by_query[key].append((ids, [start, end]))
+
+    return lookup_by_query
 
 def load_temporal_ground_truth(jsonl_path):
     qid_to_temporal = {}
@@ -143,6 +173,7 @@ def process_annotation_2(ann, video_lengths, root_dir, temporal_lookup, video_id
     gt_file = os.path.join(query_path, 'gt.txt')
 
     if not os.path.exists(gt_file):
+        print(f'不存在gt_file：{gt_file}')
         return
 
     video_id = video_id_map[video_name]
@@ -199,18 +230,24 @@ def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, ou
     video_lengths = load_video_lengths(video_info_path)
     annotations = load_annotations(annotation_path)
     temporal_lookup = build_temporal_lookup(annotation_path)
+    temporal_lookup_by_query = build_temporal_lookup_by_query(annotation_path)
 
     submission = {"queries": []}
     video_id_map = {}
     next_video_id = 1
     track_map = {}
+    filled_tracks = {}
 
     for ann in annotations:
         video_name = ann['Video']
+        query_text = ann['Language Query']
+        qid = int(ann['QID'])
+
         if video_name not in video_id_map:
             video_id_map[video_name] = next_video_id
             next_video_id += 1
 
+        prev_track_count = len(track_map)
         process_annotation_2(
             ann,
             video_lengths,
@@ -219,10 +256,37 @@ def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, ou
             video_id_map,
             track_map
         )
+        post_track_count = len(track_map)
+
+        if post_track_count == prev_track_count:
+            video_length = video_lengths.get(video_name)
+            if video_length is None:
+                continue
+
+            key = (video_name, query_text)
+            video_id = video_id_map[video_name]
+            temporal_items = temporal_lookup_by_query.get(key, [])
+
+            for track_id, temporal in temporal_items:
+                track_key = (video_name, query_text, track_id)
+                if track_key in track_map:
+                    continue  # 已存在
+
+                filled_tracks[track_key] = {
+                    "video_id": video_id,
+                    "video_name": video_name,
+                    "video_length": video_length,
+                    "query_id": qid,
+                    "query": query_text,
+                    "track_id": track_id,
+                    "spatial": [None] * video_length,
+                    "temporal": [temporal]
+                }
 
     # 合并为唯一的 queries 结构
+    merged_tracks = {**track_map, **filled_tracks}
     query_group = {}
-    for (video_name, query_text, track_id), track_info in track_map.items():
+    for (video_name, query_text, track_id), track_info in merged_tracks.items():
         key = (video_name, query_text)
         if key not in query_group:
             query_group[key] = {
