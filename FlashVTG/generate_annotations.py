@@ -20,6 +20,7 @@ def get_unique_query(file_name, output_file_name):
     filtered_data = []
 
     for item in data:
+        # 对于具有相同key，但是不同IDs的条目只添加一次。因为FlashVTG不做IDs的区分
         key = (item["Video"], item["Language Query"], item["Start"], item["End"])  # 去重关键
         if key not in unique_entries:
             unique_entries.add(key)
@@ -36,10 +37,10 @@ def get_unique_query(file_name, output_file_name):
 
     print(f"去重后的数据已保存到 {output_file_name}")
 
-# get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-training-doubled.json',
-#                  'generated_files/OVIS-training-filtered.json')
-# get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-valid-doubled.json',
-#                  'generated_files/OVIS-valid-filtered.json')
+get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-training-doubled.json',
+                 'generated_files/OVIS-training-filtered.json')
+get_unique_query('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-valid-doubled.json',
+                 'generated_files/OVIS-valid-filtered.json')
 
 def merge_windows(windows):
     windows.sort()
@@ -240,5 +241,5 @@ def process_jsonl(file_path, output_file):
 
     return processed_data
 
-processed_data = process_jsonl('ovis_train_release_no_ids.jsonl', 'ovis_train_release_V1.jsonl')
-processed_data = process_jsonl('ovis_val_release_no_ids.jsonl', 'ovis_val_release_V1.jsonl')
+processed_data = process_jsonl('ovis_train_release_no_ids.jsonl', 'ovis_train_release.jsonl')
+processed_data = process_jsonl('ovis_val_release_no_ids.jsonl', 'ovis_val_release.jsonl')
