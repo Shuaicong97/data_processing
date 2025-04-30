@@ -15,12 +15,12 @@ def check_window_valid(file_path):
             # if any(val == duration for window in relevant_windows for val in window):
             #     print(f"til the last frame qid: {qid}, duration: {duration}, relevant_windows: {relevant_windows}")
 
-check_window_valid('OVIS/ovis_train_release.jsonl')
-check_window_valid('OVIS/ovis_val_release.jsonl')
+check_window_valid('All/OVIS/ovis_train_release.jsonl')
+check_window_valid('All/OVIS/ovis_val_release.jsonl')
 
-check_window_valid('MOT17/mot17_train_release.jsonl')
-check_window_valid('MOT17/mot17_val_release.jsonl')
+check_window_valid('All/MOT17/mot17_train_release.jsonl')
+check_window_valid('All/MOT17/mot17_val_release.jsonl')
 
-check_window_valid('MOT20/mot20_train_release.jsonl')
-check_window_valid('MOT20/mot20_val_release.jsonl')
+check_window_valid('All/MOT20/mot20_train_release.jsonl')
+check_window_valid('All/MOT20/mot20_val_release.jsonl')
 

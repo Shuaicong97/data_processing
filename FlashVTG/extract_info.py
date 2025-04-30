@@ -21,12 +21,12 @@ def extract_vid(input_file, output_file):
 
     print(f"共提取并保存了 {len(unique_vids)} 个唯一vid到 {output_file}")
 
-extract_vid("OVIS/ovis_train_release.jsonl", "OVIS/ovis_train_vid.txt")
-extract_vid("OVIS/ovis_val_release.jsonl", "OVIS/ovis_val_vid.txt")
-extract_vid("MOT17/mot17_train_release.jsonl", "MOT17/mot17_train_vid.txt")
-extract_vid("MOT17/mot17_val_release.jsonl", "MOT17/mot17_val_vid.txt")
-extract_vid("MOT20/mot20_train_release.jsonl", "MOT20/mot20_train_vid.txt")
-extract_vid("MOT20/mot20_val_release.jsonl", "MOT20/mot20_val_vid.txt")
+extract_vid("All/OVIS/ovis_train_release.jsonl", "All/OVIS/ovis_train_vid.txt")
+extract_vid("All/OVIS/ovis_val_release.jsonl", "All/OVIS/ovis_val_vid.txt")
+extract_vid("All/MOT17/mot17_train_release.jsonl", "All/MOT17/mot17_train_vid.txt")
+extract_vid("All/MOT17/mot17_val_release.jsonl", "All/MOT17/mot17_val_vid.txt")
+extract_vid("All/MOT20/mot20_train_release.jsonl", "All/MOT20/mot20_train_vid.txt")
+extract_vid("All/MOT20/mot20_val_release.jsonl", "All/MOT20/mot20_val_vid.txt")
 
 
 def copy_target_videos(txt_path, source_dir, target_dir):
@@ -74,9 +74,9 @@ def extract_queries(input_file, output_file):
 
     print(f"共提取并保存了 {len(queries)} 个query到 {output_file}")
 
-extract_queries('OVIS/ovis_train_release.jsonl', 'OVIS/OVIS_train_queries.json')
-extract_queries('OVIS/ovis_val_release.jsonl', 'OVIS/OVIS_val_queries.json')
-extract_queries('MOT17/mot17_train_release.jsonl', 'MOT17/mot17_train_queries.json')
-extract_queries('MOT17/mot17_val_release.jsonl', 'MOT17/mot17_val_queries.json')
-extract_queries('MOT20/mot20_train_release.jsonl', 'MOT20/mot20_train_queries.json')
-extract_queries('MOT20/mot20_val_release.jsonl', 'MOT20/mot20_val_queries.json')
+extract_queries('All/OVIS/ovis_train_release.jsonl', 'All/OVIS/OVIS_train_queries.json')
+extract_queries('All/OVIS/ovis_val_release.jsonl', 'All/OVIS/OVIS_val_queries.json')
+extract_queries('All/MOT17/mot17_train_release.jsonl', 'All/MOT17/mot17_train_queries.json')
+extract_queries('All/MOT17/mot17_val_release.jsonl', 'All/MOT17/mot17_val_queries.json')
+extract_queries('All/MOT20/mot20_train_release.jsonl', 'All/MOT20/mot20_train_queries.json')
+extract_queries('All/MOT20/mot20_val_release.jsonl', 'All/MOT20/mot20_val_queries.json')

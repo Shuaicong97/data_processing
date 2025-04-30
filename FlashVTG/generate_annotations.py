@@ -175,17 +175,17 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
     print(f"JSONL 文件已生成: {output_file}")
 
 generate_jsonl('generated_files/OVIS-training-filtered.json', '../OVIS/video_info_train.json',
-               'OVIS/ovis_train_release_no_ids.jsonl', 1)
+               'All/OVIS/ovis_train_release_no_ids.jsonl', 1)
 generate_jsonl('generated_files/OVIS-valid-filtered.json', '../OVIS/video_info_valid.json',
-               'OVIS/ovis_val_release_no_ids.jsonl', 5095)
+               'All/OVIS/ovis_val_release_no_ids.jsonl', 5095)
 generate_jsonl('generated_files/MOT17-training-filtered.json', '../MOT/video_mot.json',
-               'MOT17/mot17_train_release_no_ids.jsonl', 1)
+               'All/MOT17/mot17_train_release_no_ids.jsonl', 1)
 generate_jsonl('generated_files/MOT17-valid-filtered.json', '../MOT/video_mot.json',
-               'MOT17/mot17_val_release_no_ids.jsonl', 782)
+               'All/MOT17/mot17_val_release_no_ids.jsonl', 782)
 generate_jsonl('generated_files/MOT20-training-filtered.json', '../MOT/video_mot.json',
-               'MOT20/mot20_train_release_no_ids.jsonl', 1)
+               'All/MOT20/mot20_train_release_no_ids.jsonl', 1)
 generate_jsonl('generated_files/MOT20-valid-filtered.json', '../MOT/video_mot.json',
-               'MOT20/mot20_val_release_no_ids.jsonl', 810)
+               'All/MOT20/mot20_val_release_no_ids.jsonl', 810)
 
 def generate_clip_ids_and_scores(data):
     relevant_clip_ids = []
@@ -246,10 +246,10 @@ def process_jsonl(file_path, output_file):
 
     print(f"JSONL 文件已生成: {output_file}")
 
-process_jsonl('OVIS/ovis_train_release_no_ids.jsonl', 'OVIS/ovis_train_release.jsonl')
-process_jsonl('OVIS/ovis_val_release_no_ids.jsonl', 'OVIS/ovis_val_release.jsonl')
-process_jsonl('MOT17/mot17_train_release_no_ids.jsonl', 'MOT17/mot17_train_release.jsonl')
-process_jsonl('MOT17/mot17_val_release_no_ids.jsonl', 'MOT17/mot17_val_release.jsonl')
-process_jsonl('MOT20/mot20_train_release_no_ids.jsonl', 'MOT20/mot20_train_release.jsonl')
-process_jsonl('MOT20/mot20_val_release_no_ids.jsonl', 'MOT20/mot20_val_release.jsonl')
+process_jsonl('All/OVIS/ovis_train_release_no_ids.jsonl', 'All/OVIS/ovis_train_release.jsonl')
+process_jsonl('All/OVIS/ovis_val_release_no_ids.jsonl', 'All/OVIS/ovis_val_release.jsonl')
+process_jsonl('All/MOT17/mot17_train_release_no_ids.jsonl', 'All/MOT17/mot17_train_release.jsonl')
+process_jsonl('All/MOT17/mot17_val_release_no_ids.jsonl', 'All/MOT17/mot17_val_release.jsonl')
+process_jsonl('All/MOT20/mot20_train_release_no_ids.jsonl', 'All/MOT20/mot20_train_release.jsonl')
+process_jsonl('All/MOT20/mot20_val_release_no_ids.jsonl', 'All/MOT20/mot20_val_release.jsonl')
 
