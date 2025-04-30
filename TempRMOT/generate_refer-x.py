@@ -70,23 +70,6 @@ def generate_labels_with_ids(gt_dir, info_json_path, output_dir):
 
     print(f"所有文件处理完成，结果保存在 {output_dir}。")
 
-
-gt_train_dir = "/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/OVIS_GTs/train_frame_in_image_name"
-info_train_path = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_train.json"
-output_dir_train = "data/refer-ovis/OVIS/labels_with_ids"
-generate_labels_with_ids(gt_train_dir, info_train_path, output_dir_train)
-
-gt_valid_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/OVIS_GTs/val"
-info_valid_path = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_valid.json"
-output_dir_valid = "data/refer-ovis/OVIS/labels_with_ids/valid"
-generate_labels_with_ids(gt_valid_dir, info_valid_path, output_dir_valid)
-
-# 假设文件路径和目标目录
-input_ovis_training_file = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/OVIS-training.json"
-output_ovis_training_path = "data/refer-ovis/expression/training"
-input_ovis_valid_file = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/OVIS-valid.json"
-output_ovis_valid_path = "data/refer-ovis/expression/valid"
-
 def clear_folder(folder_path):
     # 检查文件夹是否存在
     if not os.path.exists(folder_path):
@@ -105,9 +88,6 @@ def clear_folder(folder_path):
             os.remove(file_path)
 
     print(f"已清空文件夹：{folder_path}")
-
-clear_folder(output_ovis_training_path)
-clear_folder(output_ovis_valid_path)
 
 def generate_original_expression(input_f, output):
     with open(input_f, "r", encoding="utf-8") as f:
@@ -156,10 +136,6 @@ def generate_original_expression(input_f, output):
             json.dump(json_content, f, ensure_ascii=False, indent=None, separators=(', ', ': '))
 
     print("所有 JSON 文件已生成！")
-
-generate_original_expression(input_ovis_training_file, output_ovis_training_path)
-generate_original_expression(input_ovis_valid_file, output_ovis_valid_path)
-
 
 def generate_rephrased_expression(input_f, output):
     with open(input_f, "r", encoding="utf-8") as f:
@@ -215,6 +191,78 @@ def generate_rephrased_expression(input_f, output):
 
     print("Rephrased内容生成！")
 
-generate_rephrased_expression('unique_objects_ovis-training.json', output_ovis_training_path)
-generate_rephrased_expression('unique_objects_ovis-valid.json', output_ovis_valid_path)
+def process_ovis():
+    # 我们使用train_frame_in_image_name文件夹里的gt，保留了不连续的帧
+    gt_train_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/OVIS_GTs/train_frame_in_image_name"
+    info_train_path = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_train.json"
+    output_dir_train = "data/refer-ovis/OVIS/labels_with_ids"
+    generate_labels_with_ids(gt_train_dir, info_train_path, output_dir_train)
 
+    gt_valid_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/OVIS_GTs/val"
+    info_valid_path = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_valid.json"
+    output_dir_valid = "data/refer-ovis/OVIS/labels_with_ids/valid"
+    generate_labels_with_ids(gt_valid_dir, info_valid_path, output_dir_valid)
+
+    input_ovis_training_file = "../Original/OVIS-training.json"
+    output_ovis_training_path = "data/refer-ovis/expression/training"
+    input_ovis_valid_file = "../Original/OVIS-valid.json"
+    output_ovis_valid_path = "data/refer-ovis/expression/valid"
+
+    clear_folder(output_ovis_training_path)
+    clear_folder(output_ovis_valid_path)
+
+    generate_original_expression(input_ovis_training_file, output_ovis_training_path)
+    generate_original_expression(input_ovis_valid_file, output_ovis_valid_path)
+
+    generate_rephrased_expression('unique_objects_ovis-training.json', output_ovis_training_path)
+    generate_rephrased_expression('unique_objects_ovis-valid.json', output_ovis_valid_path)
+
+def process_mot17():
+    gt_train_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT17_GTs/train"
+    gt_val_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT17_GTs/val"
+    info_path = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/video_mot.json"
+    output_dir_train = "data/refer-mot17/MOT17/labels_with_ids"
+    output_dir_valid = "data/refer-mot17/MOT17/labels_with_ids/valid"
+    generate_labels_with_ids(gt_train_dir, info_path, output_dir_train)
+    generate_labels_with_ids(gt_val_dir, info_path, output_dir_valid)
+
+    input_mot17_training_file = "../Original/MOT17-training.json"
+    output_mot17_training_path = "data/refer-mot17/expression/training"
+    input_mot17_valid_file = "../Original/MOT17-valid.json"
+    output_mot17_valid_path = "data/refer-mot17/expression/valid"
+
+    clear_folder(output_mot17_training_path)
+    clear_folder(output_mot17_valid_path)
+
+    generate_original_expression(input_mot17_training_file, output_mot17_training_path)
+    generate_original_expression(input_mot17_valid_file, output_mot17_valid_path)
+
+    generate_rephrased_expression('unique_objects_mot17-training.json', output_mot17_training_path)
+    generate_rephrased_expression('unique_objects_mot17-valid.json', output_mot17_valid_path)
+
+# process_mot17()
+
+def process_mot20():
+    gt_train_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT20_GTs/train"
+    gt_val_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT20_GTs/val"
+    info_path = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/video_mot.json"
+    output_dir_train = "data/refer-mot20/MOT20/labels_with_ids"
+    output_dir_valid = "data/refer-mot20/MOT20/labels_with_ids/valid"
+    generate_labels_with_ids(gt_train_dir, info_path, output_dir_train)
+    generate_labels_with_ids(gt_val_dir, info_path, output_dir_valid)
+
+    input_mot20_training_file = "../Original/MOT20-training.json"
+    output_mot20_training_path = "data/refer-mot20/expression/training"
+    input_mot20_valid_file = "../Original/MOT20-valid.json"
+    output_mot20_valid_path = "data/refer-mot20/expression/valid"
+
+    clear_folder(output_mot20_training_path)
+    clear_folder(output_mot20_valid_path)
+
+    generate_original_expression(input_mot20_training_file, output_mot20_training_path)
+    generate_original_expression(input_mot20_valid_file, output_mot20_valid_path)
+
+    generate_rephrased_expression('unique_objects_mot20-training.json', output_mot20_training_path)
+    generate_rephrased_expression('unique_objects_mot20-valid.json', output_mot20_valid_path)
+
+process_mot20()

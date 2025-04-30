@@ -147,18 +147,8 @@ def generate_jsonl(filtered_file, info_file, output_file, start_qid):
         else:
             start -= 1
 
-        # 2) 保持奇数的GT不变 [19,25]
-        # if start % 2 != 0:
-        #     start += 1
-        # if end % 2 != 0:
-        #     end -= 1
-
         processed[key]["relevant_windows"].append([start, end])
 
-    keys_to_remove = []
-    removed_count = 0
-
-    # print(processed)
     # 合并 relevant_windows 并重新计算 relevant_clip_ids
     for key, value in processed.items():
         # 对于有很多tracks做相同query会出现很多windows，这时候会有重叠的windows需要合并

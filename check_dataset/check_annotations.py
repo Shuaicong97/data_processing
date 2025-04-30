@@ -102,7 +102,7 @@ def rename_json_fields_preserve_order(filepath):
                 try:
                     num = float(value)
                     if num.is_integer():
-                        value = int(num)
+                        value = str(int(num))
                     else:
                         value = num
                 except (ValueError, TypeError):
@@ -113,8 +113,34 @@ def rename_json_fields_preserve_order(filepath):
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(new_data, f, indent=4, ensure_ascii=False)
 
-rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-training-doubled.json')
-rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-valid-doubled.json')
-rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-training-doubled.json')
-rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-valid-doubled.json')
+# rename_json_fields_preserve_order('/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/MOT17-training.json')
+# rename_json_fields_preserve_order('/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/MOT17-valid.json')
+# rename_json_fields_preserve_order('/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/MOT20-training.json')
+# rename_json_fields_preserve_order('/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/MOT20-valid.json')
+# rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-training-doubled.json')
+# rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-valid-doubled.json')
+# rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-training-doubled.json')
+# rename_json_fields_preserve_order('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-valid-doubled.json')
+
+def check_comma_in_query(data_file):
+    # 假设你的 JSON 文件叫 data.json
+    with open(data_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    # 遍历并找出含逗号的 Language Query
+    for item in data:
+        video = item["Video"]
+        query = item.get("Language Query", "")
+        if "," in query:
+            print(f'{data_file} {video}: {query}')
+
+# expression json files with comma
+check_comma_in_query('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-training.json')
+check_comma_in_query('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT20-training.json')
+check_comma_in_query('/Users/shuaicongwu/PycharmProjects/data_processing/Original/OVIS-training.json')
+
+#
+# check_comma_in_query('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-valid.json')
+# check_comma_in_query('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT20-valid.json')
+# check_comma_in_query('/Users/shuaicongwu/PycharmProjects/data_processing/Original/OVIS-valid.json')
 
