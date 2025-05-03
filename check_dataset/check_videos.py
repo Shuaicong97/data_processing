@@ -36,21 +36,48 @@ def check_lengths(json_path, video_dir):
 
 # 使用路径替换为你本地的路径
 train_mismatches = check_lengths('/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_train.json',
-                                 '/Users/shuaicongwu/Desktop/ovis_videos/ovis_training_V1')
+                                 '/Users/shuaicongwu/Desktop/MA_resources/ovis_videos/ovis_train_videos_all_V1')
 valid_mismatches = check_lengths('/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_valid.json',
-                                 '/Users/shuaicongwu/Desktop/ovis_videos/ovis_valid_V1')
+                                 '/Users/shuaicongwu/Desktop/MA_resources/ovis_videos/ovis_valid_videos_all_V1')
 
 # 输出不一致项
-print("=== Train Mismatches ===")
-if train_mismatches:
-    for m in train_mismatches:
-        print(m)
-else:
-    print("train没有不一致")
+# print("=== Train Mismatches ===")
+# if train_mismatches:
+#     for m in train_mismatches:
+#         print(m)
+# else:
+#     print("train没有不一致")
+#
+# print("\n=== Valid Mismatches ===")
+# if valid_mismatches:
+#     for m in valid_mismatches:
+#         print(m)
+# else:
+#     print("valid没有不一致")
 
-print("\n=== Valid Mismatches ===")
-if valid_mismatches:
-    for m in valid_mismatches:
-        print(m)
-else:
-    print("valid没有不一致")
+def check_video_name_list(name_folder, videos_folder):
+    # 获取 train 文件夹下所有子文件夹的名称
+    train_subfolders = set(os.listdir(name_folder))
+
+    # 获取 videos 文件夹中所有 mp4 文件的前缀名（即第一个下划线之前的部分）
+    video_files = [f for f in os.listdir(videos_folder) if f.endswith('.mp4')]
+    video_prefixes = set(f.split('_')[0] for f in video_files)
+
+    # 比较两个集合
+    only_in_train = train_subfolders - video_prefixes
+    only_in_videos = video_prefixes - train_subfolders
+
+    # 输出结果
+    print("仅在 train 中存在的子文件夹：", only_in_train)
+    print("仅在 videos 中存在但不在 train 中的前缀：", only_in_videos)
+
+    if not only_in_train and not only_in_videos:
+        print("两个列表一致。")
+    else:
+        print("两个列表不一致。")
+
+check_video_name_list('/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-ovis/expression/training',
+                      '/Users/shuaicongwu/Desktop/MA_resources/ovis_videos/ovis_train_videos_533_V1')
+check_video_name_list('/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-ovis/expression/valid',
+                      '/Users/shuaicongwu/Desktop/MA_resources/ovis_videos/ovis_valid_videos_137_V1')
+

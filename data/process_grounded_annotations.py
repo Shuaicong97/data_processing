@@ -4,49 +4,61 @@ import shutil
 import csv
 
 
-def print_number_of_videos():
-    with open('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-valid-doubled.json', 'r') as file:
+def save_ours_videos(json_file, output_file):
+    with open(json_file, 'r') as file:
         data = json.load(file)
 
     # 提取唯一的 Video 值
     videos = [entry['Video'] for entry in data]
-    unique_videos = set(videos)
+    unique_videos = list(set(videos))
     unique_count = len(unique_videos)
 
     # 将唯一的视频值保存到文件
-    with open('/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/ours_unique_valid_videos.txt', 'w') as file:
-        for video in unique_videos:
-            file.write(f"{video}\n")
+    with open(output_file, 'w') as file:
+        json.dump(unique_videos, file, indent=4, ensure_ascii=False)
 
-    print(f"总共有 {unique_count} 不同的valid videos。")
+    print(f"总共有 {unique_count} 不同的 videos。")
+
+save_ours_videos('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-training-doubled.json',
+      '/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/ours_unique_training_videos.json')
+save_ours_videos('/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-valid-doubled.json',
+      '/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/ours_unique_valid_videos.json')
 
 
-def check_and_move_directories(original_dir, target_dir, txt_file):
-    # 读取txt文件中的唯一视频值
-    with open(txt_file, 'r') as file:
-        video_names = set(line.strip() for line in file.readlines())
+def move_matched_folders(json_file, source_dir, target_dir):
+    # 读取 JSON 文件中的 Video 名单
+    with open(json_file, 'r', encoding='utf-8') as f:
+        valid_videos = set(json.load(f))
 
-    # 遍历目录A中的所有子文件夹
-    for folder_name in os.listdir(original_dir):
-        folder_path = os.path.join(original_dir, folder_name)
+    # 确保目标目录存在
+    os.makedirs(target_dir, exist_ok=True)
+    moved_count = 0  # 用于计数
 
-        # 确保是文件夹
-        if os.path.isdir(folder_path):
-            # 检查文件夹名是否在txt文件中
-            if folder_name not in video_names:
-                # 如果不在txt文件中，将该文件夹（及其内容）移动到目录B
-                target_path = os.path.join(target_dir, folder_name)
+    # 遍历源目录下的子文件夹
+    for folder_name in os.listdir(source_dir):
+        folder_path = os.path.join(source_dir, folder_name)
 
-                # 确保目标目录B中没有同名文件夹
-                if not os.path.exists(target_path):
-                    shutil.move(folder_path, target_path)
-                    print(f"文件夹 {folder_name} 已移动到 {target_dir}")
-                else:
-                    print(f"文件夹 {folder_name} 已存在于目标目录 {target_dir}，跳过移动")
+        # 如果是文件夹并且在 valid_videos 里
+        if os.path.isdir(folder_path) and folder_name in valid_videos:
+            target_path = os.path.join(target_dir, folder_name)
+            shutil.move(folder_path, target_path)
+            print(f"Moved: {folder_name}")
+            moved_count += 1
 
-check_and_move_directories('/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-ovis/OVIS/labels_with_ids/valid',
-                           '/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/unneeded_videos',
-                           '/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/ours_unique_valid_videos.txt')
+
+    print(f"文件夹筛选与移动完成，总共移动了 {moved_count} 个文件夹。")
+
+move_matched_folders(
+    json_file='/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/ours_unique_training_videos.json',
+    source_dir='/Users/shuaicongwu/Desktop/MA_resources/ovis_official/train',
+    target_dir='/Users/shuaicongwu/Desktop/Feature_Extraction/image_sets/ovis/train'
+)
+
+move_matched_folders(
+    json_file='/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/ours_unique_valid_videos.json',
+    source_dir='/Users/shuaicongwu/Desktop/MA_resources/ovis_official/valid',
+    target_dir='/Users/shuaicongwu/Desktop/Feature_Extraction/image_sets/ovis/valid'
+)
 
 
 def filter_and_save_csv(input_file, output_file, isTrain):
