@@ -32,29 +32,31 @@ def compare_two_json_files(json_file1, json_file2):
 
 
     # 输出结果或写入文件
-    with open('only_in_a.json', 'w', encoding='utf-8') as f:
+    with open('only_in_a_ovis_training.json', 'w', encoding='utf-8') as f:
         json.dump(only_in_a, f, indent=4, ensure_ascii=False)
 
     print(f"找到 {len(only_in_a)} 个 A 中独有的项")
 
     # 输出结果或写入文件
-    with open('only_in_b.json', 'w', encoding='utf-8') as f:
+    with open('only_in_b_ovis_training.json', 'w', encoding='utf-8') as f:
         json.dump(only_in_b, f, indent=4, ensure_ascii=False)
 
-    print(f"找到 {len(only_in_a)} 个 B 中独有的项")
+    print(f"找到 {len(only_in_b)} 个 B 中独有的项")
 
-# compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/OVIS-training.json',
-#                        '/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/OVIS-training.json')
+# compare_two_json_files('/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data_processing/rephrase_queries/rephrased_annotations/OVIS-valid-doubled.json',
+#                        '/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-valid-doubled.json')
+compare_two_json_files('/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data_processing/rephrase_queries/rephrased_annotations/OVIS-training-doubled.json',
+                       '/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-training-doubled.json')
 # compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/OVIS-training.json',
 #                        '/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/OVIS-training-doubled.json')
 # compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-training.json',
 #                        '/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/MOT17-training.json')
 # compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-training.json',
 #                        '/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-training-doubled.json')
-compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-valid.json',
-                       '/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/MOT17-valid.json')
-compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-valid.json',
-                       '/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-valid-doubled.json')
+# compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-valid.json',
+#                        '/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data/Ours/MOT17-valid.json')
+# compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-valid.json',
+#                        '/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT17-valid-doubled.json')
 # compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT20-training.json',
 #                        '/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased data/MOT20-training-doubled.json')
 # compare_two_json_files('/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT20-valid.json',
