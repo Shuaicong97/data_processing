@@ -45,8 +45,8 @@ doubled_ovis_valid = '/Users/shuaicongwu/PycharmProjects/data_processing/Rephras
 unique_objects_ovis_training = 'unique_objects_ovis-training.json'
 unique_objects_ovis_valid = 'unique_objects_ovis-valid.json'
 
-# get_unique_objects(original_ovis_training, doubled_ovis_training, unique_objects_ovis_training)
-# get_unique_objects(original_ovis_valid, doubled_ovis_valid, unique_objects_ovis_valid)
+get_unique_objects(original_ovis_training, doubled_ovis_training, unique_objects_ovis_training)
+get_unique_objects(original_ovis_valid, doubled_ovis_valid, unique_objects_ovis_valid)
 
 original_mot17_training = '/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-training.json'
 original_mot17_valid = '/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT17-valid.json'
@@ -55,8 +55,8 @@ doubled_mot17_valid = '/Users/shuaicongwu/PycharmProjects/data_processing/Rephra
 unique_objects_mot17_training = 'unique_objects_mot17-training.json'
 unique_objects_mot17_valid = 'unique_objects_mot17-valid.json'
 
-get_unique_objects(original_mot17_training, doubled_mot17_training, unique_objects_mot17_training)
-get_unique_objects(original_mot17_valid, doubled_mot17_valid, unique_objects_mot17_valid)
+# get_unique_objects(original_mot17_training, doubled_mot17_training, unique_objects_mot17_training)
+# get_unique_objects(original_mot17_valid, doubled_mot17_valid, unique_objects_mot17_valid)
 
 original_mot20_training = '/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT20-training.json'
 original_mot20_valid = '/Users/shuaicongwu/PycharmProjects/data_processing/Original/MOT20-valid.json'
@@ -65,8 +65,8 @@ doubled_mot20_valid = '/Users/shuaicongwu/PycharmProjects/data_processing/Rephra
 unique_objects_mot20_training = 'unique_objects_mot20-training.json'
 unique_objects_mot20_valid = 'unique_objects_mot20-valid.json'
 
-get_unique_objects(original_mot20_training, doubled_mot20_training, unique_objects_mot20_training)
-get_unique_objects(original_mot20_valid, doubled_mot20_valid, unique_objects_mot20_valid)
+# get_unique_objects(original_mot20_training, doubled_mot20_training, unique_objects_mot20_training)
+# get_unique_objects(original_mot20_valid, doubled_mot20_valid, unique_objects_mot20_valid)
 
 def add_raw_sentences(unique_file, file_a):
     # 读取unique.json和A.json的内容
@@ -90,9 +90,9 @@ def add_raw_sentences(unique_file, file_a):
     with open(unique_file, 'w') as fu:
         json.dump(unique_data, fu, indent=4)
 
-# add_raw_sentences(unique_objects_ovis_training, original_ovis_training)
-# add_raw_sentences(unique_objects_ovis_valid, original_ovis_valid)
-add_raw_sentences(unique_objects_mot17_training, original_mot17_training)
-add_raw_sentences(unique_objects_mot17_valid, original_mot17_valid)
-add_raw_sentences(unique_objects_mot20_training, original_mot20_training)
-add_raw_sentences(unique_objects_mot20_valid, original_mot20_valid)
+add_raw_sentences(unique_objects_ovis_training, original_ovis_training)
+add_raw_sentences(unique_objects_ovis_valid, original_ovis_valid)
+# add_raw_sentences(unique_objects_mot17_training, original_mot17_training)
+# add_raw_sentences(unique_objects_mot17_valid, original_mot17_valid)
+# add_raw_sentences(unique_objects_mot20_training, original_mot20_training)
+# add_raw_sentences(unique_objects_mot20_valid, original_mot20_valid)

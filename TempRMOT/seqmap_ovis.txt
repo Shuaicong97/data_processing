@@ -32,6 +32,7 @@ af48b2f9+the-elephant-halts-its-movement
 7223bf62+bunny-is-eating-leaves
 7223bf62+bunny-is-sniffing-on-the-bed-sheet
 7223bf62+a-bunny-is-nibbling-on-leaves
+7223bf62+bunny-is-munching-on-leaves
 c9a2645e+the-tiger-knocks-another-tiger-to-the-ground
 c9a2645e+the-tiger-lowers-its-head-to-the-ground
 c9a2645e+the-tiger-pushes-another-tiger-to-the-ground
@@ -125,6 +126,7 @@ e7ef3b9d+the-boat-turns-from-the-right-to-the-left
 e7ef3b9d+the-person-moves-in-front-of-other-boats
 e7ef3b9d+a-boat-trails-behind-other-boats
 e7ef3b9d+the-boat-moves-between-other-boats
+e7ef3b9d+the-boat-swerves-from-the-right-to-the-left
 e7ef3b9d+the-boat-moves-in-front-of-other-boats
 e7ef3b9d+the-person-shifts-ahead-of-other-boats
 e7ef3b9d+the-person-moves-between-other-boats
@@ -175,6 +177,7 @@ e568ca41+the-zebra-gets-away-from-the-jaws-of-the-lion
 e568ca41+the-lion-rises-from-a-seated-position
 e568ca41+the-lion-stands-up-from-a-seated-position
 e568ca41+the-zebra-pushes-the-lion-with-its-head
+2b84174e+dog-is-clashing-with-another-dog
 2b84174e+a-dog-is-avoiding-participation-in-the-fight
 2b84174e+dog-is-fighting-with-another-dog
 2b84174e+a-dog-is-engaging-in-a-fight-with-another-dog
@@ -196,6 +199,8 @@ c705c014+the-cow-begins-eating-the-leaves
 97f5bbc8+a-bear-is-coming-into-view-from-the-right-and-heading-left
 97f5bbc8+a-bear-is-engaging-in-a-battle-with-another-bear
 97f5bbc8+bear-is-fighting-with-another-bear
+97f5bbc8+bear-is-wrestling-with-another-bear
+97f5bbc8+bear-is-struggling-with-another-bear
 97f5bbc8+bear-entering-into-frame-from-right-side-is-going-towards-left-side
 7a8cfc91+the-bike-is-moving-from-right-to-left
 7a8cfc91+a-person-is-pushing-the-bike-to-the-left
@@ -273,9 +278,11 @@ b8e00b22+the-horse-rears-up-on-its-hind-legs
 b8e00b22+the-horse-stands-on-its-two-back-legs
 b8e00b22+the-horse-collides-with-another-horse
 b8e00b22+the-horse-bumps-into-another-horse
+1b664206+person-is-commanding-the-horse
 1b664206+a-horse-is-moving-in-circles-around-a-person
 1b664206+person-is-giving-commands-to-the-horse
 1b664206+a-horse-is-moving-to-the-left
+1b664206+horse-is-trotting-in-circles-around-a-person
 1b664206+a-person-is-issuing-commands-to-a-horse
 1b664206+a-horse-begins-to-walk-to-the-left
 1b664206+horse-starts-to-walk-towards-the-left-side
@@ -289,6 +296,8 @@ b8e00b22+the-horse-bumps-into-another-horse
 429d96d4+the-turtle-climbs-onto-the-back-of-another-turtle
 2ab06287+dog-is-asserting-dominance-in-the-fight-with-another-dog
 2ab06287+dog-is-being-dominated-during-the-fight-with-another-dog
+2ab06287+dog-is-being-outmatched-in-the-fight-with-another-dog
+2ab06287+dog-is-losing-dominance-in-the-fight-with-another-dog
 2ab06287+a-dog-is-being-overpowered-in-a-fight-with-another-dog
 2ab06287+a-dog-is-establishing-dominance-in-a-fight-with-another-dog
 19615388+the-sheep-starts-walking
@@ -301,6 +310,7 @@ b8e00b22+the-horse-bumps-into-another-horse
 19615388+the-sheep-appears-in-the-frame-from-the-right-side-of-the-camera
 2c22cd4e+a-cat-is-engaging-in-a-tussle-with-another-cat
 2c22cd4e+cat-is-fighting-with-another-cat
+2c22cd4e+cat-is-sparring-with-another-cat
 35dff164+the-airplane-on-the-runway-is-still-and-remains-in-the-same-place
 35dff164+airplane-on-the-runway-is-going-towards-left-side
 35dff164+the-airplane-on-the-runway-is-turning-to-the-left
@@ -380,6 +390,7 @@ c4fd77f2+the-tiger-enters-from-the-top-of-the-frame
 75a8cadb+a-person-is-signaling-with-his-right-hand-to-begin-the-race
 75a8cadb+person-is-standing-with-his-elephant-and-watching-the-race
 75a8cadb+a-person-is-standing-next-to-his-elephant-and-observing-the-race
+75a8cadb+person-is-accepting-the-basket-from-the-elephant's-trunk
 75a8cadb+a-person-is-observing-the-race-from-the-sidelines
 75a8cadb+person-is-receiving-the-basket-from-the-elephant's-trunk
 75a8cadb+person-watching-the-race-from-boundary
@@ -501,6 +512,7 @@ ed5ec3c5+the-turtle-takes-a-left-turn
 71d35513+a-ship-is-heading-to-the-right
 3d8b1ee0+lizard-is-fighting-with-another-lizard
 3d8b1ee0+a-lizard-is-battling-another-lizard
+4027a35b+bunny-is-tussling-with-another-bunny
 4027a35b+a-bunny-is-engaging-in-a-fight-with-another-bunny
 4027a35b+bunny-is-fighting-with-another-bunny
 06eb2803+goat-is-keeping-its-front-legs-on-the-back-of-another-goat
@@ -509,6 +521,7 @@ ed5ec3c5+the-turtle-takes-a-left-turn
 06eb2803+person-is-going-towards-the-goats
 06eb2803+a-goat-is-searching-for-something-on-the-ground
 06eb2803+a-goat-is-resting-its-front-legs-on-the-back-of-another-goat
+06eb2803+goat-is-investigating-something-on-the-ground
 06eb2803+person-is-stationary-and-remains-in-the-same-position
 06eb2803+goat-is-looking-for-something-on-the-ground
 2b827e3a+person-on-bike-is-jumping
@@ -518,6 +531,7 @@ ed5ec3c5+the-turtle-takes-a-left-turn
 1ef6cb7b+a-bird-is-no-longer-flying
 1ef6cb7b+bird-is-flying-towards-the-right-side
 1ef6cb7b+bird-refrains-from-flying
+1ef6cb7b+bird-avoids-from-flying
 a16e9661+the-bull-moves-to-the-left
 a16e9661+a-bull-heads-to-the-right
 a16e9661+the-bull-moves-to-the-right
@@ -569,6 +583,7 @@ d41a62d4+a-bird-gazes-to-the-right
 d41a62d4+a-bird-leaps-to-a-higher-perch
 768c5810+a-sheep-is-battling-with-a-cow
 768c5810+sheep-is-fighting-with-cow
+768c5810+cow-is-contending-with-sheep
 768c5810+cow-is-fighting-with-sheep
 768c5810+a-cow-is-battling-with-a-sheep
 a74b52eb+the-plane-alters-its-direction-to-the-left
@@ -639,6 +654,8 @@ d26036cd+the-zebra-takes-a-slight-turn-to-the-right
 d26036cd+the-zebra-moves-its-head-to-the-left-on-the-grass
 d26036cd+the-zebra-rotates-its-body-and-faces-left
 d26036cd+the-zebra-disappears-from-the-frame-to-the-left-side-of-the-camera
+6a6547d7+rabbit-is-romping-with-another-rabbit
+6a6547d7+rabbit-is-frolicking-with-another-rabbit
 6a6547d7+a-rabbit-is-interacting-with-another-rabbit
 6a6547d7+rabbit-is-playing-with-another-rabbit
 bd34e772+the-lizard-tilts-forward-into-the-food-bowl
@@ -656,6 +673,7 @@ bd34e772+the-lizard-gazes-down-at-the-food-bowl
 39f0d139+tiger-is-walking-towards-the-right-side
 435d99e0+a-person-on-a-bicycle-is-turning-slightly-to-the-right
 435d99e0+a-bicycle-is-turning-gently-to-the-right
+435d99e0+bicycle-is-drifting-rightward-slightly
 435d99e0+person-on-bicycle-is-making-a-slight-right-turn
 435d99e0+bicycle-is-making-a-slight-right-turn
 e0a22a9b+the-boy-makes-a-u-turn-with-the-cycle
@@ -667,6 +685,7 @@ e0a22a9b+the-cycle-makes-a-u-turn
 e0a22a9b+the-person-is-obscured-a-little-behind-a-boy
 e0a22a9b+a-boy-spins-around-from-left-to-right
 5251dbb9+bird-is-brought-into-frame-by-a-person's-hand
+5251dbb9+bird-is-introduced-into-the-frame-by-a-person's-hand
 5251dbb9+a-person's-hand-places-a-bird-into-view
 5251dbb9+bird-is-touching-another-bird's-mouth-with-its-beak
 b87840e1+the-fish-turns-from-the-right-to-the-left
@@ -678,7 +697,10 @@ b87840e1+the-fish-glides-through-the-water-to-the-surface-of-the-water
 9323c19c+a-bird-is-bothering-the-other-birds
 9323c19c+a-bird-is-flying-around-the-food-container
 9323c19c+bird-is-circling-around-the-food-container
+9323c19c+bird-is-harassing-other-birds
+9323c19c+bird-is-annoying-other-birds
 9323c19c+bird-is-disturbing-other-birds
+9323c19c+bird-is-looping-around-the-food-container
 9323c19c+bird-is-going-inside-of-the-food-container-from-floor
 9323c19c+a-bird-is-entering-the-food-container-from-the-floor
 3054dbaf+chicken-on-the-wall-is-going-towards-left-side
@@ -768,6 +790,7 @@ f6cdaca7+the-fish-positions-itself-vertically-as-it-looks-down-on-the-lower-surf
 9b318a9c+giraffe's-back-leg-is-being-lifted-by-another-giraffe
 1806a28d+airplane-is-moving-slower-than-another-airplane
 1806a28d+airplane-is-moving-faster-than-another-airplane
+1806a28d+the-airplane-is-outpacing-another-airplane
 1806a28d+the-airplane-is-flying-faster-than-another-one
 1806a28d+the-airplane-is-flying-slower-than-another-one
 5834b092+tiger-is-walking-towards-the-left-side
@@ -796,6 +819,7 @@ f6cdaca7+the-fish-positions-itself-vertically-as-it-looks-down-on-the-lower-surf
 454c7bb5+a-person-is-moving-to-the-right-to-park-their-bike
 44a4d836+turtle-is-swimming-towards-right-side
 44a4d836+turtle-is-swimming-towards-left-side
+957c33a7+bird-jabbed-another-bird-with-its-beak
 957c33a7+bird-is-going-towards-left-side
 957c33a7+a-bird-strikes-another-with-its-beak
 957c33a7+a-bird-has-been-struck-by-another-bird's-beak

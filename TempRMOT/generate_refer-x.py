@@ -217,6 +217,8 @@ def process_ovis():
     generate_rephrased_expression('unique_objects_ovis-training.json', output_ovis_training_path)
     generate_rephrased_expression('unique_objects_ovis-valid.json', output_ovis_valid_path)
 
+process_ovis()
+
 def process_mot17():
     gt_train_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT17_GTs/train"
     gt_val_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT17_GTs/val"
@@ -265,4 +267,4 @@ def process_mot20():
     generate_rephrased_expression('unique_objects_mot20-training.json', output_mot20_training_path)
     generate_rephrased_expression('unique_objects_mot20-valid.json', output_mot20_valid_path)
 
-process_mot20()
+# process_mot20()

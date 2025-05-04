@@ -20,10 +20,10 @@ def generate_seqmap(valid_json_folder, output_file):
 
 valid_json_folder_ovis = '/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-ovis/expression/valid'
 generate_seqmap(valid_json_folder_ovis, 'seqmap_ovis.txt')
-valid_json_folder_mot17 = '/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-mot17/expression/valid'
-generate_seqmap(valid_json_folder_mot17, 'seqmap_mot17.txt')
-valid_json_folder_mot20 = '/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-mot20/expression/valid'
-generate_seqmap(valid_json_folder_mot20, 'seqmap_mot20.txt')
+# valid_json_folder_mot17 = '/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-mot17/expression/valid'
+# generate_seqmap(valid_json_folder_mot17, 'seqmap_mot17.txt')
+# valid_json_folder_mot20 = '/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-mot20/expression/valid'
+# generate_seqmap(valid_json_folder_mot20, 'seqmap_mot20.txt')
 
 def check_diff(file1, file2):
     # 读取两个文件

@@ -1969,7 +1969,7 @@
     },
     {
         "Video": "1ef6cb7b",
-        "Language Query": "Bird refrains from flying",
+        "Language Query": "Bird avoids from flying",
         "Start": "1",
         "End": "85"
     },
@@ -4165,6 +4165,12 @@
     },
     {
         "Video": "e7ef3b9d",
+        "Language Query": "The boat swerves from the right to the left",
+        "Start": "9",
+        "End": "25"
+    },
+    {
+        "Video": "e7ef3b9d",
         "Language Query": "The person steers the boat from the right to the left",
         "Start": "9",
         "End": "25"
@@ -5503,7 +5509,19 @@
     },
     {
         "Video": "1b664206",
+        "Language Query": "Horse is trotting in circles around a person",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "1b664206",
         "Language Query": "A person is issuing commands to a horse",
+        "Start": "1",
+        "End": "16"
+    },
+    {
+        "Video": "1b664206",
+        "Language Query": "Person is commanding the horse",
         "Start": "1",
         "End": "16"
     },
@@ -5587,7 +5605,19 @@
     },
     {
         "Video": "9323c19c",
+        "Language Query": "Bird is annoying other birds",
+        "Start": "3",
+        "End": "10"
+    },
+    {
+        "Video": "9323c19c",
         "Language Query": "A bird is bothering the other birds",
+        "Start": "25",
+        "End": "51"
+    },
+    {
+        "Video": "9323c19c",
+        "Language Query": "Bird is harassing other birds",
         "Start": "25",
         "End": "51"
     },
@@ -5604,6 +5634,12 @@
         "End": "87"
     },
     {
+        "Video": "9323c19c",
+        "Language Query": "Bird is looping around the food container",
+        "Start": "1",
+        "End": "87"
+    },
+    {
         "Video": "7223bf62",
         "Language Query": "A bunny is smelling the bed sheet",
         "Start": "18",
@@ -5612,6 +5648,12 @@
     {
         "Video": "7223bf62",
         "Language Query": "A bunny is nibbling on leaves",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "7223bf62",
+        "Language Query": "Bunny is munching on leaves",
         "Start": "1",
         "End": "30"
     },
@@ -5688,6 +5730,12 @@
         "End": "28"
     },
     {
+        "Video": "4027a35b",
+        "Language Query": "Bunny is tussling with another bunny",
+        "Start": "1",
+        "End": "28"
+    },
+    {
         "Video": "3054dbaf",
         "Language Query": "A chicken is pecking food off the floor",
         "Start": "19",
@@ -5714,6 +5762,12 @@
     {
         "Video": "1806a28d",
         "Language Query": "The airplane is flying faster than another one",
+        "Start": "1",
+        "End": "108"
+    },
+    {
+        "Video": "1806a28d",
+        "Language Query": "The airplane is outpacing another airplane",
         "Start": "1",
         "End": "108"
     },
@@ -5755,6 +5809,12 @@
     },
     {
         "Video": "957c33a7",
+        "Language Query": "Bird jabbed another bird with its beak",
+        "Start": "13",
+        "End": "15"
+    },
+    {
+        "Video": "957c33a7",
         "Language Query": "A bird is moving to the left",
         "Start": "2",
         "End": "7"
@@ -5790,6 +5850,12 @@
         "End": "60"
     },
     {
+        "Video": "768c5810",
+        "Language Query": "Cow is contending with sheep",
+        "Start": "1",
+        "End": "60"
+    },
+    {
         "Video": "454c7bb5",
         "Language Query": "A person is moving to the right to park their bike",
         "Start": "1",
@@ -5810,6 +5876,18 @@
     {
         "Video": "97f5bbc8",
         "Language Query": "A bear is engaging in a battle with another bear",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "97f5bbc8",
+        "Language Query": "Bear is struggling with another bear",
+        "Start": "1",
+        "End": "18"
+    },
+    {
+        "Video": "97f5bbc8",
+        "Language Query": "Bear is wrestling with another bear",
         "Start": "1",
         "End": "18"
     },
@@ -5912,6 +5990,12 @@
     {
         "Video": "75a8cadb",
         "Language Query": "A person is taking a basket from the trunk of an elephant",
+        "Start": "15",
+        "End": "18"
+    },
+    {
+        "Video": "75a8cadb",
+        "Language Query": "Person is accepting the basket from the elephant's trunk",
         "Start": "15",
         "End": "18"
     },
@@ -6241,6 +6325,12 @@
     },
     {
         "Video": "06eb2803",
+        "Language Query": "Goat is investigating something on the ground",
+        "Start": "53",
+        "End": "60"
+    },
+    {
+        "Video": "06eb2803",
         "Language Query": "A person is heading towards the goats",
         "Start": "38",
         "End": "60"
@@ -6444,6 +6534,18 @@
         "End": "96"
     },
     {
+        "Video": "2ab06287",
+        "Language Query": "Dog is being outmatched in the fight with another dog",
+        "Start": "1",
+        "End": "96"
+    },
+    {
+        "Video": "2ab06287",
+        "Language Query": "Dog is losing dominance in the fight with another dog",
+        "Start": "1",
+        "End": "96"
+    },
+    {
         "Video": "2b6e117d",
         "Language Query": "A giraffe near the fence is moving to the right",
         "Start": "1",
@@ -6529,6 +6631,12 @@
     },
     {
         "Video": "2b84174e",
+        "Language Query": "Dog is clashing with another dog",
+        "Start": "1",
+        "End": "30"
+    },
+    {
+        "Video": "2b84174e",
         "Language Query": "A dog is avoiding participation in the fight",
         "Start": "1",
         "End": "30"
@@ -6548,6 +6656,12 @@
     {
         "Video": "2c22cd4e",
         "Language Query": "A cat is engaging in a tussle with another cat",
+        "Start": "1",
+        "End": "92"
+    },
+    {
+        "Video": "2c22cd4e",
+        "Language Query": "Cat is sparring with another cat",
         "Start": "1",
         "End": "92"
     },
@@ -6852,6 +6966,12 @@
         "End": "30"
     },
     {
+        "Video": "5251dbb9",
+        "Language Query": "Bird is introduced into the frame by a person's hand",
+        "Start": "28",
+        "End": "30"
+    },
+    {
         "Video": "2112a80d",
         "Language Query": "A goat is facing the camera",
         "Start": "1",
@@ -7069,6 +7189,12 @@
     },
     {
         "Video": "435d99e0",
+        "Language Query": "Bicycle is drifting rightward slightly",
+        "Start": "11",
+        "End": "15"
+    },
+    {
+        "Video": "435d99e0",
         "Language Query": "A bicycle is turning gently to the right",
         "Start": "8",
         "End": "11"
@@ -7106,6 +7232,18 @@
     {
         "Video": "6a6547d7",
         "Language Query": "A rabbit is interacting with another rabbit",
+        "Start": "1",
+        "End": "54"
+    },
+    {
+        "Video": "6a6547d7",
+        "Language Query": "Rabbit is frolicking with another rabbit",
+        "Start": "1",
+        "End": "54"
+    },
+    {
+        "Video": "6a6547d7",
+        "Language Query": "Rabbit is romping with another rabbit",
         "Start": "1",
         "End": "54"
     },

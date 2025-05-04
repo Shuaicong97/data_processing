@@ -28,7 +28,7 @@ def generate_refer_train(input_folder, output_file, type):
 
 generate_refer_train('/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-ovis/OVIS/labels_with_ids',
                      'refer-ovis.train', 'OVIS')
-generate_refer_train('/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-mot17/MOT17/labels_with_ids',
-                     'refer-mot17.train', 'MOT17')
-generate_refer_train('/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-mot20/MOT20/labels_with_ids',
-                     'refer-mot20.train', 'MOT20')
+# generate_refer_train('/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-mot17/MOT17/labels_with_ids',
+#                      'refer-mot17.train', 'MOT17')
+# generate_refer_train('/Users/shuaicongwu/PycharmProjects/data_processing/TempRMOT/data/refer-mot20/MOT20/labels_with_ids',
+#                      'refer-mot20.train', 'MOT20')
