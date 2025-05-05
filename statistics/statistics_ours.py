@@ -127,7 +127,7 @@ def get_verb_and_frequency_from_sentences(dataset, sentences, output_file_path):
     for sentence in sentences:
         doc = nlp(sentence)
         # type of verbs is <list>
-        verbs = [token for token in doc if token.pos_ == "VERB" and token.dep_ != "AUX"]
+        verbs = [token for token in doc if token.pos_ == "VERB"]
         # print(sentence, "Detected Verbs:", verbs)
 
         # if any(verb.text in ('left', 'rightward') for verb in verbs):
@@ -156,9 +156,12 @@ def get_verb_and_frequency_from_sentences(dataset, sentences, output_file_path):
             if cur_verb_index > 0:
                 pre_verb = doc[cur_verb_index - 1]
 
-                # 如果 pre_verb 是动词并且在 verbs 中，说明是连续动词，应该跳过当前动词
+                # 如果 pre_verb 是动词并且在 verbs 中，说明是连续动词，应该移除前面的动词
+                # The rabbit stops inspecting the floor and sits still verb: [stops, inspecting, sits] -> 移除 stops，而不是移除 inspecting
                 if pre_verb.pos_ == "VERB" and pre_verb in verbs:
-                    continue  # 跳过当前动词
+                    # continue  # 跳过当前动词
+                    filtered_verbs.remove(pre_verb.text)
+
 
             # 如果没有移除，则保留当前动词
             filtered_verbs.append(cur_verb.text)
@@ -183,10 +186,10 @@ def get_verb_and_frequency_from_sentences(dataset, sentences, output_file_path):
     print("Data saved to:", output_file_path)
 
 # 在结果处手动添加 {"sprints": 6, "brushes": 2}到all和ovis => 900 不要再次运行啦！以免达不到900
-# get_verb_and_frequency_from_sentences('all', unique_queries_all, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all.json') # 898->900
-# get_verb_and_frequency_from_sentences('mot17', unique_queries_mot17, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot17.json') # 260
-# get_verb_and_frequency_from_sentences('mot20', unique_queries_mot20, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot20.json') # 212
-# get_verb_and_frequency_from_sentences('ovis', unique_queries_ovis, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ovis.json') # 763->765
+# get_verb_and_frequency_from_sentences('all', unique_queries_all, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all-1.json') # 898->900 1-903
+# get_verb_and_frequency_from_sentences('mot17', unique_queries_mot17, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot17-1.json') # 260 1-263
+# get_verb_and_frequency_from_sentences('mot20', unique_queries_mot20, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot20-1.json') # 212 1-214
+# get_verb_and_frequency_from_sentences('ovis', unique_queries_ovis, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ovis-1.json') # 763->765 1-768
 
 def compare_two_json(file1, file2):
     # 读取两个 JSON 文件
@@ -251,15 +254,15 @@ def convert_verbs_to_base(json_file, output_file, output_path):
     # plt.show()
 
 
-# convert_verbs_to_base('/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all.json',
-#                       '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_base_all.json',
-#                       '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/top50_verbs.png')
+convert_verbs_to_base('/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all-1.json',
+                      '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_base_all.json',
+                      '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/top50_verbs.png')
 
 # word cloud
-verbs_ours_all = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all.json'
-verbs_mot17 = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot17.json'
-verbs_mot20 = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot20.json'
-verbs_ovis = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ovis.json'
+verbs_ours_all = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all-1.json'
+verbs_mot17 = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot17-1.json'
+verbs_mot20 = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot20-1.json'
+verbs_ovis = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ovis-1.json'
 
 def draw_wordcloud(input_path, output_path):
     with open(input_path, 'r') as f:
