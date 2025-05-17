@@ -1,0 +1,809 @@
+{"qid": 1, "query": "Person walking in the open space is going to the left side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 2, "query": "Person walking in the open space is going to the left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 3, "query": "Person walking in an open area is heading in the direction to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 4, "query": "Person walking in an open area is heading in the direction to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 5, "query": "Person walking in the open area is moving towards the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 6, "query": "Person walking in the open area is moving towards the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 7, "query": "Person in the open area is moving towards the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 8, "query": "Person in the open area is moving towards the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 9, "query": "Person in the open space is heading to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 10, "query": "Person in the open space is heading to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 11, "query": "Person stops drinking Drink before going to the left side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 283]]}
+{"qid": 12, "query": "Person halts drinking while moving to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 283]]}
+{"qid": 13, "query": "Person pause drinking before heading towards the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 283]]}
+{"qid": 14, "query": "Person walking in the open space is going to the right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 15, "query": "Person walking in the open space is going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 16, "query": "Person walking in an open area is heading in the direction to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 17, "query": "Person walking in an open area is heading in the direction to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 18, "query": "Person walking in the open area is moving towards the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 19, "query": "Person walking in the open area is moving towards the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 20, "query": "Person in the open area is moving towards the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 21, "query": "Person in the open area is moving towards the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 22, "query": "Person in the open space is heading to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 23, "query": "Person in the open space is heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 24, "query": "Person walking in the open space is showing to the right side with his left hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 126]]}
+{"qid": 25, "query": "A lady walking with another person is looking right side briefly", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[59, 86]]}
+{"qid": 26, "query": "Person coming from the right side stops walking briefly in the open area", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[92, 390]]}
+{"qid": 27, "query": "Person coming from the right side stops walking briefly in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[512, 717], [997, 2191]]}
+{"qid": 28, "query": "Person is talking with the security guard in the open space", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[225, 387]]}
+{"qid": 29, "query": "Person is talking with the security guard in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1507, 1659]]}
+{"qid": 30, "query": "Person is walking towards the camera after standing briefly", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[387, 429]]}
+{"qid": 31, "query": "Person coming from the right side is standing briefly in the open area", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[225, 390]]}
+{"qid": 32, "query": "Person coming from the right side is standing briefly in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[512, 717], [997, 2191]]}
+{"qid": 33, "query": "Person in the open space is giving information to the other persons", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[225, 387]]}
+{"qid": 34, "query": "Person in the open space is giving information to the other persons", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1506, 1785], [2071, 2249]]}
+{"qid": 35, "query": "Person is pointing to right side with left hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 36, "query": "Person is using left hand to indicate towards right side while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 37, "query": "Person is using left hand to point towards right side while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 38, "query": "Person is showing towards the camera with right hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 39, "query": "Person is showing towards the camera with right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195], [1654, 1665], [1700, 1790]]}
+{"qid": 40, "query": "Person is pointing to the camera with right hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 41, "query": "Person is pointing to the camera with right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195], [1654, 1665], [1700, 1790]]}
+{"qid": 42, "query": "Person is using right hand to indicate towards camera while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 43, "query": "Person is using right hand to indicate towards camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195], [1654, 1665], [1700, 1790]]}
+{"qid": 44, "query": "Person is using right hand to point towards the camera while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 45, "query": "Person is using right hand to point towards the camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195], [1654, 1665], [1700, 1790]]}
+{"qid": 46, "query": "Person is pointing to the camera with right hand while walking towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 47, "query": "Person is pointing to the camera with right hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1654, 1665], [1700, 1790]]}
+{"qid": 48, "query": "Person walking in the open area is adjusting his pant", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1159, 1475]]}
+{"qid": 49, "query": "Person walking in the open area is adjusting the pant", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[107, 191], [230, 270]]}
+{"qid": 50, "query": "Person walking in the open area is adjusting the pant", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 51, "query": "A person in the open space is arranging the pant", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[107, 191], [230, 270]]}
+{"qid": 52, "query": "A person in the open space is arranging the pant", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 53, "query": "A person walking in the open space is fixing the pant", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[107, 191], [230, 270]]}
+{"qid": 54, "query": "A person walking in the open space is fixing the pant", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 55, "query": "A person in the open space is fixing the pant", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[107, 191], [230, 270]]}
+{"qid": 56, "query": "A person in the open space is fixing the pant", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 57, "query": "Person in the open area is not walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 429]]}
+{"qid": 58, "query": "Person in the open area is not walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2782]]}
+{"qid": 59, "query": "Person in the open area is stationary and not walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 429]]}
+{"qid": 60, "query": "Person in the open area is stationary and not walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2782]]}
+{"qid": 61, "query": "Person standing in the open area is adjusting the hair", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[35, 102]]}
+{"qid": 62, "query": "A person in the open space is arranging the hair", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[35, 102], [288, 302], [387, 415]]}
+{"qid": 63, "query": "A person in the open space is arranging the hair", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1417, 1494], [1676, 1692]]}
+{"qid": 64, "query": "A person is standing in an open space and fixing the hair", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[35, 102]]}
+{"qid": 65, "query": "A person in an open space is fixing the hair", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[35, 102], [288, 302], [387, 415]]}
+{"qid": 66, "query": "A person in an open space is fixing the hair", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1417, 1494], [1676, 1692]]}
+{"qid": 67, "query": "Person is shaking with another person while walking towards the right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[273, 325]]}
+{"qid": 68, "query": "A person is keeping his left hand in his pant pocket while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[129, 429]]}
+{"qid": 69, "query": "A child is briefly bending her head while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[275, 313]]}
+{"qid": 70, "query": "Person is looking left side briefly while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 15], [112, 175], [192, 218]]}
+{"qid": 71, "query": "Person is looking left side briefly while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1302], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 72, "query": "Person is touching his head while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[366, 409]]}
+{"qid": 73, "query": "A person is touching her face while walking and talking with another person", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[209, 228], [326, 335]]}
+{"qid": 74, "query": "Person who is going from the left side to the right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 429]]}
+{"qid": 75, "query": "Person who is going from the left side to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[39, 2766]]}
+{"qid": 76, "query": "A lady is keeping her right hand on her stomach while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[282, 429]]}
+{"qid": 77, "query": "Person who is going from the right side to the left side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[16, 281]]}
+{"qid": 78, "query": "Person who is going from the right side to the left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[101, 2697]]}
+{"qid": 79, "query": "Person coming from the right side is standing briefly in the left side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[281, 351]]}
+{"qid": 80, "query": "Person is looking briefly at her right side while holding a child's hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[174, 215]]}
+{"qid": 81, "query": "Person is looking right side briefly while going to the right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[174, 215]]}
+{"qid": 82, "query": "Person is looking right side briefly while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[174, 215]]}
+{"qid": 83, "query": "Person is looking right side briefly while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 84, "query": "A child is touching the face while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[158, 225]]}
+{"qid": 85, "query": "A child is touching the face while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1397, 1557], [1608, 1634], [1735, 1755]]}
+{"qid": 86, "query": "A child is touching the face while going to the right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[158, 225]]}
+{"qid": 87, "query": "A child is touching the face with left hand while holding another person's hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[158, 225]]}
+{"qid": 88, "query": "A child is touching the face with left hand while holding another person's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1397, 1557], [1608, 1634], [1735, 1755]]}
+{"qid": 89, "query": "Person is looking left side briefly while going to the right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 15], [160, 175]]}
+{"qid": 90, "query": "Person is looking left side briefly while going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1248, 1302], [1497, 1557], [1700, 1744]]}
+{"qid": 91, "query": "Person walking in the open space is going towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 92, "query": "Person walking in an open area is heading in the direction to the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 93, "query": "Person walking in the open area is moving towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 94, "query": "Person in the open area is moving towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 95, "query": "Person in the open space is heading to the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 96, "query": "Person is touching the face while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[9, 76], [133, 335], [387, 415]]}
+{"qid": 97, "query": "Person is touching the face while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1383], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 98, "query": "A lady is moving her bag from right hand to the left hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[318, 381]]}
+{"qid": 99, "query": "Person coming from the right side is eating something from his hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[338, 367]]}
+{"qid": 100, "query": "Person coming from the left side is spreading his both hands", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[100, 131], [154, 209]]}
+{"qid": 101, "query": "A person approaching from the left side is extending both arms outward", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[100, 131], [154, 209]]}
+{"qid": 102, "query": "Person coming from the left side is touching his both hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[246, 267]]}
+{"qid": 103, "query": "A person approaching from the left side is making contact between both hands", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[246, 267]]}
+{"qid": 104, "query": "Person coming from the right side is touching the face", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[190, 246]]}
+{"qid": 105, "query": "Person coming from the right side is touching the face", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1403, 1487]]}
+{"qid": 106, "query": "Person coming from the left side is touching the face", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1383], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 107, "query": "Person coming from the left side is touching the face", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[222, 333], [387, 415]]}
+{"qid": 108, "query": "Person is touching the face while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 109, "query": "A person is adjusting the hair while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[387, 415], [864, 992], [1081, 1101], [1417, 1494], [1516, 1626], [1676, 1692]]}
+{"qid": 110, "query": "A person is adjusting the hair while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[288, 302]]}
+{"qid": 111, "query": "A person in the open space is stretching his left hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[15, 160]]}
+{"qid": 112, "query": "Person walking in the open area is using the right hand to indicate towards the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1156, 1178]]}
+{"qid": 113, "query": "Person walking in the open area is using their left hand to point towards the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1156, 1178]]}
+{"qid": 114, "query": "Person walking in the open space is pointing to the right side with his right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1156, 1178]]}
+{"qid": 115, "query": "Person is looking right side while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 116, "query": "An old man walking in the open area is eating ice-cream", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[235, 286]]}
+{"qid": 117, "query": "Person coming from the left side is looking for something in his jacket's pocket", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[559, 779]]}
+{"qid": 118, "query": "Person is coming from the left side in the open area", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[59, 429]]}
+{"qid": 119, "query": "Person is coming from the left side in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1846, 2782]]}
+{"qid": 120, "query": "A person is approaching from the left in the open space", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[59, 429]]}
+{"qid": 121, "query": "A person is approaching from the left in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1846, 2782]]}
+{"qid": 122, "query": "Person is coming from the right side in the open area", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[16, 429]]}
+{"qid": 123, "query": "Person is coming from the right side in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2370, 2782]]}
+{"qid": 124, "query": "A person is approaching from the right in the open space", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[16, 429]]}
+{"qid": 125, "query": "A person is approaching from the right in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2370, 2782]]}
+{"qid": 126, "query": "Person is touching the face while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 127, "query": "Person walking in the open area is adjusting his t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 128, "query": "A person in the open space is arranging the t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 129, "query": "A person walking in the open space is fixing the t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 130, "query": "A person in the open space is fixing the t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 131, "query": "Person coming from the right side is adjusting his pant", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 132, "query": "Person is running while going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1474, 1494], [1860, 1966]]}
+{"qid": 133, "query": "Person is beginning to run while going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1474, 1494], [1860, 1966]]}
+{"qid": 134, "query": "Person begins running while going to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1474, 1494], [1860, 1966]]}
+{"qid": 135, "query": "Person stops walking briefly in the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1096, 2180]]}
+{"qid": 136, "query": "Person walking in the open area is standing briefly in the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1096, 2180]]}
+{"qid": 137, "query": "Person is looking back while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1401, 1784]]}
+{"qid": 138, "query": "Person is adjusting his backpack while walking in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1426, 1481]]}
+{"qid": 139, "query": "Person is adjusting his backpack while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1426, 1481]]}
+{"qid": 140, "query": "Person is touching the face while going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1332, 1383], [1522, 1544]]}
+{"qid": 141, "query": "A lady is adjusting her handbag while walking in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1340, 1460], [1743, 1820]]}
+{"qid": 142, "query": "A lady is adjusting her handbag while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1743, 1820]]}
+{"qid": 143, "query": "Person is looking left side while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 144, "query": "Person coming from the left side is looking briefly left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 145, "query": "Person coming from the left side is looking briefly right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1364], [1503, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 146, "query": "Person is moving the cloth from right hand to the left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 147, "query": "A lady is moving her cloth from right hand to the left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 148, "query": "Person is shifting the cloth from right hand to the left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 149, "query": "A lady is shifting her cloth from right hand to the left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 150, "query": "Person coming from the left side is moving her cloth from right hand to the left hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 151, "query": "A lady coming from the left side is moving her cloth from right hand to the left hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 152, "query": "Person coming from the left side is shifting her cloth from right hand to the left hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 153, "query": "A lady coming from the left side is shifting her cloth from right hand to the left hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 154, "query": "Person is moving her cloth from left hand to the right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 155, "query": "A lady is moving her cloth from left hand to the right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 156, "query": "Person is shifting her cloth from left hand to the right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 157, "query": "A lady is shifting her cloth from left hand to the right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 158, "query": "Person coming from the left side is moving her cloth from left hand to the right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 159, "query": "A lady coming from the left side is moving her cloth from left hand to the right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 160, "query": "Person coming from the left side is shifting her cloth from left hand to the right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 161, "query": "A lady coming from the left side is shifting her cloth from left hand to the right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 162, "query": "Person is moving her cloth from right hand to the left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 163, "query": "A lady is moving her cloth from right hand to the left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 164, "query": "Person is shifting her cloth from right hand to the left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 165, "query": "A lady is shifting her cloth from right hand to the left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 166, "query": "Person is moving her cloth from right hand to the left hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 167, "query": "A lady is moving her cloth from right hand to the left hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 168, "query": "Person is shifting her cloth from right hand to the left hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 169, "query": "A lady is shifting her cloth from right hand to the left hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 170, "query": "Person is moving her cloth from right hand to the left hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 171, "query": "A lady is moving her cloth from right hand to the left hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 172, "query": "Person is shifting her cloth from right hand to the left hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 173, "query": "A lady is shifting her cloth from right hand to the left hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 174, "query": "Person is moving her cloth from left hand to the right hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 175, "query": "A lady is moving her cloth from left hand to the right hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 176, "query": "Person is shifting her cloth from left hand to the right hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 177, "query": "A lady is shifting her cloth from left hand to the right hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 178, "query": "Person is moving her cloth from left hand to the right hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 179, "query": "A lady is moving her cloth from left hand to the right hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 180, "query": "Person is shifting her cloth from left hand to the right hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 181, "query": "A lady is shifting her cloth from left hand to the right hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 182, "query": "Person is moving her cloth from left hand to the right hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 183, "query": "A lady is moving her cloth from left hand to the right hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 184, "query": "Person is shifting her cloth from left hand to the right hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 185, "query": "A lady is shifting her cloth from left hand to the right hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 186, "query": "Person is talking with his mobile while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1156, 1882]]}
+{"qid": 187, "query": "Person coming from the left side is going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[18, 2743]]}
+{"qid": 188, "query": "Person coming from the left side is walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[18, 2743]]}
+{"qid": 189, "query": "Person coming from the left side is heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[18, 2743]]}
+{"qid": 190, "query": "Person coming from the left side is moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[18, 2743]]}
+{"qid": 191, "query": "Person coming from the right side is going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[808, 1671]]}
+{"qid": 192, "query": "Person coming from the right side is walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[808, 1671]]}
+{"qid": 193, "query": "Person coming from the right side is heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[808, 1671]]}
+{"qid": 194, "query": "Person coming from the right side is moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[808, 1671]]}
+{"qid": 195, "query": "Person walking in the open space is going inside the food court", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[89, 429]]}
+{"qid": 196, "query": "Person in the open space stops walking briefly", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[92, 390]]}
+{"qid": 197, "query": "Person in the open space stops walking briefly", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[512, 717], [847, 919], [948, 2191], [2447, 2782]]}
+{"qid": 198, "query": "Person coming from the left side is standing briefly in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[847, 919], [948, 1095], [1401, 1550], [2447, 2782]]}
+{"qid": 199, "query": "Person coming from the left side stops walking briefly in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[847, 919], [948, 1095], [1401, 1550], [2447, 2782]]}
+{"qid": 200, "query": "Person in the open space is looking back", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1401, 1784], [1864, 1887], [1894, 1918]]}
+{"qid": 201, "query": "Person coming from the left side is using both hands to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 202, "query": "Person walking in the open area is using both hands to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 203, "query": "Person walking in the open space is using both hands to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 204, "query": "Person is using both hands to show directions to others while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 205, "query": "Person is using both hands to show directions to others while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 206, "query": "Person is using both hands to show directions to others while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 207, "query": "Person is moving the head right side and left side while talking with others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1551, 1995]]}
+{"qid": 208, "query": "Person is looking towards the camera while going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 209, "query": "Person is looking towards the camera while walking to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 210, "query": "Person is looking towards the camera while moving to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 211, "query": "Person coming from the left side is looking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 212, "query": "Person is looking towards the camera while walking in the open are", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 213, "query": "Person is looking towards the camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 214, "query": "Person coming from the left side is using right hand to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 215, "query": "Person walking in the open area is using right hand to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 216, "query": "Person walking in the open space is using right hand to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 217, "query": "Person is using right hand to show directions to others while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 218, "query": "Person is using right hand to show directions to others while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 219, "query": "Person is using right hand to show directions to others while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 220, "query": "Person is keeping the left hand inside the jacket while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 221, "query": "Person is keeping the left hand inside the jacket while walking in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 222, "query": "Person is keeping the left hand inside the jacket while walking in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 223, "query": "Person coming from the left side is keeping the left hand inside the jacket", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 224, "query": "Person is keeping the left hand inside the jacket while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 225, "query": "Person is keeping the left hand inside the jacket while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 226, "query": "Person is keeping the left hand inside the jacket while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 227, "query": "Person is looking for something in his jacket's pocket while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[559, 779]]}
+{"qid": 228, "query": "Person coming from the left side is using left hand to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 229, "query": "Person walking in the open area is using left hand to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 230, "query": "Person walking in the open space is using left hand to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 231, "query": "Person is using left hand to show directions to others while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 232, "query": "Person is using left hand to show directions to others while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 233, "query": "Person is using left hand to show directions to others while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 234, "query": "Person is looking back while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1401, 1784], [1864, 1887], [1894, 1918]]}
+{"qid": 235, "query": "Person is looking back while walking to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1766, 1780], [1864, 1887], [1894, 1918]]}
+{"qid": 236, "query": "Person is looking back while going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1766, 1780], [1864, 1887], [1894, 1918]]}
+{"qid": 237, "query": "Person is looking back while moving towards the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1766, 1780], [1864, 1887], [1894, 1918]]}
+{"qid": 238, "query": "A lady is adjusting her handbag while walking towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1340, 1460]]}
+{"qid": 239, "query": "A lady is adjusting her handbag while going to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1340, 1460]]}
+{"qid": 240, "query": "Person is looking right side while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 241, "query": "Person is looking right side while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 242, "query": "Person is looking right side while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 243, "query": "Person is holding a child's hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 244, "query": "Person is holding a child's hand while walking in open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 245, "query": "Person is holding a child's hand while walking towards right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 246, "query": "Person is holding a child's hand while moving towards right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 247, "query": "Person is holding a child's hand while going to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 248, "query": "Person coming from left side is holding a child's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 249, "query": "Person is looking left side while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 250, "query": "Person is looking left side while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 251, "query": "Person is looking left side while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 252, "query": "Person is looking left side while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 253, "query": "A person is adjusting the hair while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1676, 1692]]}
+{"qid": 254, "query": "A person is adjusting the hair while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1676, 1692]]}
+{"qid": 255, "query": "A person is adjusting the hair while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1676, 1692]]}
+{"qid": 256, "query": "A person is adjusting the hair while walking to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1417, 1494], [1516, 1626]]}
+{"qid": 257, "query": "A person is adjusting the hair while going to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1417, 1494], [1516, 1626]]}
+{"qid": 258, "query": "A person is adjusting the hair while coming to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1417, 1494], [1516, 1626]]}
+{"qid": 259, "query": "Person coming from left side is adjusting the hair", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[288, 302], [387, 415], [864, 992], [1081, 1101], [1417, 1494], [1516, 1626], [1676, 1692]]}
+{"qid": 260, "query": "A child is holding a person's hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 261, "query": "A child is holding a person's hand while walking in open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 262, "query": "A child is holding a person's hand while walking towards right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 263, "query": "A child is holding a person's hand while moving towards right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 264, "query": "A child is holding a person's hand while going to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 265, "query": "A child coming from left side is holding a person's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 266, "query": "Person coming from left side is going to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2766]]}
+{"qid": 267, "query": "Person coming from left side is walking to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2766]]}
+{"qid": 268, "query": "Person coming from left side is moving towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2766]]}
+{"qid": 269, "query": "Person coming from right side is going to left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 2697]]}
+{"qid": 270, "query": "Person coming from right side is walking to left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 2697]]}
+{"qid": 271, "query": "Person coming from right side is moving towards left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 2697]]}
+{"qid": 272, "query": "Person coming from left side is going back to left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1317, 1613]]}
+{"qid": 273, "query": "Person coming from left side is walking back to left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1317, 1613]]}
+{"qid": 274, "query": "Person coming from left side is moving back to left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1317, 1613]]}
+{"qid": 275, "query": "Person coming from left side is heading back to left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1317, 1613]]}
+{"qid": 276, "query": "Person coming from camera side is going back to camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1083, 2221]]}
+{"qid": 277, "query": "Person coming from camera side is walking back to camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1083, 2221]]}
+{"qid": 278, "query": "Person coming from camera side is moving back to camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1083, 2221]]}
+{"qid": 279, "query": "Person coming from camera side is heading back to camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1083, 2221]]}
+{"qid": 280, "query": "A trolly coming from the right side is going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1311, 1626]]}
+{"qid": 281, "query": "A trolly coming from the right side is walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1311, 1626]]}
+{"qid": 282, "query": "A trolly coming from the right side is heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1311, 1626]]}
+{"qid": 283, "query": "A trolly coming from the right side is moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1311, 1626]]}
+{"qid": 284, "query": "Person coming from camera side is adjusting the pant", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1159, 1475]]}
+{"qid": 285, "query": "Person coming from camera side stops walking briefly in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1486, 1840]]}
+{"qid": 286, "query": "Person coming from camera side is asking for directions", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1507, 1659]]}
+{"qid": 287, "query": "Person is looking right side while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 288, "query": "Person is holding another person's hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1184, 1606], [1808, 1980]]}
+{"qid": 289, "query": "Person is holding another person's hand while walking in open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1184, 1606], [1808, 1980]]}
+{"qid": 290, "query": "Person is holding another person's hand while walking towards right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1936]]}
+{"qid": 291, "query": "Person is holding another person's hand while moving towards right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1936]]}
+{"qid": 292, "query": "Person is holding another person's hand while going to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1936]]}
+{"qid": 293, "query": "Person coming from left side is holding another person's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1936]]}
+{"qid": 294, "query": "Person is touching the face while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 295, "query": "Person is touching the face while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 296, "query": "Person is touching the face while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 297, "query": "Person in the open space is looking opposite side of the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604], [1695, 1719]]}
+{"qid": 298, "query": "Person is looking opposite side of the camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604], [1695, 1719]]}
+{"qid": 299, "query": "Person is looking opposite side of the camera while walking to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1695, 1719]]}
+{"qid": 300, "query": "Person is looking opposite side of the camera while going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1695, 1719]]}
+{"qid": 301, "query": "Person is looking opposite side of the camera while moving towards the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1695, 1719]]}
+{"qid": 302, "query": "Person coming from the left side is looking opposite side of the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604], [1695, 1719]]}
+{"qid": 303, "query": "Person is walking backward", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 304, "query": "Person coming from the left side is walking backward", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 305, "query": "Person is walking backward while walking to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 306, "query": "Person is walking backward while going to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 307, "query": "Person is walking backward while moving towards the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 308, "query": "Person coming from the left side starts running", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1474, 1494], [1860, 1966]]}
+{"qid": 309, "query": "Person coming from right side is looking back", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1464, 1487]]}
+{"qid": 310, "query": "Person coming from left side is looking back", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1401, 1784], [1864, 1887], [1894, 1918]]}
+{"qid": 311, "query": "Person coming from right side is asking for directions", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[225, 387]]}
+{"qid": 312, "query": "Person is taking something from the security guard", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1748, 1788]]}
+{"qid": 313, "query": "Person coming from the camera side is taking something from the security gurd", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1748, 1788]]}
+{"qid": 314, "query": "Person coming from camera side is holding another person's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1184, 1606]]}
+{"qid": 315, "query": "Person is holding another person's hand while walking towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1808, 1980]]}
+{"qid": 316, "query": "Person is holding another person's hand while going towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1808, 1980]]}
+{"qid": 317, "query": "Person is holding another person's hand while moving towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1808, 1980]]}
+{"qid": 318, "query": "Person is holding another person's hand while coming towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1808, 1980]]}
+{"qid": 319, "query": "A walking person in the open area is looking right side while using the mobile", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1334, 1364]]}
+{"qid": 320, "query": "Person is using mobile while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 321, "query": "Person coming from the left side is adjusting his t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 322, "query": "Person is using mobile while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 323, "query": "Person walking in the open area is adjusting the sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 324, "query": "Person in the open space is arranging the sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 325, "query": "Person walking in the open space is fixing the sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 326, "query": "Person in the open space is fixing the sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 327, "query": "Person coming from the left side is adjusting the sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 328, "query": "Person is adjusting the sweater while walking towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 329, "query": "Person is adjusting the sweater while coming towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 330, "query": "Person is adjusting the sweater while heading towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 331, "query": "Person is adjusting the sweater while going towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 332, "query": "Person is fixing the sweater while walking towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 333, "query": "Person is fixing the sweater while coming towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 334, "query": "Person is fixing the sweater while heading towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 335, "query": "Person is fixing the sweater while going towards camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 336, "query": "Person is pointing to right side with left hand while walking towards camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 67]]}
+{"qid": 337, "query": "Person is pointing to right side with left hand while walking towards right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 338, "query": "Person is pointing to right side with left hand while going towards camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 67]]}
+{"qid": 339, "query": "Person is pointing to right side with left hand while going towards right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 340, "query": "Person is pointing to right side with left hand while coming towards camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 67]]}
+{"qid": 341, "query": "Person is pointing to right side with left hand while coming towards right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 342, "query": "Person is pointing to right side with left hand while heading towards camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 67]]}
+{"qid": 343, "query": "Person is pointing to right side with left hand while heading towards right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 344, "query": "Person is pointing to the camera with right hand while going towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 345, "query": "Person is pointing to the camera with right hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1654, 1665], [1700, 1790]]}
+{"qid": 346, "query": "Person is pointing to the camera with right hand while heading towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 347, "query": "Person is pointing to the camera with right hand while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1654, 1665], [1700, 1790]]}
+{"qid": 348, "query": "Person is pointing to the camera with right hand while coming towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 349, "query": "Person is pointing to the camera with right hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1654, 1665], [1700, 1790]]}
+{"qid": 350, "query": "Person is pointing to the camera with right hand while going towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195]]}
+{"qid": 351, "query": "Person is pointing to the camera with right hand while heading towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195]]}
+{"qid": 352, "query": "Person is pointing to the camera with right hand while coming towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195]]}
+{"qid": 353, "query": "Person is pointing to the camera with right hand while walking towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195]]}
+{"qid": 354, "query": "Person is showing towards the camera with left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 355, "query": "Person is pointing to the camera with left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 356, "query": "Person is using left hand to indicate towards camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 357, "query": "Person is pointing to the camera with left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 358, "query": "Person is pointing to the camera with left hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 359, "query": "Person is pointing to the camera with left hand while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 360, "query": "Person is pointing to the camera with left hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 361, "query": "Person is looking opposite side of the camera while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604]]}
+{"qid": 362, "query": "Person is looking opposite side of the camera while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604]]}
+{"qid": 363, "query": "Person is looking opposite side of the camera while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604]]}
+{"qid": 364, "query": "Person is looking opposite side of the camera while heading towards towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604]]}
+{"qid": 365, "query": "Person coming from left side is using mobile", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 366, "query": "Person is using mobile while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 367, "query": "Person is using mobile while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 368, "query": "Person is using mobile while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 369, "query": "Person is using mobile while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 370, "query": "Person is showing opposite of the camera with left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 371, "query": "Person is pointing opposite of the camera with left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 372, "query": "Person is using left hand to indicate opposite of the camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 373, "query": "Person is pointing opposite of the camera with left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 374, "query": "Person is pointing opposite of the camera with left hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 375, "query": "Person is pointing opposite of the camera with left hand while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 376, "query": "Person is pointing opposite of the camera with left hand while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 377, "query": "Person coming from right side is going back to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1727, 2430]]}
+{"qid": 378, "query": "Person coming from right side is walking back to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1727, 2430]]}
+{"qid": 379, "query": "Person coming from right side is moving back to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1727, 2430]]}
+{"qid": 380, "query": "Person coming from right side is heading back to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1727, 2430]]}
+{"qid": 381, "query": "Person coming from camera side is going towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[914, 1324], [1708, 2569]]}
+{"qid": 382, "query": "Person coming from camera side is walking towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[914, 1324], [1708, 2569]]}
+{"qid": 383, "query": "Person coming from camera side is moving towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[914, 1324], [1708, 2569]]}
+{"qid": 384, "query": "Person coming from camera side is heading towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[914, 1324], [1708, 2569]]}
+{"qid": 385, "query": "Person coming from left side is walking in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[59, 429], [1846, 2782]]}
+{"qid": 386, "query": "Person coming from left side is moving in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[59, 429], [1846, 2782]]}
+{"qid": 387, "query": "Person coming from right side is walking in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 429], [2370, 2782]]}
+{"qid": 388, "query": "Person coming from right side is moving in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 429], [2370, 2782]]}
+{"qid": 389, "query": "Person is coming from the camera side in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2129, 2782]]}
+{"qid": 390, "query": "A person is approaching from the camera side in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2129, 2782]]}
+{"qid": 391, "query": "Person coming from camera side is walking in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2129, 2782]]}
+{"qid": 392, "query": "Person coming from camera side is moving in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2129, 2782]]}
+{"qid": 393, "query": "Person coming from right side is dancing", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2556, 2772]]}
+{"qid": 394, "query": "Person is dancing in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2542, 2782]]}
+{"qid": 395, "query": "Person coming from left side is dancing", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2542, 2782]]}
+{"qid": 396, "query": "Person coming from right side stops walking in left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2667, 2782]]}
+{"qid": 397, "query": "Person coming from right side stops moving in left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2667, 2782]]}
+{"qid": 398, "query": "Person in the open area is giving high-five", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[816, 850]]}
+{"qid": 399, "query": "Person walking in the open space is going to the camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 400, "query": "Person walking in an open area is heading in the direction to the camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 401, "query": "Person walking in the open area is moving towards the camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 402, "query": "Person in the open area is moving towards the camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 403, "query": "Person in the open space is heading to the camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 404, "query": "Person coming from camera side is going towards left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[616, 1125]]}
+{"qid": 405, "query": "Person coming from camera side is walking towards left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[616, 1125]]}
+{"qid": 406, "query": "Person coming from camera side is moving towards left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[616, 1125]]}
+{"qid": 407, "query": "Person coming from camera side is heading towards left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[616, 1125]]}
+{"qid": 408, "query": "Person is pushing another person while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 409, "query": "Person is pushing another person while going to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 410, "query": "Person is pushing another person while walking to right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 411, "query": "Person is pushing another person while moving towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 412, "query": "Person is pushing another person while heading towards right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 413, "query": "The person walking in the open space is heading to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 414, "query": "The person walking in the open space is heading to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 415, "query": "The person walking in an open area is moving towards the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 416, "query": "The person walking in an open area is moving towards the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 417, "query": "The person walking in the open area is walking to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 418, "query": "The person walking in the open area is walking to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 419, "query": "A person in the open area is heading to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 420, "query": "A person in the open area is heading to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 421, "query": "A person in the open space is moving to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 367]]}
+{"qid": 422, "query": "A person in the open space is moving to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2712]]}
+{"qid": 423, "query": "The person halts drinking before turning to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 283]]}
+{"qid": 424, "query": "A person stops drinking while moving to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 283]]}
+{"qid": 425, "query": "The person halts their drink before moving to the left", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 283]]}
+{"qid": 426, "query": "The person walking in the open space is moving to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 427, "query": "The person walking in the open space is moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 428, "query": "The person walking in an open area is going towards the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 429, "query": "The person walking in an open area is going towards the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 430, "query": "The person walking in the open area is walking to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 431, "query": "The person walking in the open area is walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 432, "query": "A person in the open area is heading to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 433, "query": "A person in the open area is heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 434, "query": "A person in the open space is moving to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 352]]}
+{"qid": 435, "query": "A person in the open space is moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 443]]}
+{"qid": 436, "query": "The person walking in the open space is indicating to the right with their left hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 126]]}
+{"qid": 437, "query": "A lady walking alongside another person briefly glances to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[59, 86]]}
+{"qid": 438, "query": "A person from the right side pauses briefly in the open area", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[92, 390]]}
+{"qid": 439, "query": "A person from the right side pauses briefly in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[512, 717], [997, 2191]]}
+{"qid": 440, "query": "The person is conversing with the security guard in the open area", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[225, 387]]}
+{"qid": 441, "query": "The person is conversing with the security guard in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1507, 1659]]}
+{"qid": 442, "query": "The person is approaching the camera after pausing briefly", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[387, 429]]}
+{"qid": 443, "query": "A person in the open space is providing information to others", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[225, 387]]}
+{"qid": 444, "query": "A person in the open space is providing information to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1506, 1785], [2071, 2249]]}
+{"qid": 445, "query": "The person is gesturing to the right with their left hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 446, "query": "The person is using left hand to signal to the right side while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 447, "query": "The person is using left hand to direct towards the right side while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 448, "query": "The person is presenting towards the camera with their right hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 449, "query": "The person is presenting towards the camera with their right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195], [1654, 1665], [1700, 1790]]}
+{"qid": 450, "query": "The person is gesturing at the camera with their right hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 451, "query": "The person is gesturing at the camera with their right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195], [1654, 1665], [1700, 1790]]}
+{"qid": 452, "query": "The person is gesturing with their right hand towards the camera as they walk", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 453, "query": "The person is gesturing with their right hand towards the camera as they walk", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195], [1654, 1665], [1700, 1790]]}
+{"qid": 454, "query": "The person is pointing towards the camera with their right hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 455, "query": "The person is pointing towards the camera with their right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195], [1654, 1665], [1700, 1790]]}
+{"qid": 456, "query": "The person is gesturing at the camera with their right hand while walking towards it", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 457, "query": "The person is gesturing at the camera with their right hand while walking towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1654, 1665], [1700, 1790]]}
+{"qid": 458, "query": "The person walking in the open area is arranging their pants", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932], [1159, 1475]]}
+{"qid": 459, "query": "The person walking in the open area is arranging their pants", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[107, 191], [230, 270]]}
+{"qid": 460, "query": "A person in the open space is adjusting the pants", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[107, 191], [230, 270]]}
+{"qid": 461, "query": "A person in the open space is adjusting the pants", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 462, "query": "A person walking in the open space is adjusting the pants", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[107, 191], [230, 270]]}
+{"qid": 463, "query": "A person walking in the open space is adjusting the pants", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 464, "query": "A person in the open space is adjusting the trousers", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[107, 191], [230, 270]]}
+{"qid": 465, "query": "A person in the open space is adjusting the trousers", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 466, "query": "A person in the open area is not in motion", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 429]]}
+{"qid": 467, "query": "A person in the open area is not in motion", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2782]]}
+{"qid": 468, "query": "A person in the open area is still and not moving", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 429]]}
+{"qid": 469, "query": "A person in the open area is still and not moving", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2782]]}
+{"qid": 470, "query": "The person standing in the open area is fixing their hair", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[35, 102]]}
+{"qid": 471, "query": "A person in the open space is styling the hair", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[35, 102], [288, 302], [387, 415]]}
+{"qid": 472, "query": "A person in the open space is styling the hair", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1417, 1494], [1676, 1692]]}
+{"qid": 473, "query": "A person is standing in an open space and adjusting the hair", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[35, 102]]}
+{"qid": 474, "query": "A person in an open space is adjusting the hair", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[35, 102], [288, 302], [387, 415]]}
+{"qid": 475, "query": "A person in an open space is adjusting the hair", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1417, 1494], [1676, 1692]]}
+{"qid": 476, "query": "A person is walking with his left hand in his pocket", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[129, 429]]}
+{"qid": 477, "query": "A child briefly lowers her head while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[275, 313]]}
+{"qid": 478, "query": "A person is glancing briefly looks left while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 15], [112, 175], [192, 218]]}
+{"qid": 479, "query": "A person is glancing briefly looks left while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1302], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 480, "query": "Person is touching his head while moving", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[366, 409]]}
+{"qid": 481, "query": "A person is putting her hand on her face while conversing and walking with someone", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[209, 228], [326, 335]]}
+{"qid": 482, "query": "The person is moving from the left side to the right side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 429]]}
+{"qid": 483, "query": "The person is moving from the left side to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[39, 2766]]}
+{"qid": 484, "query": "A lady holds her right hand against her stomach as she walks", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[282, 429]]}
+{"qid": 485, "query": "The person is moving from the right side to the left side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[16, 281]]}
+{"qid": 486, "query": "The person is moving from the right side to the left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[101, 2697]]}
+{"qid": 487, "query": "A person from the right side halts momentarily on the left side", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[281, 351]]}
+{"qid": 488, "query": "A person is glancing briefly at her right while grasping a child's hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[174, 215]]}
+{"qid": 489, "query": "A person is glancing briefly right while moving to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[174, 215]]}
+{"qid": 490, "query": "A person is glancing briefly right while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[174, 215]]}
+{"qid": 491, "query": "A person is glancing briefly right while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 492, "query": "A child places the hand on their face while moving", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[158, 225]]}
+{"qid": 493, "query": "A child places the hand on their face while moving", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1397, 1557], [1608, 1634], [1735, 1755]]}
+{"qid": 494, "query": "A child is touching the face while moving to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[158, 225]]}
+{"qid": 495, "query": "A child is using their left hand to touch their face while holding another person's hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[158, 225]]}
+{"qid": 496, "query": "A child is using their left hand to touch their face while holding another person's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1397, 1557], [1608, 1634], [1735, 1755]]}
+{"qid": 497, "query": "A person is glancing briefly left while moving to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 15], [160, 175]]}
+{"qid": 498, "query": "A person is glancing briefly left while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1248, 1302], [1497, 1557], [1700, 1744]]}
+{"qid": 499, "query": "The person walking in the open space is approaching the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 500, "query": "The person walking in an open area is approaching the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 501, "query": "The person walking in the open area is heading towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 502, "query": "A person in the open area is advancing towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 503, "query": "A person in the open space is moving toward the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[0, 348]]}
+{"qid": 504, "query": "The person is touching face as they move", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[9, 76], [133, 335], [387, 415]]}
+{"qid": 505, "query": "The person is touching face as they move", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1383], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 506, "query": "A lady is swapping her bag from her right hand to her left hand while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[318, 381]]}
+{"qid": 507, "query": "A person from the right side is consuming food from their hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[338, 367]]}
+{"qid": 508, "query": "A person from the left side is extending both arms", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[100, 131], [154, 209]]}
+{"qid": 509, "query": "A person moving in from the left is spreading their arms wide", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[100, 131], [154, 209]]}
+{"qid": 510, "query": "A person coming from the left is bringing both hands together", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[246, 267]]}
+{"qid": 511, "query": "A person approaching from the left side is bringing both hands together", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[246, 267]]}
+{"qid": 512, "query": "A person approaching from the right is touching the face", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[190, 246]]}
+{"qid": 513, "query": "A person approaching from the right is touching the face", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1403, 1487]]}
+{"qid": 514, "query": "A person approaching from the left is putting a hand on their face", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1383], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 515, "query": "A person approaching from the left is putting a hand on their face", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[222, 333], [387, 415]]}
+{"qid": 516, "query": "The person is touching face while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 517, "query": "A person is fixing the hair while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[387, 415], [864, 992], [1081, 1101], [1417, 1494], [1516, 1626], [1676, 1692]]}
+{"qid": 518, "query": "A person is fixing the hair while walking", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[288, 302]]}
+{"qid": 519, "query": "A person in the open space is extending his left hand", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[15, 160]]}
+{"qid": 520, "query": "The person walking in the open area is pointing with their right hand to gesture towards the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1156, 1178]]}
+{"qid": 521, "query": "The person walking in the open area is pointing to the right with their left hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1156, 1178]]}
+{"qid": 522, "query": "The person walking in the open space is using his right hand to signal to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1156, 1178]]}
+{"qid": 523, "query": "The person is glancing to the right while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 524, "query": "An elderly man in the open area is having ice cream as he walks", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[235, 286]]}
+{"qid": 525, "query": "A person from the left is searching inside their jacket pocket", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[559, 779]]}
+{"qid": 526, "query": "A person is arriving from the left side in the open space", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[59, 429]]}
+{"qid": 527, "query": "A person is arriving from the left side in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1846, 2782]]}
+{"qid": 528, "query": "A person is coming from the left in the open space", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[59, 429]]}
+{"qid": 529, "query": "A person is coming from the left in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1846, 2782]]}
+{"qid": 530, "query": "A person is approaching from the right side in the open space", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[16, 429]]}
+{"qid": 531, "query": "A person is approaching from the right side in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2370, 2782]]}
+{"qid": 532, "query": "A person is coming from the right in the open space", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[16, 429]]}
+{"qid": 533, "query": "A person is coming from the right in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2370, 2782]]}
+{"qid": 534, "query": "The person is touching face while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 535, "query": "The person walking in the open area is arranging their t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 536, "query": "A person in the open space is adjusting the t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 537, "query": "A person walking in the open space is adjusting the t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 538, "query": "A person from the right side is fixing their pants", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[887, 932]]}
+{"qid": 539, "query": "The person is running while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1474, 1494], [1860, 1966]]}
+{"qid": 540, "query": "A person is starting to run while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1474, 1494], [1860, 1966]]}
+{"qid": 541, "query": "A person starts running while heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1474, 1494], [1860, 1966]]}
+{"qid": 542, "query": "The person briefly halts their walking on the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1096, 2180]]}
+{"qid": 543, "query": "The person walking in the open area is pausing momentarily on the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1096, 2180]]}
+{"qid": 544, "query": "A person is glancing back while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1401, 1784]]}
+{"qid": 545, "query": "A person is making adjustments to his backpack while strolling in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1426, 1481]]}
+{"qid": 546, "query": "A person is making adjustments to his backpack while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1426, 1481]]}
+{"qid": 547, "query": "The person is touching face while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1332, 1383], [1522, 1544]]}
+{"qid": 548, "query": "A lady is arranging her handbag while strolling through the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1340, 1460], [1743, 1820]]}
+{"qid": 549, "query": "A lady is arranging her handbag while moving closer to the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1743, 1820]]}
+{"qid": 550, "query": "A person is glancing left while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 551, "query": "A person from the left glances briefly to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 552, "query": "A person from the left side glances briefly to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1364], [1503, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 553, "query": "The person is passing the cloth from her right hand to her left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 554, "query": "A lady is passing her clothing from her right hand to her left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 555, "query": "The person is transferring the cloth from her right hand to her left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 556, "query": "A lady is moving her cloth from her right hand to her left while stepping forward", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 557, "query": "A person from the left is shifting her cloth from her right hand to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 558, "query": "A lady coming from the left side is switching her clothing from her right hand to her left hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 559, "query": "A person from the left side is moving her cloth from her right hand to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 560, "query": "A lady coming from the left side is transferring her clothing from her right hand to her left hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 561, "query": "The person is passing her cloth from her left hand to her right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 562, "query": "A lady is shifting her clothing from her left hand to her right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 563, "query": "The person is transferring her cloth from her left hand to her right hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 564, "query": "A lady is moving her cloth from her left hand to her right hand while moving forward", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 565, "query": "A person from the left is transferring her cloth from her left hand to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 566, "query": "A lady coming from the left side is switching her clothing from her left hand to her right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 567, "query": "A person moving from the left is moving her cloth from her left hand to her right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 568, "query": "A lady coming from the left side is transferring her clothing from her left hand to her right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 569, "query": "The person is passing her cloth from her right hand to her left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 570, "query": "A lady is shifting her cloth from her right hand to her left while walking toward the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 571, "query": "The person is transferring her cloth from her right hand to her left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 572, "query": "A lady is moving her cloth from her right to her left hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 573, "query": "The person is passing her cloth from her right hand to her left hand while going towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 574, "query": "A lady heading towards the camera is passing her clothing from her right hand to her left hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 575, "query": "The person is transferring her cloth from her right hand to her left hand while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 576, "query": "A lady is transferring her cloth from her right hand to her left hand while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 577, "query": "The person is passing her cloth from her right hand to her left hand while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 578, "query": "A lady is passing her cloth from her right hand to her left as she approaches the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 579, "query": "The person is transferring her cloth from her right hand to her left hand while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 580, "query": "A lady is moving her cloth from her right hand to her left hand while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1330, 1379]]}
+{"qid": 581, "query": "The person is passing her cloth from her left hand to her right hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 582, "query": "A lady is switching her cloth from her left hand to her right hand as she walks towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 583, "query": "The person is transferring her cloth from her left hand to her right hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 584, "query": "A lady is transferring her cloth from her left hand to her right while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 585, "query": "A person is passing her cloth from her left hand to her right hand as she approaches the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 586, "query": "A lady heading towards the camera is moving her clothing from her left hand to her right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 587, "query": "The person is transferring her cloth from left hand to right hand while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 588, "query": "A lady is transferring her cloth from her left hand to her right hand while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 589, "query": "The person is passing her cloth from her left hand to her right hand while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 590, "query": "A lady coming towards the camera is moving her clothing from her left hand to her right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 591, "query": "The person is transferring her cloth from her left hand to her right hand while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 592, "query": "A lady is moving her cloth from her left hand to her right while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1109, 1137]]}
+{"qid": 593, "query": "The person is chatting on their mobile phone while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1156, 1882]]}
+{"qid": 594, "query": "A person heading from the left is moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[18, 2743]]}
+{"qid": 595, "query": "A person from the left side heads toward the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[18, 2743]]}
+{"qid": 596, "query": "A person approaching from the left is advancing toward the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[18, 2743]]}
+{"qid": 597, "query": "A person from the left approaches the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[18, 2743]]}
+{"qid": 598, "query": "A person from the right is approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[808, 1671]]}
+{"qid": 599, "query": "A person approaching from the right side is walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[808, 1671]]}
+{"qid": 600, "query": "A person from the right side is advancing to the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[808, 1671]]}
+{"qid": 601, "query": "A person from the right is getting closer to the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[808, 1671]]}
+{"qid": 602, "query": "The person walking in the open space is entering the food court", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[89, 429]]}
+{"qid": 603, "query": "A person in the open space pauses walking for a moment", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[92, 390]]}
+{"qid": 604, "query": "A person in the open space pauses walking for a moment", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[512, 717], [847, 919], [948, 2191], [2447, 2782]]}
+{"qid": 605, "query": "A person from the left side pauses briefly in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[847, 919], [948, 1095], [1401, 1550], [2447, 2782]]}
+{"qid": 606, "query": "A person from the left pauses momentarily while walking in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[847, 919], [948, 1095], [1401, 1550], [2447, 2782]]}
+{"qid": 607, "query": "A person in the open space is glancing back", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1401, 1784], [1864, 1887], [1894, 1918]]}
+{"qid": 608, "query": "A person from the left side uses both hands to give directions", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 609, "query": "The person walking in the open area is gesturing with both hands to guide others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 610, "query": "The person walking in the open space is using both hands to direct others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 611, "query": "The person is using both hands to indicate directions to others while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 612, "query": "The person is using both hands to direct others while coming towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 613, "query": "The person is using both hands to guide others while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1589, 1995]]}
+{"qid": 614, "query": "The person is passing her head side to side while talking with others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1551, 1995]]}
+{"qid": 615, "query": "The person is glancing at the camera while turning to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 616, "query": "The person is glancing towards the camera while walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 617, "query": "The person is glancing at the camera while shifting to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 618, "query": "A person from the left is facing the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 619, "query": "The person is glancing the camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1537, 1652], [1672, 1728], [1785, 1805], [1888, 1947]]}
+{"qid": 620, "query": "A person from the left side indicates direction using the right hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 621, "query": "The person walking in the open area is pointing with their right hand to show directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 622, "query": "The person walking in the open space is using right hand to indicate directions to others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 623, "query": "The person is using their right hand to direct others while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 624, "query": "The person is using their right hand to guide others while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 625, "query": "The person is using their right hand to guide others while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1516, 1642], [1746, 1773]]}
+{"qid": 626, "query": "A person is placing the left hand inside the jacket while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 627, "query": "A person is placing the left hand inside the jacket while walking in an open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 628, "query": "A person is placing the left hand inside the jacket while walking in an open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 629, "query": "A person from the left side has their left hand inside their jacket", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 630, "query": "A person is placing the left hand inside the jacket while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 631, "query": "A person is placing the left hand inside the jacket while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 632, "query": "A person is placing the left hand inside the jacket while advancing towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 2030]]}
+{"qid": 633, "query": "A person is searching for something in his jacket pocket while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[559, 779]]}
+{"qid": 634, "query": "A person from the left side points with the left hand to direct others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 635, "query": "The person walking in the open area is pointing with their left hand to guide others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 636, "query": "The person walking in the open space is using left hand to guide others", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 637, "query": "The person is using left hand to guide others while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 638, "query": "The person is using left hand to point out directions to others as they approach the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 639, "query": "The person is using left hand to indicate directions to others while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1328, 1369], [1505, 1581], [1911, 1947], [1963, 1999]]}
+{"qid": 640, "query": "A person is glancing back while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1401, 1784], [1864, 1887], [1894, 1918]]}
+{"qid": 641, "query": "A person is glancing back while walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1766, 1780], [1864, 1887], [1894, 1918]]}
+{"qid": 642, "query": "A person is glancing back while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1766, 1780], [1864, 1887], [1894, 1918]]}
+{"qid": 643, "query": "A person is glancing back while heading towards the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1766, 1780], [1864, 1887], [1894, 1918]]}
+{"qid": 644, "query": "A lady is arranging her handbag while moving toward the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1340, 1460]]}
+{"qid": 645, "query": "A lady is arranging her handbag while moving to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1340, 1460]]}
+{"qid": 646, "query": "The person is glancing to the right while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 647, "query": "The person is glancing to the right while moving closer to the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 648, "query": "A person is grasping a child's hand as they walk", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 649, "query": "A person is grasping a child's hand while walking in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 650, "query": "A person is grasping a child's hand as they walk towards the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 651, "query": "A person is grasping a child's hand while progressing to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 652, "query": "A person is grasping a child's hand while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 653, "query": "A person coming from the left side is grasping a child's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 654, "query": "A person is glancing left while advancing towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 655, "query": "A person is glancing left while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 656, "query": "A person is glancing left while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 657, "query": "A person is glancing left while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[112, 1251], [1324, 1373], [1388, 1596], [1695, 1834], [1860, 1872], [1911, 2012], [2042, 2087], [2105, 2131], [2170, 2237]]}
+{"qid": 658, "query": "A person is fixing their hair while moving toward the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1676, 1692]]}
+{"qid": 659, "query": "A person is fixing the hair while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1676, 1692]]}
+{"qid": 660, "query": "A person is fixing the hair while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1676, 1692]]}
+{"qid": 661, "query": "A person is fixing the hair while walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1417, 1494], [1516, 1626]]}
+{"qid": 662, "query": "A person is fixing the hair while heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1417, 1494], [1516, 1626]]}
+{"qid": 663, "query": "A person is fixing the hair while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1417, 1494], [1516, 1626]]}
+{"qid": 664, "query": "A person moving in from the left side is fixing their hair", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[288, 302], [387, 415], [864, 992], [1081, 1101], [1417, 1494], [1516, 1626], [1676, 1692]]}
+{"qid": 665, "query": "A child is grasping a person's hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 666, "query": "A child is grasping a person's hand while strolling through the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 667, "query": "A child is grasping a person's hand while walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 668, "query": "A child is grasping a person's hand while heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 669, "query": "A child is grasping a person's hand while heading to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 670, "query": "A child approaching from the left is holding a person's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1905]]}
+{"qid": 671, "query": "A person moving from the left side is heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2766]]}
+{"qid": 672, "query": "A person from the left side is walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2766]]}
+{"qid": 673, "query": "A person coming from the left is heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 2766]]}
+{"qid": 674, "query": "A person from the right side is moving towards the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 2697]]}
+{"qid": 675, "query": "A person moving from the right is walking to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 2697]]}
+{"qid": 676, "query": "A person coming from the right side is heading to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 2697]]}
+{"qid": 677, "query": "A person returning from the left side heads back in that direction", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1317, 1613]]}
+{"qid": 678, "query": "A person returning from the left is walking back in that direction", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1317, 1613]]}
+{"qid": 679, "query": "A person heading from the left side is returning back to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1317, 1613]]}
+{"qid": 680, "query": "A person approaching from the left side is returning to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1317, 1613]]}
+{"qid": 681, "query": "A person coming from the camera side is returning towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1083, 2221]]}
+{"qid": 682, "query": "A person returning from the camera side walks back toward it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1083, 2221]]}
+{"qid": 683, "query": "A person returning from the camera side is moving back towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1083, 2221]]}
+{"qid": 684, "query": "A person approaching from the camera side is going back towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1083, 2221]]}
+{"qid": 685, "query": "A trolley approaching from the right is moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1311, 1626]]}
+{"qid": 686, "query": "A trolley approaching from the right is advancing towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1311, 1626]]}
+{"qid": 687, "query": "A trolley coming from the right is moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1311, 1626]]}
+{"qid": 688, "query": "A trolley approaching from the right is heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1311, 1626]]}
+{"qid": 689, "query": "A person approaching from the camera side is adjusting the pants", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1159, 1475]]}
+{"qid": 690, "query": "A person approaching from the camera side briefly stops walking in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1486, 1840]]}
+{"qid": 691, "query": "A person approaching from the camera side is seeking directions", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1507, 1659]]}
+{"qid": 692, "query": "The person is glancing the right side while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1313, 1628], [1698, 1838], [1860, 1985], [2007, 2051]]}
+{"qid": 693, "query": "A person is grasping another person's hand as they walk", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1184, 1606], [1808, 1980]]}
+{"qid": 694, "query": "A person is grasping another person's hand while walking in an open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1184, 1606], [1808, 1980]]}
+{"qid": 695, "query": "A person is grasping another person's hand while walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1936]]}
+{"qid": 696, "query": "A person is grasping another person's hand while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1936]]}
+{"qid": 697, "query": "A person approaching from the left is holding someone else's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1839, 1936]]}
+{"qid": 698, "query": "The person is touching face while walking closer to the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 699, "query": "The person is touching face as they go towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[864, 992], [1081, 1101], [1115, 1157], [1282, 1367], [1397, 1557], [1608, 1634], [1656, 1699], [1735, 1809], [1931, 1958], [1975, 2001], [2013, 2037]]}
+{"qid": 700, "query": "A person in the open space is looking in the opposite direction of the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604], [1695, 1719]]}
+{"qid": 701, "query": "A person is glancing opposite the camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604], [1695, 1719]]}
+{"qid": 702, "query": "A person is glancing opposite the camera while walking to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1695, 1719]]}
+{"qid": 703, "query": "A person is glancing away from the camera while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1695, 1719]]}
+{"qid": 704, "query": "A person is glancing opposite the camera while moving to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1695, 1719]]}
+{"qid": 705, "query": "A person coming from the left is looking away from the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604], [1695, 1719]]}
+{"qid": 706, "query": "The person is walking in reverse", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 707, "query": "A person from the left side is stepping backward", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 708, "query": "The person is moving backward while moving to the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 709, "query": "The person is moving backward while heading towards the right side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1731, 1790]]}
+{"qid": 710, "query": "A person from the left begins to sprint", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1474, 1494], [1860, 1966]]}
+{"qid": 711, "query": "A person from the right side is glancing back", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1464, 1487]]}
+{"qid": 712, "query": "A person from the left side is glancing backward", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1401, 1784], [1864, 1887], [1894, 1918]]}
+{"qid": 713, "query": "A person coming from the right is inquiring for directions", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[225, 387]]}
+{"qid": 714, "query": "The person is receiving something from the security guard", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1748, 1788]]}
+{"qid": 715, "query": "A person coming from the direction of the camera is receiving an item from the security guard", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1748, 1788]]}
+{"qid": 716, "query": "A person moving from the camera side is holding someone else's hand", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1184, 1606]]}
+{"qid": 717, "query": "A person is grasping another person's hand while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1808, 1980]]}
+{"qid": 718, "query": "A person is grasping another person's hand while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1808, 1980]]}
+{"qid": 719, "query": "A person is grasping another person's hand while advancing towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1808, 1980]]}
+{"qid": 720, "query": "A person is grasping another person's hand as they approach the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1808, 1980]]}
+{"qid": 721, "query": "A person walking in the open space glances to the right while using the phone", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1334, 1364]]}
+{"qid": 722, "query": "The person is utilizing mobile device while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 723, "query": "A person from the left side is fixing his t-shirt", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1196, 1339]]}
+{"qid": 724, "query": "The person is utilizing their mobile device while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 725, "query": "The person walking in the open area is arranging their sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 726, "query": "A person in the open space is adjusting the sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 727, "query": "The person walking in the open space is adjusting their sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 728, "query": "A person in the open space is correcting the sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 729, "query": "A person moving from the left is fixing their sweater", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 730, "query": "A person is making adjustments to the sweater while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 731, "query": "A person is making adjustments to the sweater while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 732, "query": "A person is making adjustments to the sweater while heading in the direction of the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 733, "query": "A person is making adjustments to the sweater as moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 734, "query": "A person is straightening sweater while walking towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 735, "query": "A person is adjusting sweater as they approach the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 736, "query": "A person is adjusting sweater as they head towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 737, "query": "A person is adjusting sweater while moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1888, 1943]]}
+{"qid": 738, "query": "The person is gesturing to the right with their left hand while walking towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 67]]}
+{"qid": 739, "query": "The person is gesturing to the right with their left hand while walking to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 740, "query": "The person is gesturing to the right with their left hand while heading towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 67]]}
+{"qid": 741, "query": "The person is gesturing to the right with their left hand while proceeding to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 742, "query": "The person is gesturing to the right with their left hand while approaching the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 67]]}
+{"qid": 743, "query": "The person is gesturing to the right with their left hand while moving to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 744, "query": "The person is gesturing to the right with their left hand while moving towards the camera", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 67]]}
+{"qid": 745, "query": "The person is gesturing to the right with their left hand while heading to the right", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[47, 115]]}
+{"qid": 746, "query": "The person is gesturing at the camera with their right hand while approaching it", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 747, "query": "The person is gesturing at the camera with their right hand while approaching it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1654, 1665], [1700, 1790]]}
+{"qid": 748, "query": "The person is gesturing at the camera with their right hand while heading towards it", "duration": 430, "vid": "MOT20-01_0.0_430.0", "relevant_windows": [[23, 62]]}
+{"qid": 749, "query": "The person is gesturing at the camera with their right hand while heading towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1654, 1665], [1700, 1790]]}
+{"qid": 750, "query": "The person is gesturing at the camera with their right hand while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195]]}
+{"qid": 751, "query": "The person is gesturing towards the camera with their right hand while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195]]}
+{"qid": 752, "query": "The person is gesturing towards the camera with their right hand while walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1098, 1195]]}
+{"qid": 753, "query": "The person is presenting towards the camera with their left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 754, "query": "The person is gesturing at the camera with their left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 755, "query": "The person is using left hand to point towards the camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 756, "query": "The person is gesturing at the camera with their left hand while walking towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 757, "query": "The person is gesturing at the camera with their left hand while approaching it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 758, "query": "The person is gesturing at the camera with their left hand while heading towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 759, "query": "The person is gesturing at the camera with their left hand while moving towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1466, 1632]]}
+{"qid": 760, "query": "A person is glancing opposite the camera while walking towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604]]}
+{"qid": 761, "query": "A person is glancing opposite the camera while going towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604]]}
+{"qid": 762, "query": "A person is glancing opposite the camera while moving towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604]]}
+{"qid": 763, "query": "A person is glancing opposite the camera while heading towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1430, 1492], [1533, 1552], [1555, 1604]]}
+{"qid": 764, "query": "A person from the left is operating a mobile phone", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 765, "query": "The person is utilizing mobile device while approaching towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 766, "query": "The person is utilizing mobile device while approaching the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 767, "query": "The person is utilizing mobile device while heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1230, 1369], [1975, 2144]]}
+{"qid": 768, "query": "The person is presenting opposite of the camera with their left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 769, "query": "The person is gesturing away from the camera with their left hand while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 770, "query": "The person is using left hand to show the opposite direction of the camera while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 771, "query": "The person is gesturing away from the camera with their left hand while walking towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 772, "query": "The person is gesturing away from the camera with her left hand while moving towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 773, "query": "The person is gesturing away from the camera with their left hand while moving towards it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 774, "query": "The person is gesturing away from the camera with her left hand while approaching it", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1564, 1604]]}
+{"qid": 775, "query": "A person returning from the right side is heading back to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1727, 2430]]}
+{"qid": 776, "query": "A person returning from the right is walking back to that side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1727, 2430]]}
+{"qid": 777, "query": "A person moving from the right is heading back to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1727, 2430]]}
+{"qid": 778, "query": "A person returning from the right is going back to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[1727, 2430]]}
+{"qid": 779, "query": "A person moving from the camera side heads to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[914, 1324], [1708, 2569]]}
+{"qid": 780, "query": "A person approaching from the camera side is strolling to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[914, 1324], [1708, 2569]]}
+{"qid": 781, "query": "A person approaching from the camera side is moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[914, 1324], [1708, 2569]]}
+{"qid": 782, "query": "A person approaching from the camera side is heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[914, 1324], [1708, 2569]]}
+{"qid": 783, "query": "A person moving from the left side is walking through the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[59, 429], [1846, 2782]]}
+{"qid": 784, "query": "A person approaching from the left is walking through the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[59, 429], [1846, 2782]]}
+{"qid": 785, "query": "A person approaching from the right side is walking through the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 429], [2370, 2782]]}
+{"qid": 786, "query": "A person coming from the right is walking in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[16, 429], [2370, 2782]]}
+{"qid": 787, "query": "A person is coming from the camera side in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2129, 2782]]}
+{"qid": 788, "query": "A person approaching from the camera side is strolling in the open area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2129, 2782]]}
+{"qid": 789, "query": "A person from the camera side is advancing through the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2129, 2782]]}
+{"qid": 790, "query": "A person from the right side is performing a dance", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2556, 2772]]}
+{"qid": 791, "query": "A person is performing a dance in the open space", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2542, 2782]]}
+{"qid": 792, "query": "A person moving in from the left side is performing a dance", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2542, 2782]]}
+{"qid": 793, "query": "A person from the right stops walking in the left side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2667, 2782]]}
+{"qid": 794, "query": "A person from the right side halts in the left area", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[2667, 2782]]}
+{"qid": 795, "query": "A person in the open area is offering a high-five", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[816, 850]]}
+{"qid": 796, "query": "The person walking in the open space is moving towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 797, "query": "The person walking in an open area is heading towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 798, "query": "The person walking in the open area is approaching towards the camera", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 799, "query": "A person in the open area is heading towards the camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 800, "query": "A person in the open space is moving towards the camera side", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[0, 543]]}
+{"qid": 801, "query": "A person moving from the camera side heads to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[616, 1125]]}
+{"qid": 802, "query": "A person coming from the camera side is strolling to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[616, 1125]]}
+{"qid": 803, "query": "A person moving from the camera direction is heading left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[616, 1125]]}
+{"qid": 804, "query": "A person approaching from the camera side is heading to the left", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[616, 1125]]}
+{"qid": 805, "query": "The person is shoving another person while walking", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 806, "query": "The person is shoving another individual while moving to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 807, "query": "The person is shoving someone else while walking to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 808, "query": "The person is shoving another person while moving rightward", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}
+{"qid": 809, "query": "The person is shoving someone else while heading to the right", "duration": 2782, "vid": "MOT20-02_0.0_2782.0", "relevant_windows": [[652, 674], [697, 715]]}

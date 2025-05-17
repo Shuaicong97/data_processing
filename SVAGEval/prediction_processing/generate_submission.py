@@ -127,7 +127,7 @@ def generate_submission(video_info_path, annotation_path, spatial_root_dir, temp
         json.dump(submission, f, separators=(',', ':'))
 
 
-def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, temporal_pred_path, output_path):
+def generate_submission_for_dataset(video_info_path, annotation_path, spatial_root_dir, temporal_pred_path, dataset_name):
     video_lengths = load_video_lengths(video_info_path)
     annotations = load_annotations(annotation_path)
     qid_to_temporal = load_temporal_predictions(temporal_pred_path)
@@ -186,13 +186,56 @@ def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, te
         entry["tracks"] = list(entry["tracks"].values())
         submission["queries"].append(entry)
 
+    return {
+        "name": dataset_name,
+        "queries": submission["queries"]
+    }
+
+def generate_all_datasets_submission(configs, output_path):
+    datasets = []
+    for config in configs:
+        dataset = generate_submission_for_dataset(
+            video_info_path=config["video_info_path"],
+            annotation_path=config["annotation_path"],
+            spatial_root_dir=config["spatial_root_dir"],
+            temporal_pred_path=config["temporal_pred_path"],
+            dataset_name=config["name"]
+        )
+        datasets.append(dataset)
+
     with open(output_path, 'w') as f:
-        json.dump(submission, f, separators=(',', ':'))
+        json.dump({"datasets": datasets}, f, separators=(',', ':'))
 
 # 示例调用
 if __name__ == "__main__":
     start_time = time.time()
-    generate_submission_2(
+    configs = [
+        {
+            "name": "OVIS",
+            "video_info_path": "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_valid.json",
+            "annotation_path": "/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased_data_with_qid/OVIS-valid-doubled_qid.json",
+            "spatial_root_dir": "/Users/shuaicongwu/Desktop/MA_resources/temprmot_results/ovis_with_checkpoint0_5_epochs_0.4_0.3_v4",
+            "temporal_pred_path": "/Users/shuaicongwu/Desktop/MA_resources/flashvtg_results/ovis_internvideo2-video_tef-demo-2025-04-21-20-14-59/best_ovis_internvideo2_val_preds_nms_thd_0.7.jsonl"
+        },
+        {
+            "name": "MOT17",
+            "video_info_path": "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/video_mot.json",
+            "annotation_path": "/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased_data_with_qid/MOT17-valid-doubled_qid.json",
+            "spatial_root_dir": "...",
+            "temporal_pred_path": "..."
+        },
+        {
+            "name": "MOT20",
+            "video_info_path": "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/video_mot.json",
+            "annotation_path": "/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased_data_with_qid/MOT20-valid-doubled_qid.json",
+            "spatial_root_dir": "...",
+            "temporal_pred_path": "..."
+        }
+    ]
+
+    generate_all_datasets_submission(configs, output_path='valid_all_ground_truth.json')
+
+    generate_submission_for_dataset(
         video_info_path='../../OVIS/video_info_valid.json',
         annotation_path='../../Rephrased data/OVIS-valid-doubled.json',
         spatial_root_dir='/Users/shuaicongwu/Desktop/MA_resources/temprmot_results/ovis_with_checkpoint0_5_epochs_0.4_0.3_v4',

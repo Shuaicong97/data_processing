@@ -123,9 +123,11 @@ def generate_original_expression(input_f, output):
                 label_dict[file_path][frame_str].append(ids)
 
     for file_path, labels in label_dict.items():
+        sorted_labels = dict(sorted(labels.items(), key=lambda x: int(x[0])))
+
         # 生成 JSON 内容
         json_content = {
-            "label": labels,
+            "label": sorted_labels,
             "ignore": {},
             "video_name": os.path.basename(os.path.dirname(file_path)),
             "sentence": " ".join(os.path.splitext(os.path.basename(file_path))[0].split("-")).capitalize()
@@ -175,10 +177,11 @@ def generate_rephrased_expression(input_f, output):
 
     for file_path, file_data in label_dict.items():
         labels = file_data["labels"]
+        sorted_labels = dict(sorted(labels.items(), key=lambda x: int(x[0])))
         raw_sentence = file_data["raw_sentence"]
         # 生成 JSON 内容
         json_content = {
-            "label": labels,
+            "label": sorted_labels,
             "ignore": {},
             "video_name": os.path.basename(os.path.dirname(file_path)),
             "sentence": " ".join(os.path.splitext(os.path.basename(file_path))[0].split("-")).capitalize(),
@@ -195,18 +198,18 @@ def process_ovis():
     # 我们使用train_frame_in_image_name文件夹里的gt，保留了不连续的帧
     gt_train_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/OVIS_GTs/train_frame_in_image_name"
     info_train_path = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_train.json"
-    output_dir_train = "data/refer-ovis/OVIS/labels_with_ids"
+    output_dir_train = "data/refer-ovis-v2/OVIS/labels_with_ids"
     generate_labels_with_ids(gt_train_dir, info_train_path, output_dir_train)
 
     gt_valid_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/OVIS_GTs/val"
     info_valid_path = "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_valid.json"
-    output_dir_valid = "data/refer-ovis/OVIS/labels_with_ids/valid"
+    output_dir_valid = "data/refer-ovis-v2/OVIS/labels_with_ids/valid"
     generate_labels_with_ids(gt_valid_dir, info_valid_path, output_dir_valid)
 
     input_ovis_training_file = "../Original/OVIS-training.json"
-    output_ovis_training_path = "data/refer-ovis/expression/training"
+    output_ovis_training_path = "data/refer-ovis-v2/expression/training"
     input_ovis_valid_file = "../Original/OVIS-valid.json"
-    output_ovis_valid_path = "data/refer-ovis/expression/valid"
+    output_ovis_valid_path = "data/refer-ovis-v2/expression/valid"
 
     clear_folder(output_ovis_training_path)
     clear_folder(output_ovis_valid_path)
@@ -223,15 +226,15 @@ def process_mot17():
     gt_train_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT17_GTs/train"
     gt_val_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT17_GTs/val"
     info_path = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/video_mot.json"
-    output_dir_train = "data/refer-mot17/MOT17/labels_with_ids"
-    output_dir_valid = "data/refer-mot17/MOT17/labels_with_ids/valid"
+    output_dir_train = "data/refer-mot17-v2/MOT17/labels_with_ids"
+    output_dir_valid = "data/refer-mot17-v2/MOT17/labels_with_ids/valid"
     generate_labels_with_ids(gt_train_dir, info_path, output_dir_train)
     generate_labels_with_ids(gt_val_dir, info_path, output_dir_valid)
 
     input_mot17_training_file = "../Original/MOT17-training.json"
-    output_mot17_training_path = "data/refer-mot17/expression/training"
+    output_mot17_training_path = "data/refer-mot17-v2/expression/training"
     input_mot17_valid_file = "../Original/MOT17-valid.json"
-    output_mot17_valid_path = "data/refer-mot17/expression/valid"
+    output_mot17_valid_path = "data/refer-mot17-v2/expression/valid"
 
     clear_folder(output_mot17_training_path)
     clear_folder(output_mot17_valid_path)
@@ -242,21 +245,21 @@ def process_mot17():
     generate_rephrased_expression('unique_objects_mot17-training.json', output_mot17_training_path)
     generate_rephrased_expression('unique_objects_mot17-valid.json', output_mot17_valid_path)
 
-# process_mot17()
+process_mot17()
 
 def process_mot20():
     gt_train_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT20_GTs/train"
     gt_val_dir = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/MOT20_GTs/val"
     info_path = "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/video_mot.json"
-    output_dir_train = "data/refer-mot20/MOT20/labels_with_ids"
-    output_dir_valid = "data/refer-mot20/MOT20/labels_with_ids/valid"
+    output_dir_train = "data/refer-mot20-v2/MOT20/labels_with_ids"
+    output_dir_valid = "data/refer-mot20-v2/MOT20/labels_with_ids/valid"
     generate_labels_with_ids(gt_train_dir, info_path, output_dir_train)
     generate_labels_with_ids(gt_val_dir, info_path, output_dir_valid)
 
     input_mot20_training_file = "../Original/MOT20-training.json"
-    output_mot20_training_path = "data/refer-mot20/expression/training"
+    output_mot20_training_path = "data/refer-mot20-v2/expression/training"
     input_mot20_valid_file = "../Original/MOT20-valid.json"
-    output_mot20_valid_path = "data/refer-mot20/expression/valid"
+    output_mot20_valid_path = "data/refer-mot20-v2/expression/valid"
 
     clear_folder(output_mot20_training_path)
     clear_folder(output_mot20_valid_path)
@@ -267,4 +270,5 @@ def process_mot20():
     generate_rephrased_expression('unique_objects_mot20-training.json', output_mot20_training_path)
     generate_rephrased_expression('unique_objects_mot20-valid.json', output_mot20_valid_path)
 
-# process_mot20()
+# 生成后手动将expression/valid/MOT20-03（/MOT20-05）分成几个子集，以分块运行inference，可获得阶段性的部分结果。
+process_mot20()

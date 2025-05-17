@@ -1,0 +1,432 @@
+{"qid": 810, "query": "A backpack is worn by the individual on his back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[994, 1025], [1052, 1165]]}
+{"qid": 811, "query": "A child cannot be seen as he goes behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 812, "query": "A child disappears behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 813, "query": "A child goes behind the white column", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1423, 2405]]}
+{"qid": 814, "query": "A child isn't running and walks", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2189, 2254]]}
+{"qid": 815, "query": "A child moves behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 816, "query": "A child slows down running and walks", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2189, 2254]]}
+{"qid": 817, "query": "A child starts walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1660, 1932], [1971, 2122]]}
+{"qid": 818, "query": "A child starts walking slowly", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2189, 2254]]}
+{"qid": 819, "query": "A child stops running and walks slowly", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2189, 2254]]}
+{"qid": 820, "query": "A child stops walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1280, 1795], [1933, 1970]]}
+{"qid": 821, "query": "A child walks behind the white column", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 822, "query": "A child walks behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 823, "query": "A man adjusts his backpack", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[585, 606]]}
+{"qid": 824, "query": "A man adjusts his bag behind", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[585, 606]]}
+{"qid": 825, "query": "A man puts his backpack properly", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[585, 606]]}
+{"qid": 826, "query": "A pedestrian walks on the zebra crossing", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[57, 1640], [1658, 2405]]}
+{"qid": 827, "query": "A person accompanied by a child looks back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1179, 1196], [1266, 1290]]}
+{"qid": 828, "query": "A person appears from behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[589, 616], [739, 759], [967, 1007]]}
+{"qid": 829, "query": "A person begins to sprint", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[502, 549], [1355, 1524], [2093, 2135]]}
+{"qid": 830, "query": "A person calls another person by touching her", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[386, 440]]}
+{"qid": 831, "query": "A person checks her phone", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[572, 1124]]}
+{"qid": 832, "query": "A person climbs up and sits on the white box structure", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2286, 2420]]}
+{"qid": 833, "query": "A person comes back from behind the white column", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[589, 616], [739, 759], [967, 1007]]}
+{"qid": 834, "query": "A person comes back from behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[589, 616], [739, 759], [967, 1007]]}
+{"qid": 835, "query": "A person converses with a group of people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2100, 2627]]}
+{"qid": 836, "query": "A person converses with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1517, 1715], [2496, 2752]]}
+{"qid": 837, "query": "A person decelerates while running", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[927, 948]]}
+{"qid": 838, "query": "A person disappears behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[36, 2405]]}
+{"qid": 839, "query": "A person drinks from a bottle", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1930, 1981]]}
+{"qid": 840, "query": "A person engages in a conversation with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1517, 1715], [2496, 2752]]}
+{"qid": 841, "query": "A person engages in conversation with a group of people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2100, 2627]]}
+{"qid": 842, "query": "A person engages in conversation with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2379, 2838]]}
+{"qid": 843, "query": "A person engages in conversation with other people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2105, 3315]]}
+{"qid": 844, "query": "A person enters the building on the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1129, 1138], [2133, 2139]]}
+{"qid": 845, "query": "A person faces forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[55, 74], [275, 309], [1691, 1744], [2187, 2221], [2704, 2740]]}
+{"qid": 846, "query": "A person faces right and starts talking with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2480, 2750]]}
+{"qid": 847, "query": "A person gazes backward", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 180], [481, 625], [679, 788], [857, 910], [965, 1020], [1659, 1675], [1724, 1763], [1782, 1828], [1964, 1984], [2103, 2230], [2371, 2395]]}
+{"qid": 848, "query": "A person glances to the left", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[181, 203], [597, 625], [933, 948], [1087, 1095], [1109, 1133], [1157, 1172], [1400, 1430], [1763, 1813], [1992, 2010], [2133, 2147]]}
+{"qid": 849, "query": "A person glances to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[291, 316], [682, 762], [1608, 1622], [1761, 1778], [1801, 1830], [1848, 1858], [2170, 2206], [2381, 2397]]}
+{"qid": 850, "query": "A person goes the right direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[362, 460], [536, 630], [968, 1087]]}
+{"qid": 851, "query": "A person goes to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[159, 270], [339, 654], [2254, 2352]]}
+{"qid": 852, "query": "A person goes to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[995, 1090]]}
+{"qid": 853, "query": "A person goes to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1239, 1279], [1866, 1940]]}
+{"qid": 854, "query": "A person goes walks a few steps to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2655, 2780]]}
+{"qid": 855, "query": "A person halts for a short moment and changes direction as he walks", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[24, 36]]}
+{"qid": 856, "query": "A person halts their walk and remains stationary for a moment", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 1837]]}
+{"qid": 857, "query": "A person holds the hand of another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[753, 807]]}
+{"qid": 858, "query": "A person embraces another individual", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[24, 83], [1831, 1857], [1885, 1905], [1925, 1984], [2022, 2055], [2341, 2476], [2524, 2598], [2653, 3315]]}
+{"qid": 859, "query": "A person hugs another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[24, 83], [1831, 1857], [1885, 1905], [1925, 1984], [2022, 2055], [2341, 2476], [2524, 2598], [2653, 3315]]}
+{"qid": 860, "query": "A person initially standing walks right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[995, 1090]]}
+{"qid": 861, "query": "A person leans down to talk to a child", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1529, 1621]]}
+{"qid": 862, "query": "A person lifts her hands as she walks", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[32, 95], [206, 260]]}
+{"qid": 863, "query": "A person lifts her hands while strolling", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[32, 95], [206, 260]]}
+{"qid": 864, "query": "A person lifts his hands while engaged in a conversation with someone else", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2119, 2182]]}
+{"qid": 865, "query": "A person looks and points left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2032, 2050]]}
+{"qid": 866, "query": "A person looks around him", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2284, 2325]]}
+{"qid": 867, "query": "A person looks around him", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1240, 1307]]}
+{"qid": 868, "query": "A person looks back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 180], [481, 625], [679, 788], [857, 910], [965, 1020], [1659, 1675], [1724, 1763], [1782, 1828], [1964, 1984], [2103, 2230], [2371, 2395]]}
+{"qid": 869, "query": "A person looks back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[666, 715], [790, 954], [1374, 1384], [1687, 1746], [1795, 1810], [1834, 2045], [2500, 2540]]}
+{"qid": 870, "query": "A person looks back and stops walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[822, 904]]}
+{"qid": 871, "query": "A person looks behind him", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 180], [481, 625], [679, 788], [857, 910], [965, 1020], [1659, 1675], [1724, 1763], [1782, 1828], [1964, 1984], [2103, 2230], [2371, 2395]]}
+{"qid": 872, "query": "A person looks behind him", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[103, 131], [217, 391], [459, 535], [546, 652], [843, 895], [977, 1019], [1083, 1103], [2367, 2410]]}
+{"qid": 873, "query": "A person looks behind him to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1345, 1395], [1478, 1679]]}
+{"qid": 874, "query": "A person looks forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[562, 600], [985, 1001], [1413, 1569]]}
+{"qid": 875, "query": "A person looks in his surroundings", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2284, 2325]]}
+{"qid": 876, "query": "A person looks left", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[181, 203], [597, 625], [933, 948], [1087, 1095], [1109, 1133], [1157, 1172], [1400, 1430], [1763, 1813], [1992, 2010], [2133, 2147]]}
+{"qid": 877, "query": "A person looks left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[305, 318], [346, 376], [388, 448], [516, 570], [693, 702], [838, 890], [897, 939], [1009, 1030], [1240, 1250]]}
+{"qid": 878, "query": "A person looks right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[291, 316], [682, 762], [1608, 1622], [1761, 1778], [1801, 1830], [1848, 1858], [2170, 2206], [2381, 2397]]}
+{"qid": 879, "query": "A person looks right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[97, 168], [177, 490], [576, 615], [755, 768], [975, 993], [1255, 1295], [1853, 1890], [2094, 2110], [2244, 2282]]}
+{"qid": 880, "query": "A person looks to his left", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[181, 203], [597, 625], [933, 948], [1087, 1095], [1109, 1133], [1157, 1172], [1400, 1430], [1763, 1813], [1992, 2010], [2133, 2147]]}
+{"qid": 881, "query": "A person looks to his right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[291, 316], [682, 762], [1608, 1622], [1761, 1778], [1801, 1830], [1848, 1858], [2381, 2397]]}
+{"qid": 882, "query": "A person makes a U-turn and proceeds in the opposite direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1717, 1745]]}
+{"qid": 883, "query": "A person moves from behind another person and goes beside that person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[242, 277]]}
+{"qid": 884, "query": "A person moves her jacket from one hand to another", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[280, 300]]}
+{"qid": 885, "query": "A person moves her shoulder to avoid colliding with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[351, 367]]}
+{"qid": 886, "query": "A person observes around him", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2284, 2325]]}
+{"qid": 887, "query": "A person places her hands behind her back to carry the bag", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1944, 2005]]}
+{"qid": 888, "query": "A person positions hers hands behind her back to hold the bag", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1944, 2005]]}
+{"qid": 889, "query": "A person proceeds to the right direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[362, 460], [536, 630], [968, 1087]]}
+{"qid": 890, "query": "A person put both hands on his head", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[560, 789]]}
+{"qid": 891, "query": "A person puts away his phone and looks up", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2242, 2275]]}
+{"qid": 892, "query": "A person puts her hands behind her back to hold the bag", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1944, 2005]]}
+{"qid": 893, "query": "A person puts his hand on the shoulder of another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[114, 139], [215, 295]]}
+{"qid": 894, "query": "A person puts the phone away", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1934, 1977]]}
+{"qid": 895, "query": "A person raises hand to show direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1219, 1270], [1309, 1340], [1448, 1530], [2098, 2165]]}
+{"qid": 896, "query": "A person raises her hand", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[65, 209], [1031, 1390], [1418, 1489], [1798, 1816], [2074, 2408], [2975, 3052]]}
+{"qid": 897, "query": "A person raises her hand and moves them", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3106, 3132]]}
+{"qid": 898, "query": "A person raises her hand to signal the people to walk", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1219, 1270], [1309, 1340], [1448, 1530], [2098, 2165]]}
+{"qid": 899, "query": "A person raises her hands while walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[32, 95], [206, 260]]}
+{"qid": 900, "query": "A person raises his hand", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1469, 1520], [3070, 3107]]}
+{"qid": 901, "query": "A person raises his hand and talks with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2372, 2841]]}
+{"qid": 902, "query": "A person raises his hand while talking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1711, 1775], [1827, 1862]]}
+{"qid": 903, "query": "A person raises his hands", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[19, 51], [332, 363], [634, 660], [1032, 1056], [1389, 1404], [1886, 1915]]}
+{"qid": 904, "query": "A person raises his hands while conversing with another person", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2119, 2182]]}
+{"qid": 905, "query": "A person raises his hands while walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1, 45], [66, 154]]}
+{"qid": 906, "query": "A person reduces his running pace", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[927, 948]]}
+{"qid": 907, "query": "A person reverses their direction and starts walking back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1717, 1745]]}
+{"qid": 908, "query": "A person rotates and faces right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2371, 2404]]}
+{"qid": 909, "query": "A person shakes his hand with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[13, 25], [157, 184]]}
+{"qid": 910, "query": "A person shifts their jacket from one hand to the other", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[280, 300]]}
+{"qid": 911, "query": "A person sits down", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1876, 1960]]}
+{"qid": 912, "query": "A person slows down running", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[927, 948]]}
+{"qid": 913, "query": "A person slows down walking and looks back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[977, 1024]]}
+{"qid": 914, "query": "A person slows down while walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3230, 3261]]}
+{"qid": 915, "query": "A person stands up from the seat", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1867, 1940]]}
+{"qid": 916, "query": "A person starts a conversation with other people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1250, 1425]]}
+{"qid": 917, "query": "A person starts checking his phone", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[84, 1932], [2276, 2348]]}
+{"qid": 918, "query": "A person starts running", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[502, 549], [1355, 1524], [2093, 2135]]}
+{"qid": 919, "query": "A person starts takes a few steps and starts talking with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2204, 3315]]}
+{"qid": 920, "query": "A person starts talking with another person as he walks", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1695, 2175]]}
+{"qid": 921, "query": "A person starts talking with other people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2524, 3192]]}
+{"qid": 922, "query": "A person starts to drink from a bottle", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1930, 1981]]}
+{"qid": 923, "query": "A person starts to run", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[502, 549], [1355, 1524], [2093, 2135]]}
+{"qid": 924, "query": "A person starts to walk right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[995, 1090]]}
+{"qid": 925, "query": "A person starts walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[114, 3315]]}
+{"qid": 926, "query": "A person starts walking at a faster pace", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2187, 2238]]}
+{"qid": 927, "query": "A person starts walking in the right direction", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1354, 1460]]}
+{"qid": 928, "query": "A person starts walking to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1042, 1681]]}
+{"qid": 929, "query": "A person stops in his tracks for sometime", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 1837]]}
+{"qid": 930, "query": "A person stops walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 2404]]}
+{"qid": 931, "query": "A person stops walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[27, 45], [148, 3315]]}
+{"qid": 932, "query": "A person stops walking and converses with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2026, 2135]]}
+{"qid": 933, "query": "A person stops walking and engages in a conversation with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[965, 1021]]}
+{"qid": 934, "query": "A person stops walking and engages in a conversation with other people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[472, 1119], [2926, 2990]]}
+{"qid": 935, "query": "A person stops walking and faces back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1596, 1650], [2021, 2075]]}
+{"qid": 936, "query": "A person stops walking and faces left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1308, 1482], [1969, 2005]]}
+{"qid": 937, "query": "A person stops walking and faces right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1707, 1726]]}
+{"qid": 938, "query": "A person stops walking and hugs another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[965, 1021], [2341, 2476], [2650, 2818]]}
+{"qid": 939, "query": "A person stops walking and leans against a white box", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3257, 3315]]}
+{"qid": 940, "query": "A person stops walking and looks around", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2518, 2594]]}
+{"qid": 941, "query": "A person stops walking and looks behind him", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[209, 223], [234, 412], [500, 535], [576, 652], [843, 904]]}
+{"qid": 942, "query": "A person stops walking and stands for a while", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 1837]]}
+{"qid": 943, "query": "A person stops walking and starts talking with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1505, 3315]]}
+{"qid": 944, "query": "A person stops walking and takes a few steps left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2244, 2553]]}
+{"qid": 945, "query": "A person stops walking and talks with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[450, 698], [1817, 1833], [2668, 2797]]}
+{"qid": 946, "query": "A person stops walking and turns back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2615, 2695]]}
+{"qid": 947, "query": "A person stops walking and turns forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[733, 765]]}
+{"qid": 948, "query": "A person swiftly changes her direction", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[817, 848]]}
+{"qid": 949, "query": "A person takes a few sideways steps", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2025, 2098]]}
+{"qid": 950, "query": "A person takes a few steps backwards", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2619, 2790]]}
+{"qid": 951, "query": "A person takes a few steps forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1714, 1935], [2121, 2220]]}
+{"qid": 952, "query": "A person takes a few steps left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1772, 1815], [3037, 3073]]}
+{"qid": 953, "query": "A person takes a few steps right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1267, 1350], [1401, 1475]]}
+{"qid": 954, "query": "A person takes a few steps sideways", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1274, 1410]]}
+{"qid": 955, "query": "A person takes a few steps to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1544, 1595], [1705, 1780], [3115, 3304]]}
+{"qid": 956, "query": "A person takes a few steps to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[537, 637], [2031, 2159], [2655, 2780]]}
+{"qid": 957, "query": "A person takes a left turn", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3006, 3198]]}
+{"qid": 958, "query": "A person takes a right turn", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[362, 460], [536, 630], [968, 1087]]}
+{"qid": 959, "query": "A person takes a right turn", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[942, 1020]]}
+{"qid": 960, "query": "A person takes a seat", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1876, 1960]]}
+{"qid": 961, "query": "A person takes a step right and starts talking with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1985, 2111]]}
+{"qid": 962, "query": "A person takes a step to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2175, 2201]]}
+{"qid": 963, "query": "A person takes a turn to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[254, 275]]}
+{"qid": 964, "query": "A person takes one step back and turns forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1103, 1126]]}
+{"qid": 965, "query": "A person talks on his phone", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[151, 368], [1511, 2208]]}
+{"qid": 966, "query": "A person talks with another person and shows directions", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2064, 2254]]}
+{"qid": 967, "query": "A person taps on the back of another person with his hand", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[611, 617]]}
+{"qid": 968, "query": "A person throws something in the bin", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[875, 886]]}
+{"qid": 969, "query": "A person throws something in the trash", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[875, 886]]}
+{"qid": 970, "query": "A person throws trash in the bin", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[875, 886]]}
+{"qid": 971, "query": "A person transfers their jacket from right hand to the left", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[280, 300]]}
+{"qid": 972, "query": "A person turns and looks back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2488, 2700]]}
+{"qid": 973, "query": "A person turns around and faces right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2371, 2404]]}
+{"qid": 974, "query": "A person turns around and looks back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[61, 302], [1178, 1230], [1453, 1512], [2854, 2893]]}
+{"qid": 975, "query": "A person turns around and looks forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1996, 2113]]}
+{"qid": 976, "query": "A person turns around and starts walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1075, 1215]]}
+{"qid": 977, "query": "A person turns around and takes a step back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[974, 1090]]}
+{"qid": 978, "query": "A person turns around and walks a few steps back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2701, 2790]]}
+{"qid": 979, "query": "A person turns around and walks back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1717, 1745]]}
+{"qid": 980, "query": "A person turns around and walks back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1067, 1295], [2386, 2526], [3251, 3315]]}
+{"qid": 981, "query": "A person turns back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[666, 715], [839, 907], [1687, 1746], [1834, 2045], [2500, 2540]]}
+{"qid": 982, "query": "A person turns back and looks behind him", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[252, 685], [996, 1090], [1718, 1735], [1931, 2001], [2169, 3315]]}
+{"qid": 983, "query": "A person turns back and looks forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[618, 674], [763, 791], [2825, 2849]]}
+{"qid": 984, "query": "A person turns back and starts walking back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1067, 1295], [3251, 3315]]}
+{"qid": 985, "query": "A person turns back and takes a few steps forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2816, 2893]]}
+{"qid": 986, "query": "A person turns back while walking and looks behind him", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 137], [2111, 2198], [2201, 2216]]}
+{"qid": 987, "query": "A person turns behind him", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 180], [481, 625], [679, 788], [857, 910], [965, 1020], [1659, 1675], [1724, 1763], [1782, 1828], [1964, 1984], [2103, 2230], [2371, 2395]]}
+{"qid": 988, "query": "A person turns forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[55, 74], [275, 309], [1691, 1744], [2187, 2221]]}
+{"qid": 989, "query": "A person turns forward and starts talking with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1769, 2157]]}
+{"qid": 990, "query": "A person turns forward and starts walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1394, 1452]]}
+{"qid": 991, "query": "A person turns forwards and takes a few steps", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[504, 666]]}
+{"qid": 992, "query": "A person turns his head to the left", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[181, 203], [597, 625], [933, 948], [1087, 1095], [1109, 1133], [1157, 1172], [1400, 1430], [1763, 1813], [1992, 2010], [2133, 2147]]}
+{"qid": 993, "query": "A person turns his head to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[291, 316], [682, 762], [1608, 1622], [1761, 1778], [1801, 1830], [1848, 1858], [2381, 2397]]}
+{"qid": 994, "query": "A person turns left while walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2039, 2082]]}
+{"qid": 995, "query": "A person turns right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2371, 2404]]}
+{"qid": 996, "query": "A person turns right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1897, 2057]]}
+{"qid": 997, "query": "A person turns right and start walking in the right direction", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3159, 3315]]}
+{"qid": 998, "query": "A person vanishes from view behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[36, 2405]]}
+{"qid": 999, "query": "A person walking with a child turns back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1179, 1196], [1266, 1290]]}
+{"qid": 1000, "query": "A person walks a few steps back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2699, 2770]]}
+{"qid": 1001, "query": "A person walks backwards", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2077, 2120]]}
+{"qid": 1002, "query": "A person walks behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[36, 2405]]}
+{"qid": 1003, "query": "A person walks in the left direction", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[159, 270], [339, 654], [2254, 2352]]}
+{"qid": 1004, "query": "A person walks in the right direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[362, 460], [536, 630], [968, 1087]]}
+{"qid": 1005, "query": "A person walks in the right direction", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2295, 2460]]}
+{"qid": 1006, "query": "A person walks inside the building in the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1129, 1138], [2133, 2139]]}
+{"qid": 1007, "query": "A person walks on the zebra crossing", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[57, 1640], [1658, 2405]]}
+{"qid": 1008, "query": "A person walks out from behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[589, 616], [739, 759], [967, 1007]]}
+{"qid": 1009, "query": "A person walks to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[159, 270], [339, 654], [2254, 2352]]}
+{"qid": 1010, "query": "A person walks to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1239, 1279], [1866, 1940]]}
+{"qid": 1011, "query": "A person walks to the right direction", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1866, 1940]]}
+{"qid": 1012, "query": "A person waves her hand", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2522, 2594]]}
+{"qid": 1013, "query": "A person wears the backpack on his back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[994, 1025], [1052, 1165]]}
+{"qid": 1014, "query": "An individual disappears behind the white column", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[36, 2405]]}
+{"qid": 1015, "query": "An individual faces right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2371, 2404]]}
+{"qid": 1016, "query": "An individual halts walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 2404]]}
+{"qid": 1017, "query": "An individual lifts her hand to indicate a direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1219, 1270], [1309, 1340], [1448, 1530], [2098, 2165]]}
+{"qid": 1018, "query": "An individual on the wheelchair goes right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1988, 2048]]}
+{"qid": 1019, "query": "An individual proceeds into the building located to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1129, 1138], [2133, 2139]]}
+{"qid": 1020, "query": "An individual sits down", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1876, 1960]]}
+{"qid": 1021, "query": "An individual takes a seat", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1876, 1960]]}
+{"qid": 1022, "query": "An individual turns back and starts walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1717, 1745]]}
+{"qid": 1023, "query": "An individual walking alongside a child faces the opposite direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1179, 1196], [1266, 1290]]}
+{"qid": 1024, "query": "As the person walks, he looks behind him", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 137], [2111, 2198], [2201, 2216]]}
+{"qid": 1025, "query": "During a conversation with another person, a person raises his hands", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2119, 2182]]}
+{"qid": 1026, "query": "The baby carriage goes to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1401, 1475], [1749, 2105]]}
+{"qid": 1027, "query": "The baby carriage moves right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1401, 1475], [1749, 2105]]}
+{"qid": 1028, "query": "The baby carriage stops", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1314, 1402], [1474, 1749]]}
+{"qid": 1029, "query": "The baby comes to a halt", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1314, 1402], [1474, 1749]]}
+{"qid": 1030, "query": "The individual straps the backpack onto their back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[994, 1025], [1052, 1165]]}
+{"qid": 1031, "query": "The person has the backpack placed on his back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[994, 1025], [1052, 1165]]}
+{"qid": 1032, "query": "The person on the wheelchair goes right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1988, 2048]]}
+{"qid": 1033, "query": "The wheelchair goes right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1988, 2048]]}
+{"qid": 1034, "query": "The wheelchair proceeds to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1988, 2048]]}
+{"qid": 1035, "query": "While walking, an individual glances behind him", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 137], [2111, 2198], [2201, 2216]]}
+{"qid": 1036, "query": "A backpack is being carried on the individual's back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[994, 1025], [1052, 1165]]}
+{"qid": 1037, "query": "A child is not visible as he moves behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 1038, "query": "A child vanishes behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 1039, "query": "A child is walking rather than running", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2189, 2254]]}
+{"qid": 1040, "query": "A child passes behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 1041, "query": "A child reduces his speed from running to walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2189, 2254]]}
+{"qid": 1042, "query": "A child begins to walk", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1660, 1932], [1971, 2122]]}
+{"qid": 1043, "query": "A child begins walking at a slower pace", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2189, 2254]]}
+{"qid": 1044, "query": "A child halts running and begins to walk slowly", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2189, 2254]]}
+{"qid": 1045, "query": "A child halts walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1280, 1795], [1933, 1970]]}
+{"qid": 1046, "query": "A child moves behind the white column", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1324, 2405]]}
+{"qid": 1047, "query": "A man arranges his backpack", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[585, 606]]}
+{"qid": 1048, "query": "A man rearranges his bag on his back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[585, 606]]}
+{"qid": 1049, "query": "A man properly positions his backpack", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[585, 606]]}
+{"qid": 1050, "query": "A pedestrian crosses the street on the zebra crossing", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[57, 1640], [1658, 2405]]}
+{"qid": 1051, "query": "A person with a child looks back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1179, 1196], [1266, 1290]]}
+{"qid": 1052, "query": "A person emerges from behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[589, 616], [739, 759], [967, 1007]]}
+{"qid": 1053, "query": "A person starts to sprint", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[502, 549], [1355, 1524], [2093, 2135]]}
+{"qid": 1054, "query": "A person gets another person's attention by touching her", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[386, 440]]}
+{"qid": 1055, "query": "A person examines her mobile device", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[572, 1124]]}
+{"qid": 1056, "query": "A person gets up onto and sits on the white box structure", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2286, 2420]]}
+{"qid": 1057, "query": "A person goes back from behind the white column", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[589, 616], [739, 759], [967, 1007]]}
+{"qid": 1058, "query": "A person goes back from behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[589, 616], [739, 759], [967, 1007]]}
+{"qid": 1059, "query": "A person chats with a group of people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2100, 2627]]}
+{"qid": 1060, "query": "A person talks with another individual", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1517, 1715], [2496, 2752]]}
+{"qid": 1061, "query": "A person slows down while running", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[927, 948]]}
+{"qid": 1062, "query": "A person vanishes behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[36, 2405]]}
+{"qid": 1063, "query": "A person takes a drink from a bottle", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1930, 1981]]}
+{"qid": 1064, "query": "A person has a conversation with someone else", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1517, 1715], [2496, 2752]]}
+{"qid": 1065, "query": "A person talks with a group of individuals", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2100, 2627]]}
+{"qid": 1066, "query": "A person chats with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2379, 2838]]}
+{"qid": 1067, "query": "A person converses with other people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2105, 3315]]}
+{"qid": 1068, "query": "A person walks into the building on the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1129, 1138], [2133, 2139]]}
+{"qid": 1069, "query": "A person looks straight ahead", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[55, 74], [275, 309], [1691, 1744], [2187, 2221], [2704, 2740]]}
+{"qid": 1070, "query": "A person turns to the right and starts speaking with someone", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2480, 2750]]}
+{"qid": 1071, "query": "A person looks over their shoulder", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 180], [481, 625], [679, 788], [857, 910], [965, 1020], [1659, 1675], [1724, 1763], [1782, 1828], [1964, 1984], [2103, 2230], [2371, 2395]]}
+{"qid": 1072, "query": "A person takes a quick look to the left side", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[181, 203], [597, 625], [933, 948], [1087, 1095], [1109, 1133], [1157, 1172], [1400, 1430], [1763, 1813], [1992, 2010], [2133, 2147]]}
+{"qid": 1073, "query": "A person takes a quick look to the right side", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[291, 316], [682, 762], [1608, 1622], [1761, 1778], [1801, 1830], [1848, 1858], [2170, 2206], [2381, 2397]]}
+{"qid": 1074, "query": "A person moves to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[159, 270], [339, 654], [2254, 2352]]}
+{"qid": 1075, "query": "A person shifts to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[995, 1090]]}
+{"qid": 1076, "query": "A person shifts to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1239, 1279], [1866, 1940]]}
+{"qid": 1077, "query": "A person stops briefly and changes direction while walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[24, 36]]}
+{"qid": 1078, "query": "A person pauses their walk and stays still for a moment", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 1837]]}
+{"qid": 1079, "query": "A person grasps another person's hand", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[753, 807]]}
+{"qid": 1080, "query": "A person gives another individual a hug", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[24, 83], [1831, 1857], [1885, 1905], [1925, 1984], [2022, 2055], [2341, 2476], [2524, 2598], [2653, 3315]]}
+{"qid": 1081, "query": "A person embraces someone else", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[24, 83], [1831, 1857], [1885, 1905], [1925, 1984], [2022, 2055], [2341, 2476], [2524, 2598], [2653, 3315]]}
+{"qid": 1082, "query": "A person starts walking to the right after standing still", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[995, 1090]]}
+{"qid": 1083, "query": "A person bends down to speak with a child", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1529, 1621]]}
+{"qid": 1084, "query": "A person raises her hands as she walks", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[32, 95], [206, 260]]}
+{"qid": 1085, "query": "A person raises her hands while taking a stroll", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[32, 95], [206, 260]]}
+{"qid": 1086, "query": "A person glances and gestures to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2032, 2050]]}
+{"qid": 1087, "query": "A person surveys their surroundings", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2284, 2325]]}
+{"qid": 1088, "query": "A person surveys their surroundings", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1240, 1307]]}
+{"qid": 1089, "query": "A person looks behind", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 180], [481, 625], [679, 788], [857, 910], [965, 1020], [1659, 1675], [1724, 1763], [1782, 1828], [1964, 1984], [2103, 2230], [2371, 2395]]}
+{"qid": 1090, "query": "A person looks behind", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[666, 715], [790, 954], [1374, 1384], [1687, 1746], [1795, 1810], [1834, 2045], [2500, 2540]]}
+{"qid": 1091, "query": "A person looks back and halts", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[822, 904]]}
+{"qid": 1092, "query": "A person glances over his shoulder", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 180], [481, 625], [679, 788], [857, 910], [965, 1020], [1659, 1675], [1724, 1763], [1782, 1828], [1964, 1984], [2103, 2230], [2371, 2395]]}
+{"qid": 1093, "query": "A person glances over his shoulder", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[103, 131], [217, 391], [459, 535], [546, 652], [843, 895], [977, 1019], [1083, 1103], [2367, 2410]]}
+{"qid": 1094, "query": "A person looks back to the right side", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1345, 1395], [1478, 1679]]}
+{"qid": 1095, "query": "A person gazes ahead", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[562, 600], [985, 1001], [1413, 1569]]}
+{"qid": 1096, "query": "A person scans his surroundings", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2284, 2325]]}
+{"qid": 1097, "query": "A person glances to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[305, 318], [346, 376], [388, 448], [516, 570], [693, 702], [838, 890], [897, 939], [1009, 1030], [1240, 1250]]}
+{"qid": 1098, "query": "A person glances to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[97, 168], [177, 490], [576, 615], [755, 768], [975, 993], [1255, 1295], [1853, 1890], [2094, 2110], [2244, 2282]]}
+{"qid": 1099, "query": "A person glances to his left", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[181, 203], [597, 625], [933, 948], [1087, 1095], [1109, 1133], [1157, 1172], [1400, 1430], [1763, 1813], [1992, 2010], [2133, 2147]]}
+{"qid": 1100, "query": "A person glances to his right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[291, 316], [682, 762], [1608, 1622], [1761, 1778], [1801, 1830], [1848, 1858], [2381, 2397]]}
+{"qid": 1101, "query": "A person makes a U-turn and heads in the opposite direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1717, 1745]]}
+{"qid": 1102, "query": "A person steps out from behind another individual and walks beside them", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[242, 277]]}
+{"qid": 1103, "query": "A person shifts her jacket from one hand to the other", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[280, 300]]}
+{"qid": 1104, "query": "A person adjusts her shoulder to dodge another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[351, 367]]}
+{"qid": 1105, "query": "A person moves in the right direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[362, 460], [536, 630], [968, 1087]]}
+{"qid": 1106, "query": "A person places both hands on his head", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[560, 789]]}
+{"qid": 1107, "query": "A person sets aside his phone and glances upwards", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2242, 2275]]}
+{"qid": 1108, "query": "A person places her hands behind her back to manage the bag", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1944, 2005]]}
+{"qid": 1109, "query": "A person rests his hand on another person's shoulder", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[114, 139], [215, 295]]}
+{"qid": 1110, "query": "A person stows the phone away", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1934, 1977]]}
+{"qid": 1111, "query": "A person puts a hand up to indicate a direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1219, 1270], [1309, 1340], [1448, 1530], [2098, 2165]]}
+{"qid": 1112, "query": "A person lifts her hand", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[65, 209], [1031, 1390], [1418, 1489], [1798, 1816], [2074, 2408], [2975, 3052]]}
+{"qid": 1113, "query": "A person lifts her hands and moves them", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3106, 3132]]}
+{"qid": 1114, "query": "A person lifts her hand to guide others to walk", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1219, 1270], [1309, 1340], [1448, 1530], [2098, 2165]]}
+{"qid": 1115, "query": "A person lifts her hands while walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[32, 95], [206, 260]]}
+{"qid": 1116, "query": "A person lifts his hand", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1469, 1520], [3070, 3107]]}
+{"qid": 1117, "query": "A person lifts his hand and converses with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2372, 2841]]}
+{"qid": 1118, "query": "A person lifts his hand while speaking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1711, 1775], [1827, 1862]]}
+{"qid": 1119, "query": "A person lifts his hands", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[19, 51], [332, 363], [634, 660], [1032, 1056], [1389, 1404], [1886, 1915]]}
+{"qid": 1120, "query": "A person lifts his hands while talking to someone else", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2119, 2182]]}
+{"qid": 1121, "query": "A person lifts his hands as he walks", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1, 45], [66, 154]]}
+{"qid": 1122, "query": "A person decreases his running speed", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[927, 948]]}
+{"qid": 1123, "query": "A person changes direction and begins walking back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1717, 1745]]}
+{"qid": 1124, "query": "A person turns and faces right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2371, 2404]]}
+{"qid": 1125, "query": "A person handshakes with another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[13, 25], [157, 184]]}
+{"qid": 1126, "query": "A person moves their jacket from one hand to the other", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[280, 300]]}
+{"qid": 1127, "query": "A person slows his running pace", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[927, 948]]}
+{"qid": 1128, "query": "A person reduces his walking speed and glances back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[977, 1024]]}
+{"qid": 1129, "query": "A person reduces his pace while walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3230, 3261]]}
+{"qid": 1130, "query": "A person rises from their seat", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1867, 1940]]}
+{"qid": 1131, "query": "A person begins a chat with others", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1250, 1425]]}
+{"qid": 1132, "query": "A person begins examining his phone", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[84, 1932], [2276, 2348]]}
+{"qid": 1133, "query": "A person commences running", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[502, 549], [1355, 1524], [2093, 2135]]}
+{"qid": 1134, "query": "A person takes a few steps and begins talking with someone else", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2204, 3315]]}
+{"qid": 1135, "query": "A person chats with another individual while walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1695, 2175]]}
+{"qid": 1136, "query": "A person begins conversing with a group", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2524, 3192]]}
+{"qid": 1137, "query": "A person begins to drink from a bottle", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1930, 1981]]}
+{"qid": 1138, "query": "A person begins to run", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[502, 549], [1355, 1524], [2093, 2135]]}
+{"qid": 1139, "query": "A person begins moving to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[995, 1090]]}
+{"qid": 1140, "query": "A person begins walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[114, 3315]]}
+{"qid": 1141, "query": "A person accelerates their pace", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2187, 2238]]}
+{"qid": 1142, "query": "A person walks in the correct direction", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1354, 1460]]}
+{"qid": 1143, "query": "A person walks toward the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1042, 1681]]}
+{"qid": 1144, "query": "A person halts briefly", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 1837]]}
+{"qid": 1145, "query": "A person ceases walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 2404]]}
+{"qid": 1146, "query": "A person ceases walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[27, 45], [148, 3315]]}
+{"qid": 1147, "query": "A person halts walking and chats with another individual", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2026, 2135]]}
+{"qid": 1148, "query": "A person halts walking and engages in a chat with someone else", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[965, 1021]]}
+{"qid": 1149, "query": "A person pauses walking and talks with a group of people", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[472, 1119], [2926, 2990]]}
+{"qid": 1150, "query": "A person halts walking and looks back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1596, 1650], [2021, 2075]]}
+{"qid": 1151, "query": "A person halts walking and turns to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1308, 1482], [1969, 2005]]}
+{"qid": 1152, "query": "A person halts walking and turns to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1707, 1726]]}
+{"qid": 1153, "query": "A person halts walking to hug someone", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[965, 1021], [2341, 2476], [2650, 2818]]}
+{"qid": 1154, "query": "A person halts walking and leans against a white box", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3257, 3315]]}
+{"qid": 1155, "query": "A person halts walking and observes the surroundings", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2518, 2594]]}
+{"qid": 1156, "query": "A person halts walking and glances behind him", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[209, 223], [234, 412], [500, 535], [576, 652], [843, 904]]}
+{"qid": 1157, "query": "A person halts walking and remains still for a moment", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 1837]]}
+{"qid": 1158, "query": "A person halts walking and begins talking with another individual", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1505, 3315]]}
+{"qid": 1159, "query": "A person halts walking and takes a few steps to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2244, 2553]]}
+{"qid": 1160, "query": "A person halts walking to converse with someone", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[450, 698], [1817, 1833], [2668, 2797]]}
+{"qid": 1161, "query": "A person halts walking and turns back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2615, 2695]]}
+{"qid": 1162, "query": "A person halts and faces forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[733, 765]]}
+{"qid": 1163, "query": "A person quickly alters her course", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[817, 848]]}
+{"qid": 1164, "query": "A person makes a few steps to the side", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2025, 2098]]}
+{"qid": 1165, "query": "A person retreats a few steps", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2619, 2790]]}
+{"qid": 1166, "query": "A person advances a few steps", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1714, 1935], [2121, 2220]]}
+{"qid": 1167, "query": "A person moves a few steps to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1544, 1595], [1705, 1815], [3037, 3073], [3115, 3304]]}
+{"qid": 1168, "query": "A person shifts a few steps to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1267, 1350], [1401, 1475]]}
+{"qid": 1169, "query": "A person walks sideways a few steps", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1274, 1410]]}
+{"qid": 1170, "query": "A person moves a few steps to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[537, 637], [2031, 2159], [2655, 2780]]}
+{"qid": 1171, "query": "A person turns to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3006, 3198]]}
+{"qid": 1172, "query": "A person turns to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[362, 460], [536, 630], [968, 1087]]}
+{"qid": 1173, "query": "A person turns to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[942, 1020]]}
+{"qid": 1174, "query": "A person shifts to the right and starts conversing with another individual", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1985, 2111]]}
+{"qid": 1175, "query": "A person steps to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2175, 2201]]}
+{"qid": 1176, "query": "A person turns left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[254, 275]]}
+{"qid": 1177, "query": "A person steps back and then faces forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1103, 1126]]}
+{"qid": 1178, "query": "A person converses on his phone", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[151, 368], [1511, 2208]]}
+{"qid": 1179, "query": "A person chats with someone and indicates directions", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2064, 2254]]}
+{"qid": 1180, "query": "A person gives a light tap on the back of another person", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[611, 617]]}
+{"qid": 1181, "query": "A person discards something in the bin", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[875, 886]]}
+{"qid": 1182, "query": "A person tosses an item into the trash", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[875, 886]]}
+{"qid": 1183, "query": "A person places litter in the bin", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[875, 886]]}
+{"qid": 1184, "query": "A person shifts their jacket from their right hand to their left", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[280, 300]]}
+{"qid": 1185, "query": "A person rotates and glances back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2488, 2700]]}
+{"qid": 1186, "query": "A person pivots and faces to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2371, 2404]]}
+{"qid": 1187, "query": "A person pivots and checks behind", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[61, 302], [1178, 1230], [1453, 1512], [2854, 2893]]}
+{"qid": 1188, "query": "A person pivots and looks ahead", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1996, 2113]]}
+{"qid": 1189, "query": "A person rotates and begins to walk", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1075, 1215]]}
+{"qid": 1190, "query": "A person pivots and steps back", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[974, 1090]]}
+{"qid": 1191, "query": "A person pivots and takes a few steps backward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2701, 2790]]}
+{"qid": 1192, "query": "A person pivots and retraces their steps", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1717, 1745]]}
+{"qid": 1193, "query": "A person pivots and retraces their steps", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1067, 1295], [2386, 2526], [3251, 3315]]}
+{"qid": 1194, "query": "A person turns around and glances behind", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[252, 685], [996, 1090], [1718, 1735], [1931, 2001], [2169, 3315]]}
+{"qid": 1195, "query": "A person turns around and faces ahead", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[618, 674], [763, 791], [2825, 2849]]}
+{"qid": 1196, "query": "A person turns around and moves a few steps forward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2816, 2893]]}
+{"qid": 1197, "query": "A person turns while walking and looks behind", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 137], [2111, 2198], [2201, 2216]]}
+{"qid": 1198, "query": "A person turns to check behind", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 180], [481, 625], [679, 788], [857, 910], [965, 1020], [1659, 1675], [1724, 1763], [1782, 1828], [1964, 1984], [2103, 2230], [2371, 2395]]}
+{"qid": 1199, "query": "A person faces forward and begins speaking with another individual", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1769, 2157]]}
+{"qid": 1200, "query": "A person faces forward and begins walking", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1394, 1452]]}
+{"qid": 1201, "query": "A person faces forward and walks a few steps", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[504, 666]]}
+{"qid": 1202, "query": "A person tilts his head to the left", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[181, 203], [597, 625], [933, 948], [1087, 1095], [1109, 1133], [1157, 1172], [1400, 1430], [1763, 1813], [1992, 2010], [2133, 2147]]}
+{"qid": 1203, "query": "A person tilts his head to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[291, 316], [682, 762], [1608, 1622], [1761, 1778], [1801, 1830], [1848, 1858], [2381, 2397]]}
+{"qid": 1204, "query": "A person makes a left turn as they walk", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2039, 2082]]}
+{"qid": 1205, "query": "A person makes a right turn", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2371, 2404]]}
+{"qid": 1206, "query": "A person makes a right turn", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1897, 2057]]}
+{"qid": 1207, "query": "A person makes a right turn and begins walking in the right direction", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[3159, 3315]]}
+{"qid": 1208, "query": "A person disappears from sight behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[36, 2405]]}
+{"qid": 1209, "query": "A person moving with a child turns around", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1179, 1196], [1266, 1290]]}
+{"qid": 1210, "query": "A person moves a few steps backward", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2699, 2770]]}
+{"qid": 1211, "query": "A person moves in reverse", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2077, 2120]]}
+{"qid": 1212, "query": "A person moves behind the white structure", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[36, 2405]]}
+{"qid": 1213, "query": "A person heads to the left", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[159, 270], [339, 654], [2254, 2352]]}
+{"qid": 1214, "query": "A person heads to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[362, 460], [536, 630], [968, 1087]]}
+{"qid": 1215, "query": "A person heads to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[2295, 2460]]}
+{"qid": 1216, "query": "A person goes across the zebra crossing", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[57, 1640], [1658, 2405]]}
+{"qid": 1217, "query": "A person moves to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1239, 1279], [1866, 1940]]}
+{"qid": 1218, "query": "A person walks towards the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1866, 1940]]}
+{"qid": 1219, "query": "A person carries the backpack on his back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[994, 1025], [1052, 1165]]}
+{"qid": 1220, "query": "An individual vanishes behind the white column", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[36, 2405]]}
+{"qid": 1221, "query": "An individual turns to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2371, 2404]]}
+{"qid": 1222, "query": "An individual stops walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[330, 460], [491, 662], [1790, 2404]]}
+{"qid": 1223, "query": "An individual raises her hand to signal a direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1219, 1270], [1309, 1340], [1448, 1530], [2098, 2165]]}
+{"qid": 1224, "query": "A person in a wheelchair moves to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1988, 2048]]}
+{"qid": 1225, "query": "An individual enters the building situated to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1129, 1138], [2133, 2139]]}
+{"qid": 1226, "query": "An individual turns around and begins walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1717, 1745]]}
+{"qid": 1227, "query": "An individual moving with a child turns to face the opposite direction", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1179, 1196], [1266, 1290]]}
+{"qid": 1228, "query": "The person glances over his shoulder while walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 137], [2111, 2198], [2201, 2216]]}
+{"qid": 1229, "query": "During a discussion with another individual, a person raises his hands", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[2119, 2182]]}
+{"qid": 1230, "query": "The baby carriage moves to the right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1401, 1475], [1749, 2105]]}
+{"qid": 1231, "query": "The baby carriage shifts right", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1401, 1475], [1749, 2105]]}
+{"qid": 1232, "query": "The baby carriage comes to a stop", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1314, 1402], [1474, 1749]]}
+{"qid": 1233, "query": "The baby halts", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[1314, 1402], [1474, 1749]]}
+{"qid": 1234, "query": "The individual secures the backpack onto their back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[994, 1025], [1052, 1165]]}
+{"qid": 1235, "query": "The person has the backpack positioned on his back", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[994, 1025], [1052, 1165]]}
+{"qid": 1236, "query": "The individual in the wheelchair turns right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1988, 2048]]}
+{"qid": 1237, "query": "The wheelchair moves to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1988, 2048]]}
+{"qid": 1238, "query": "The wheelchair advances to the right", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[1988, 2048]]}
+{"qid": 1239, "query": "An individual looks back while walking", "duration": 2406, "vid": "MOT20-03_0.0_2406.0", "relevant_windows": [[95, 137], [2111, 2198], [2201, 2216]]}
+{"qid": 1240, "query": "A person takes a quick look to the left side", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[305, 318], [346, 376], [388, 448], [516, 570], [693, 702], [838, 890], [897, 939], [1009, 1030], [1240, 1250]]}
+{"qid": 1241, "query": "A person takes a quick look to the right side", "duration": 3316, "vid": "MOT20-05_0.0_3316.0", "relevant_windows": [[97, 168], [177, 490], [576, 615], [755, 768], [975, 993], [1255, 1295], [1853, 1890], [2094, 2110], [2244, 2282]]}

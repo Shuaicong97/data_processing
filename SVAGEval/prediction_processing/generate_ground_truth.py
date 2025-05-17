@@ -226,13 +226,12 @@ def generate_submission(video_info_path, annotation_path, spatial_root_dir, outp
         json.dump(submission, f, separators=(',', ':'))
 
 
-def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, output_path):
+def generate_queries_for_dataset(video_info_path, annotation_path, spatial_root_dir, dataset_name):
     video_lengths = load_video_lengths(video_info_path)
     annotations = load_annotations(annotation_path)
     temporal_lookup = build_temporal_lookup(annotation_path)
     temporal_lookup_by_query = build_temporal_lookup_by_query(annotation_path)
 
-    submission = {"queries": []}
     video_id_map = {}
     next_video_id = 1
     track_map = {}
@@ -283,6 +282,7 @@ def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, ou
                     "temporal": [temporal]
                 }
 
+    print('处理完annotations，合并中。。。')
     # 合并为唯一的 queries 结构
     merged_tracks = {**track_map, **filled_tracks}
     query_group = {}
@@ -303,11 +303,25 @@ def generate_submission_2(video_info_path, annotation_path, spatial_root_dir, ou
             "temporal": track_info["temporal"]
         })
 
-    submission["queries"] = list(query_group.values())
+    return {
+        "name": dataset_name,
+        "queries": list(query_group.values())
+    }
+
+def generate_all_datasets_submission(configs, output_path):
+    datasets = []
+    for config in configs:
+        dataset = generate_queries_for_dataset(
+            video_info_path=config["video_info_path"],
+            annotation_path=config["annotation_path"],
+            spatial_root_dir=config["spatial_root_dir"],
+            dataset_name=config["name"]
+        )
+        datasets.append(dataset)
+        print('处理完一个config。')
 
     with open(output_path, 'w') as f:
-        json.dump(submission, f, separators=(',', ':'))
-
+        json.dump({"datasets": datasets}, f, separators=(',', ':'))
 
 # 示例调用
 if __name__ == "__main__":
@@ -318,11 +332,28 @@ if __name__ == "__main__":
     #     spatial_root_dir='/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data_processing/svag_evaluation/ovis-gt/valid',
     #     output_path='ovis_valid_ground_truth.json'
     # )
-    generate_submission_2(
-        video_info_path='../../OVIS/video_info_valid.json',
-        annotation_path='../../Rephrased data/OVIS-valid-doubled.json',
-        spatial_root_dir='/Users/shuaicongwu/Documents/study/Master/MA/MA-MOT/data_processing/svag_evaluation/ovis-gt/valid',
-        output_path='ovis_valid_ground_truth.json'
-    )
+
+    configs = [
+        {
+            "name": "OVIS",
+            "video_info_path": "/Users/shuaicongwu/PycharmProjects/data_processing/OVIS/video_info_valid.json",
+            "annotation_path": "/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased_data_with_qid/OVIS-valid-doubled_qid.json",
+            "spatial_root_dir": "/Users/shuaicongwu/PycharmProjects/data_processing/SVAGEval/gt-per-query/ovis/valid"
+        },
+        {
+            "name": "MOT17",
+            "video_info_path": "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/video_mot.json",
+            "annotation_path": "/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased_data_with_qid/MOT17-valid-doubled_qid.json",
+            "spatial_root_dir": "/Users/shuaicongwu/PycharmProjects/data_processing/SVAGEval/gt-per-query/mot17/valid"
+        },
+        {
+            "name": "MOT20",
+            "video_info_path": "/Users/shuaicongwu/PycharmProjects/data_processing/MOT/video_mot.json",
+            "annotation_path": "/Users/shuaicongwu/PycharmProjects/data_processing/Rephrased_data_with_qid/MOT20-valid-doubled_qid.json",
+            "spatial_root_dir": "/Users/shuaicongwu/PycharmProjects/data_processing/SVAGEval/gt-per-query/mot20/valid"
+        }
+    ]
+
+    generate_all_datasets_submission(configs, output_path='valid_all_ground_truth.json')
     end_time = time.time()
     print(f"Submission generated in {end_time - start_time:.2f} seconds.")

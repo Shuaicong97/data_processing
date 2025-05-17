@@ -44,12 +44,12 @@ def count_sum_of_json_objects(path_list):
         sum += count_of_json_objects(file)
     return sum
 
-# MOT17: 775+698=1473, MOT20: 2275+1670=3975, OVIS: 3685+678=4363
+# MOT17: 775+698=1473, MOT20: 2275+1670=3945, OVIS: 3685+678=4363
 # SUM: 9781 #Tracks
-# print(f'original 文件对象总数是：{count_sum_of_json_objects(original)}')
+print(f'original 文件对象总数是：{count_sum_of_json_objects(original)}')
 # MOT17: 1538+1397=2935, MOT20: 4544+3403=7947, OVIS: 7352+1356=8708
 # SUM: 19590 #Queries
-# print(f'original 文件对象总数是：{count_sum_of_json_objects(rephrased)}')
+# print(f'rephrased 文件对象总数是：{count_sum_of_json_objects(rephrased)}')
 
 def count_number_of_videos(file_path):
     with open(file_path, 'r') as f:
@@ -81,7 +81,7 @@ def get_all_unique_queries(file_paths):
                 unique_queries.add(item['Language Query'])
     return unique_queries
 
-unique_queries_all = get_all_unique_queries(rephrased)
+unique_queries_all = get_all_unique_queries(original)
 unique_queries_mot17 = get_all_unique_queries(paths_mot17)
 unique_queries_mot20 = get_all_unique_queries(paths_mot20)
 unique_queries_ovis = get_all_unique_queries(paths_ovis)
@@ -186,6 +186,7 @@ def get_verb_and_frequency_from_sentences(dataset, sentences, output_file_path):
     print("Data saved to:", output_file_path)
 
 # 在结果处手动添加 {"sprints": 6, "brushes": 2}到all和ovis => 900 不要再次运行啦！以免达不到900
+get_verb_and_frequency_from_sentences('all', unique_queries_all, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all-original.json') # 898->900 1-903
 # get_verb_and_frequency_from_sentences('all', unique_queries_all, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all-1.json') # 898->900 1-903
 # get_verb_and_frequency_from_sentences('mot17', unique_queries_mot17, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot17-1.json') # 260 1-263
 # get_verb_and_frequency_from_sentences('mot20', unique_queries_mot20, '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_mot20-1.json') # 212 1-214
@@ -254,9 +255,9 @@ def convert_verbs_to_base(json_file, output_file, output_path):
     # plt.show()
 
 
-convert_verbs_to_base('/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all-1.json',
-                      '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_base_all.json',
-                      '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/top50_verbs.png')
+# convert_verbs_to_base('/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all-1.json',
+#                       '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_base_all.json',
+#                       '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/top50_verbs.png')
 
 # word cloud
 verbs_ours_all = '/Users/shuaicongwu/PycharmProjects/data_processing/results/verbs/verbs_ours_all-1.json'
@@ -280,8 +281,8 @@ def draw_wordcloud(input_path, output_path):
     # plt.show()
 
 
-draw_wordcloud(verbs_ours_all, '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/wordcloud_ours_all.png')
-draw_wordcloud(verbs_mot17, '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/wordcloud_mot17.png')
-draw_wordcloud(verbs_mot20, '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/wordcloud_mot20.png')
-draw_wordcloud(verbs_ovis, '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/wordcloud_ovis.png')
+# draw_wordcloud(verbs_ours_all, '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/wordcloud_ours_all.png')
+# draw_wordcloud(verbs_mot17, '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/wordcloud_mot17.png')
+# draw_wordcloud(verbs_mot20, '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/wordcloud_mot20.png')
+# draw_wordcloud(verbs_ovis, '/Users/shuaicongwu/PycharmProjects/data_processing/results/visualization/wordcloud_ovis.png')
 
